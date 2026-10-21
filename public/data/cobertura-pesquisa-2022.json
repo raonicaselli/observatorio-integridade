@@ -5,8 +5,9 @@
     "atualizadoEm": "2026-10-21",
     "regra": "Triagem inicial significa somente consulta documental pontual: não é auditoria completa nem certificação de ausência de ocorrências.",
     "total": 234,
-    "triagemInicial": 8,
-    "revisaoConcluida": 0
+    "triagemInicial": 5,
+    "revisaoConcluida": 0,
+    "emRevisao": 3
   },
   "registros": [
     {
@@ -473,7 +474,7 @@
       "uf": "RJ",
       "cargo": "GOVERNADOR",
       "nome": "CLÁUDIO BOMFIM DE CASTRO E SILVA",
-      "estado": "triagem_inicial",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
       "atualizadoEm": "2026-10-21"
     },
@@ -878,7 +879,7 @@
       "uf": "MA",
       "cargo": "DEPUTADO FEDERAL",
       "nome": "GILDENEMIR DE LIMA SOUSA",
-      "estado": "triagem_inicial",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
       "atualizadoEm": "2026-10-21"
     },
@@ -1256,7 +1257,7 @@
       "uf": "MA",
       "cargo": "DEPUTADO FEDERAL",
       "nome": "JOSIMAR CUNHA RODRIGUES",
-      "estado": "triagem_inicial",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
       "atualizadoEm": "2026-10-21"
     },
