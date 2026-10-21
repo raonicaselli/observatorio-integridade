@@ -2,7 +2,7 @@
   "metadados": {
     "versao": 1,
     "atualizadoEm": "2026-10-21",
-    "total": 5,
+    "total": 8,
     "escopo": "Ocorrências documentadas em fontes oficiais, aprovadas para exibição com ressalvas explícitas sobre recursos e desfechos.",
     "aviso": "Uma listagem vazia significa apenas que nenhuma ocorrência foi publicada nesta versão; não prova ausência de registros ou antecedentes."
   },
@@ -206,6 +206,147 @@
       ],
       "revisao": {
         "responsavel": "Mantenedor do Observatório — autorização editorial delegada; revisão documental assistida por IA",
+        "data": "2026-10-21",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      }
+    },
+    {
+      "idCaso": "stf-pet-14918-galho-fraco",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "investigacao_oficial",
+      "categoria": "penal",
+      "situacaoProcessual": "investigacao",
+      "dataMarco": "2025-12-19",
+      "periodoFatos": "Contratos de locação de veículos e despesas de cota parlamentar analisados pela PF, período exato em apuração",
+      "partidoNosFatos": "PL na época das diligências de dezembro de 2025",
+      "orgao": "Supremo Tribunal Federal / Polícia Federal",
+      "processoNumero": "PET 14918 (STF)",
+      "dataRevisao": "2026-10-21",
+      "limites": "A existência de investigação, buscas e apreensões não comprova crime, denúncia recebida ou condenação. A fase Galho Fraco II de julho de 2026 teve alvos distintos; não atribuir automaticamente novos mandados a esses deputados. Não foi identificado desfecho conclusivo posterior nesta pesquisa.",
+      "fontes": [
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-apreensoes-e-quebra-de-sigilos-em-investigacao-sobre-uso-irregular-de-cota-parlamentar/",
+          "titulo": "STF autoriza buscas, apreensões e quebra de sigilos na PET 14918",
+          "instituicao": "Supremo Tribunal Federal",
+          "tipo": "oficial"
+        },
+        {
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/movimentacoes-suspeitas-envolvendo-sostenes-e-jordy-somam-r-286-mi",
+          "titulo": "Agência Brasil: operação Galho Fraco e manifestações",
+          "instituicao": "Agência Brasil",
+          "tipo": "imprensa"
+        },
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
+          "titulo": "STF autoriza novas diligências na PET 16072 em julho de 2026",
+          "instituicao": "Supremo Tribunal Federal",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Revisão documental assistida por IA sob autorização editorial do mantenedor",
+        "data": "2026-10-21",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      },
+      "id": "stf-pet14918-sostenes-2025",
+      "candidaturaId": "190001596769",
+      "titulo": "Sóstenes Cavalcante integra investigação da PF sobre uso da cota parlamentar",
+      "resumo": "Em 19/12/2025, o STF informou que Sóstenes Cavalcante e Carlos Jordy figuravam entre os investigados na PET 14918, relativa a suspeitas de desvio de recursos da cota parlamentar mediante contratos de locação de veículos. A PF cumpriu mandados de busca e apreensão. Uma nova fase da operação ocorreu em julho de 2026, mas Sóstenes não foi apontado como alvo dos novos mandados.",
+      "descricaoSituacao": "Investigação documentada pelo STF em 19/12/2025. Houve novos desdobramentos operacionais em julho de 2026 envolvendo outras pessoas; não identificada decisão de mérito contra o deputado.",
+      "posicionamentoEnvolvido": "Sóstenes negou irregularidades, classificou a investigação como perseguição política e afirmou que dinheiro em espécie apreendido em endereço ligado a ele provinha da venda de imóvel."
+    },
+    {
+      "idCaso": "stf-pet-14918-galho-fraco",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "investigacao_oficial",
+      "categoria": "penal",
+      "situacaoProcessual": "investigacao",
+      "dataMarco": "2025-12-19",
+      "periodoFatos": "Contratos de locação de veículos e despesas de cota parlamentar analisados pela PF, período exato em apuração",
+      "partidoNosFatos": "PL na época das diligências de dezembro de 2025",
+      "orgao": "Supremo Tribunal Federal / Polícia Federal",
+      "processoNumero": "PET 14918 (STF)",
+      "dataRevisao": "2026-10-21",
+      "limites": "A existência de investigação, buscas e apreensões não comprova crime, denúncia recebida ou condenação. A fase Galho Fraco II de julho de 2026 teve alvos distintos; não atribuir automaticamente novos mandados a esses deputados. Não foi identificado desfecho conclusivo posterior nesta pesquisa.",
+      "fontes": [
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-apreensoes-e-quebra-de-sigilos-em-investigacao-sobre-uso-irregular-de-cota-parlamentar/",
+          "titulo": "STF autoriza buscas, apreensões e quebra de sigilos na PET 14918",
+          "instituicao": "Supremo Tribunal Federal",
+          "tipo": "oficial"
+        },
+        {
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/movimentacoes-suspeitas-envolvendo-sostenes-e-jordy-somam-r-286-mi",
+          "titulo": "Agência Brasil: operação Galho Fraco e manifestações",
+          "instituicao": "Agência Brasil",
+          "tipo": "imprensa"
+        },
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
+          "titulo": "STF autoriza novas diligências na PET 16072 em julho de 2026",
+          "instituicao": "Supremo Tribunal Federal",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Revisão documental assistida por IA sob autorização editorial do mantenedor",
+        "data": "2026-10-21",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      },
+      "id": "stf-pet14918-jordy-2025",
+      "candidaturaId": "190001596781",
+      "titulo": "Carlos Jordy integra investigação da PF sobre uso da cota parlamentar",
+      "resumo": "Em 19/12/2025, o STF informou que Carlos Jordy e Sóstenes Cavalcante estavam entre os investigados na PET 14918, que apura suspeitas de desvio de recursos da cota parlamentar por meio de contratos de locação de veículos. Foram autorizados mandados de busca e apreensão. O caso é independente de outras investigações envolvendo Jordy.",
+      "descricaoSituacao": "Investigação documentada pelo STF em dezembro de 2025. Não foi identificada decisão conclusiva ou denúncia recebida contra o deputado neste caso na pesquisa realizada.",
+      "posicionamentoEnvolvido": "Carlos Jordy negou participação em esquema ilegal e afirmou ser vítima de perseguição política."
+    },
+    {
+      "id": "stf-makeup-mario-frias-2026",
+      "idCaso": "stf-operacao-makeup-2026",
+      "candidaturaId": "250001611324",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "investigacao_oficial",
+      "categoria": "penal",
+      "situacaoProcessual": "investigacao",
+      "titulo": "Mario Frias é investigado na Operação Make Up sobre destinação de emendas",
+      "resumo": "O STF autorizou buscas em endereços de investigados, incluindo o deputado Mario Frias, na Operação Make Up, deflagrada pela PF em 10/09/2026. A investigação apura suspeitas de desvio de recursos de emendas destinadas a entidades privadas. A polícia e a CGU investigam possíveis fraudes contratuais e circulação de recursos entre empresas. A apuração não representa comprovação dos delitos.",
+      "descricaoSituacao": "Operação policial e medidas de busca e apreensão autorizadas pelo STF em 10/09/2026. Não foi confirmada denúncia recebida ou condenação nesse episódio.",
+      "limites": "Não foi comprovado por decisão judicial definitiva que emendas tenham financiado o filme Dark Horse; a própria cobertura da Agência Brasil ressalva que a cadeia financeira investigada não estabelece origem direta dos valores. Não foi localizado resultado conclusivo posterior à operação.",
+      "posicionamentoEnvolvido": "Mario Frias negou irregularidades e declarou que os recursos destinados a projetos sociais tinham finalidades públicas legítimas.",
+      "dataMarco": "2026-09-10",
+      "periodoFatos": "Destinação e execução de emendas parlamentares analisadas pela PF, com movimentações examinadas até julho de 2026",
+      "partidoNosFatos": "PL no período da operação; filiação na data de cada fato não apurada integralmente",
+      "orgao": "Supremo Tribunal Federal / Polícia Federal / Controladoria-Geral da União",
+      "processoNumero": "Investigação no STF; número público não confirmado nesta consulta",
+      "dataRevisao": "2026-10-21",
+      "fontes": [
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-sobre-destinacao-de-emendas-parlamentares-no-caso-dark-horse/",
+          "titulo": "STF autoriza operação da PF sobre destinação de emendas parlamentares",
+          "instituicao": "Supremo Tribunal Federal",
+          "tipo": "oficial"
+        },
+        {
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-apura-desvio-de-recursos-publicos-oriundos-de-emendas-parlamentares",
+          "titulo": "PF apura desvio de recursos públicos oriundos de emendas parlamentares",
+          "instituicao": "Polícia Federal",
+          "tipo": "oficial"
+        },
+        {
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada",
+          "titulo": "Agência Brasil: contexto financeiro e manifestação do deputado",
+          "instituicao": "Agência Brasil",
+          "tipo": "imprensa"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Revisão documental assistida por IA sob autorização editorial do mantenedor",
         "data": "2026-10-21",
         "confirmacaoIdentidade": true,
         "verificacaoAtualizacao": true,
