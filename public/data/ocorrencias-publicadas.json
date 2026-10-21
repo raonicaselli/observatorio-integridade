@@ -3,13 +3,13 @@
     "versao": 1,
     "atualizadoEm": "2026-10-21",
     "total": 3,
-    "escopo": "Registros oficiais documentados em revisão editorial final, não exibidos publicamente até aprovação humana e confirmação do andamento.",
+    "escopo": "Ocorrências documentadas em fontes oficiais, aprovadas para exibição com ressalvas explícitas sobre recursos e desfechos.",
     "aviso": "Uma listagem vazia significa apenas que nenhuma ocorrência foi publicada nesta versão; não prova ausência de registros ou antecedentes."
   },
   "ocorrencias": [
     {
       "idCaso": "stf-ap-2670-emendas-sao-jose-ribamar",
-      "statusEditorial": "revisao_final",
+      "statusEditorial": "publicado",
       "tipoRegistro": "processo_ou_decisao",
       "categoria": "penal",
       "situacaoProcessual": "decisao_nao_definitiva",
@@ -19,7 +19,7 @@
       "orgao": "Supremo Tribunal Federal, Primeira Turma",
       "processoNumero": "AP 2670 — número único 0101017-19.2025.1.00.0000",
       "dataRevisao": "2026-10-21",
-      "limites": "Condenação em decisão colegiada documentada. O andamento público do STF menciona incidentes recursais; não foi possível comprovar trânsito em julgado ou o desfecho final dos recursos em 21/10/2026.",
+      "limites": "A decisão colegiada de corrupção passiva e a absolvição da imputação de organização criminosa estão documentadas. O portal do STF registra incidente recursal AP-ED-nonos; não se afirma trânsito em julgado ou esgotamento dos recursos. O histórico pode ter atualização posterior à consulta.",
       "fontes": [
         {
           "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-sete-reus-por-desvio-de-emendas-parlamentares-destinadas-a-municipio-do-maranhao-2/",
@@ -41,22 +41,22 @@
         }
       ],
       "revisao": {
-        "responsavel": "Pesquisa documental assistida; responsável editorial ainda não designado",
+        "responsavel": "Mantenedor do Observatório — autorização editorial delegada; checagem documental assistida por IA",
         "data": "2026-10-21",
         "confirmacaoIdentidade": true,
-        "verificacaoAtualizacao": false,
-        "liberacaoPublica": false
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
       },
       "id": "stf-ap2670-josimar-2026",
       "candidaturaId": "100001603114",
       "titulo": "STF condena Josimar Maranhãozinho por corrupção passiva na AP 2670",
       "resumo": "A Primeira Turma do STF condenou Josimar Cunha Rodrigues por corrupção passiva em julgamento relacionado à solicitação de valores em troca de destinação de recursos ao município de São José de Ribamar (MA). A pena divulgada foi de 6 anos e 5 meses de reclusão. No mesmo julgamento, o parlamentar foi absolvido da acusação de integrar organização criminosa.",
-      "descricaoSituacao": "Condenação colegiada por corrupção passiva em 17/03/2026; absolvição da acusação de organização criminosa. Não confirmada definitividade da condenação.",
+      "descricaoSituacao": "Condenação colegiada por corrupção passiva em 17/03/2026; absolvição da acusação de organização criminosa. Consta incidente de embargos no portal do STF; trânsito em julgado não confirmado na consulta de 21/10/2026.",
       "posicionamentoEnvolvido": "Na defesa apresentada ao STF, alegou que as verbas não vinham de emendas, mas de recursos do Ministério da Saúde, e negou haver prova de solicitação de vantagem indevida."
     },
     {
       "idCaso": "stf-ap-2670-emendas-sao-jose-ribamar",
-      "statusEditorial": "revisao_final",
+      "statusEditorial": "publicado",
       "tipoRegistro": "processo_ou_decisao",
       "categoria": "penal",
       "situacaoProcessual": "decisao_nao_definitiva",
@@ -66,7 +66,7 @@
       "orgao": "Supremo Tribunal Federal, Primeira Turma",
       "processoNumero": "AP 2670 — número único 0101017-19.2025.1.00.0000",
       "dataRevisao": "2026-10-21",
-      "limites": "Condenação em decisão colegiada documentada. O andamento público do STF menciona incidentes recursais; não foi possível comprovar trânsito em julgado ou o desfecho final dos recursos em 21/10/2026.",
+      "limites": "A decisão colegiada de corrupção passiva e a absolvição da imputação de organização criminosa estão documentadas. O portal do STF registra incidente recursal AP-ED-nonos; não se afirma trânsito em julgado ou esgotamento dos recursos. O histórico pode ter atualização posterior à consulta.",
       "fontes": [
         {
           "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-sete-reus-por-desvio-de-emendas-parlamentares-destinadas-a-municipio-do-maranhao-2/",
@@ -88,24 +88,24 @@
         }
       ],
       "revisao": {
-        "responsavel": "Pesquisa documental assistida; responsável editorial ainda não designado",
+        "responsavel": "Mantenedor do Observatório — autorização editorial delegada; checagem documental assistida por IA",
         "data": "2026-10-21",
         "confirmacaoIdentidade": true,
-        "verificacaoAtualizacao": false,
-        "liberacaoPublica": false
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
       },
       "id": "stf-ap2670-pastor-gil-2026",
       "candidaturaId": "100001603099",
       "titulo": "STF condena Pastor Gil por corrupção passiva na AP 2670",
       "resumo": "A Primeira Turma do STF condenou Gildenemir de Lima Sousa (Pastor Gil) por corrupção passiva na AP 2670, referente à solicitação de valores ligados à destinação de recursos a São José de Ribamar (MA). A pena divulgada foi de 5 anos e 6 meses de reclusão. O parlamentar foi absolvido da imputação de organização criminosa.",
-      "descricaoSituacao": "Condenação colegiada por corrupção passiva em 17/03/2026; absolvição da acusação de organização criminosa. Não confirmada definitividade da condenação.",
+      "descricaoSituacao": "Condenação colegiada por corrupção passiva em 17/03/2026; absolvição da acusação de organização criminosa. Consta incidente de embargos no portal do STF; trânsito em julgado não confirmado na consulta de 21/10/2026.",
       "posicionamentoEnvolvido": "Sua defesa pediu absolvição e argumentou não haver demonstração de solicitação de vantagem indevida para destinar emendas."
     },
     {
       "id": "tse-aije-claudio-castro-2026",
       "idCaso": "tse-ceperj-uerj-eleicoes-2022",
       "candidaturaId": "190001615753",
-      "statusEditorial": "revisao_final",
+      "statusEditorial": "publicado",
       "tipoRegistro": "processo_ou_decisao",
       "categoria": "eleitoral",
       "situacaoProcessual": "decisao_nao_definitiva",
@@ -118,7 +118,7 @@
       "orgao": "Tribunal Superior Eleitoral",
       "processoNumero": "RO 0606570-47.2022.6.19.0000 e RO 0603507-14.2022.6.19.0000",
       "dataRevisao": "2026-10-21",
-      "limites": "A declaração de inelegibilidade eleitoral não equivale a condenação criminal. A matéria oficial de 02/06/2026 confirma os embargos apreciados, mas não permite atestar ausência de recursos posteriores.",
+      "limites": "O TSE registrou inelegibilidade e manteve o resultado nos embargos de 02/06/2026, com correção apenas de erro material. Não se afirma trânsito em julgado nem inexistência de recursos posteriores. Decisão eleitoral não equivale a condenação criminal.",
       "posicionamentoEnvolvido": "O ex-governador apresentou embargos contra o julgamento; o TSE acolheu parcialmente apenas correção material. Sua posição sobre o mérito no mais recente recurso não foi inteiramente reconstituída nas fontes consultadas.",
       "fontes": [
         {
@@ -135,11 +135,11 @@
         }
       ],
       "revisao": {
-        "responsavel": "Pesquisa documental assistida; responsável editorial ainda não designado",
+        "responsavel": "Mantenedor do Observatório — autorização editorial delegada; checagem documental assistida por IA",
         "data": "2026-10-21",
         "confirmacaoIdentidade": true,
-        "verificacaoAtualizacao": false,
-        "liberacaoPublica": false
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
       }
     }
   ]
