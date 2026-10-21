@@ -13,6 +13,7 @@ Protótipo de plataforma pública para consultar dados eleitorais com metodologi
 - Filtros por UF e cargo, resultados paginados e ficha individual.
 - Link compartilhável para cada candidatura: `?id=SQ_CANDIDATO`.
 - Exportação de dados eleitorais em CSV.
+- Estrutura da camada de ocorrências jurídicas, ainda vazia, com validação editorial automatizada e exibição contextual em fichas individuais.
 - Página de metodologia e [solicitação de correções](https://github.com/raonicaselli/observatorio-integridade/issues/new?template=correcao-de-dados.yml).
 
 Os dados podem ser consultados em `public/data/eleitos-2022.json` e `public/data/eleitos-2022.csv`.
@@ -30,6 +31,7 @@ Requer Node.js 22 ou mais recente:
 ```sh
 npm install
 npm run validate:data
+npm run validate:ocorrencias
 npm run dev
 ```
 
@@ -43,7 +45,7 @@ A saída fica em `dist/`. O deploy automático do GitHub Pages ocorre após alte
 
 ## Política editorial: futuro módulo jurídico
 
-O planejamento para ocorrências documentadas está em [docs/modelo-ocorrencias.md](docs/modelo-ocorrencias.md). Nenhum rascunho que contenha acusações não verificadas deve ser enviado a este repositório público, inclusive em branches.
+O planejamento para ocorrências documentadas está em [docs/modelo-ocorrencias.md](docs/modelo-ocorrencias.md), e o [contrato de publicação](docs/contrato-ocorrencias-publicadas.md) descreve a estrutura da base pública vazia e suas validações. Nenhum rascunho que contenha acusações não verificadas deve ser enviado a este repositório público, inclusive em branches.
 
 Uma publicação futura dependerá de identificação confirmada da pessoa, fonte verificável, contexto da filiação, estágio processual atualizado, informações sobre desfecho e revisão editorial humana.
 
