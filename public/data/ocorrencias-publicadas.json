@@ -2,7 +2,7 @@
   "metadados": {
     "versao": 1,
     "atualizadoEm": "2026-10-21",
-    "total": 3,
+    "total": 5,
     "escopo": "Ocorrências documentadas em fontes oficiais, aprovadas para exibição com ressalvas explícitas sobre recursos e desfechos.",
     "aviso": "Uma listagem vazia significa apenas que nenhuma ocorrência foi publicada nesta versão; não prova ausência de registros ou antecedentes."
   },
@@ -136,6 +136,76 @@
       ],
       "revisao": {
         "responsavel": "Mantenedor do Observatório — autorização editorial delegada; checagem documental assistida por IA",
+        "data": "2026-10-21",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      }
+    },
+    {
+      "id": "tre-sc-jorginho-pesquisa-set-2026",
+      "idCaso": "tre-sc-0600933-38-2026",
+      "candidaturaId": "240001611127",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "eleitoral",
+      "situacaoProcessual": "decisao_nao_definitiva",
+      "titulo": "TRE-SC aplica multa de R$ 5 mil a Jorginho Mello por divulgação descontextualizada de pesquisa",
+      "resumo": "O Pleno do TRE-SC, por maioria, deu parcial provimento a uma representação sobre propaganda eleitoral de Jorginho Mello que apresentava dados de pesquisa sem a devida contextualização. Aplicou multa de R$ 5 mil e determinou a remoção do conteúdo. Dois julgadores divergiram, defendendo a improcedência.",
+      "descricaoSituacao": "Decisão colegiada regional de 17/09/2026 aplicou multa de R$ 5 mil e determinou a retirada da propaganda. Não confirmado trânsito em julgado nem desfecho de eventuais recursos.",
+      "limites": "Decisão eleitoral regional, não condenação criminal. A fonte oficial consultada descreve o julgamento de setembro de 2026, mas não atesta ausência de recursos posteriores até 21/10/2026.",
+      "posicionamentoEnvolvido": "A defesa obteve decisão inicial favorável, posteriormente reformada pelo plenário; o posicionamento posterior à decisão não foi identificado na fonte oficial consultada.",
+      "dataMarco": "2026-09-17",
+      "periodoFatos": "Campanha eleitoral de 2026",
+      "partidoNosFatos": "PL (conforme candidatura eleitoral)",
+      "orgao": "Tribunal Regional Eleitoral de Santa Catarina",
+      "processoNumero": "0600933-38.2026.6.24.0000",
+      "dataRevisao": "2026-10-21",
+      "fontes": [
+        {
+          "url": "https://www.tre-sc.jus.br/comunicacao/noticias/2026/Setembro/tre-sc-reconhece-desinformacao-em-propaganda-eleitoral-de-candidato-sobre-resultado-de-pesquisa-eleitoral",
+          "titulo": "TRE-SC reconhece desinformação em propaganda eleitoral de candidato sobre resultado de pesquisa eleitoral",
+          "instituicao": "TRE-SC",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Mantenedor do Observatório — autorização editorial delegada; revisão documental assistida por IA",
+        "data": "2026-10-21",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      }
+    },
+    {
+      "id": "tse-jorge-seif-rejeicao-aije-2026",
+      "idCaso": "tse-ro-0602909-22-2022",
+      "candidaturaId": "240001611131",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "eleitoral",
+      "situacaoProcessual": "outro",
+      "titulo": "TSE rejeita ação de abuso de poder econômico contra Jorge Seif por falta de provas",
+      "resumo": "O TSE confirmou por unanimidade a decisão que rejeitou ação de investigação judicial eleitoral contra o senador Jorge Seif e suplentes por suposto abuso de poder econômico nas eleições de 2022. O tribunal considerou insuficientes as evidências apresentadas. O TSE também julgou embargos em fevereiro de 2026.",
+      "descricaoSituacao": "Rejeição da ação eleitoral mantida pelo TSE em 10/02/2026, com julgamento de embargos em 12/02/2026. Trata-se de resultado favorável ao senador, não de investigação em aberto ou condenação.",
+      "limites": "A ação foi rejeitada por insuficiência de provas; não é adequado apresentá-la como acusação vigente. Não se afirma encerramento de todos os recursos além dos embargos mencionados no informativo oficial.",
+      "posicionamentoEnvolvido": "Resultado processual favorável ao parlamentar: o TSE rejeitou a ação eleitoral contra ele e os suplentes.",
+      "dataMarco": "2026-02-12",
+      "periodoFatos": "Campanha eleitoral de 2022",
+      "partidoNosFatos": "PL (candidatura eleitoral de 2022)",
+      "orgao": "Tribunal Superior Eleitoral",
+      "processoNumero": "RO 0602909-22.2022.6.24.0000",
+      "dataRevisao": "2026-10-21",
+      "fontes": [
+        {
+          "url": "https://www.tse.jus.br/jurisprudencia/informativo-tse/arquivos/2026/tse-informativo-tse-no-01-ano-28-de-01-a-15-de-fevereiro-de-2026-formato-pdf/%40%40display-file/file/Infojur1_2026_SeprevOk_FINAL__1_.pdf",
+          "titulo": "Informativo de Jurisprudência do TSE, 1º a 15 de fevereiro de 2026",
+          "instituicao": "TSE",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Mantenedor do Observatório — autorização editorial delegada; revisão documental assistida por IA",
         "data": "2026-10-21",
         "confirmacaoIdentidade": true,
         "verificacaoAtualizacao": true,
