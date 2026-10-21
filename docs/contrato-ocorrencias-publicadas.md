@@ -63,3 +63,9 @@ O validador **não** pode comprovar que duas matérias são editorialmente indep
 ## Regra de segurança
 
 Não publicar em um GitHub público versões preliminares identificando pessoas em acusações sem validação editorial, inclusive em commits antigos, PRs e Issues. Registrar pesquisa sensível em ambiente privado e importar somente a versão autorizada.
+
+## Etapa intermediária de publicação — revisão final
+
+A base JSON também admite `statusEditorial: "revisao_final"`, para registros cuja decisão judicial está comprovada, mas cujas verificações de recursos posteriores ou aprovação editorial ainda não foram encerradas. **Registros nesse estado não são mostrados nos perfis do site**; apenas `statusEditorial: "publicado"` é exibido.
+
+Importante: o repositório GitHub é público, portanto registros em revisão final no JSON são visíveis a quem consultar o código-fonte. Inserir ali **somente decisões já publicamente documentadas em fontes oficiais** e com ressalvas explícitas; reportagens e investigações preliminares não devem entrar nessa etapa antes da aprovação. A promoção a `publicado` exige confirmar os recursos, a atualização processual e a liberação humana individual de cada registro.
