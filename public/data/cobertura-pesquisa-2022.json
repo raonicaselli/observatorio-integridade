@@ -5,9 +5,9 @@
     "atualizadoEm": "2026-10-21",
     "regra": "Triagem inicial significa somente consulta documental pontual: não é auditoria completa nem certificação de ausência de ocorrências.",
     "total": 234,
-    "triagemInicial": 5,
+    "triagemInicial": 3,
     "revisaoConcluida": 0,
-    "emRevisao": 3
+    "emRevisao": 5
   },
   "registros": [
     {
@@ -1167,7 +1167,7 @@
       "uf": "SC",
       "cargo": "SENADOR",
       "nome": "JORGE SEIF JUNIOR",
-      "estado": "triagem_inicial",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
       "atualizadoEm": "2026-10-21"
     },
@@ -1176,7 +1176,7 @@
       "uf": "SC",
       "cargo": "GOVERNADOR",
       "nome": "JORGINHO DOS SANTOS MELLO",
-      "estado": "triagem_inicial",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
       "atualizadoEm": "2026-10-21"
     },
