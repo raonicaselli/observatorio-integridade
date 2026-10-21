@@ -1,0 +1,39 @@
+name: Solicitar correção de dados
+description: Relatar um erro, atualização ou pedido de retificação na plataforma.
+title: "[Correção de dados] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado pela colaboração. Este formulário é público no GitHub.
+        Não inclua CPF, endereço pessoal, documentos sigilosos ou outros dados sensíveis.
+        Toda solicitação será conferida antes de alterar o site.
+  - type: input
+    id: identificador
+    attributes:
+      label: Identificador eleitoral (SQ_CANDIDATO) ou link do perfil
+      description: Informe o identificador de 2022 ou o link compartilhável do perfil.
+      placeholder: "Ex.: 100001603152"
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: O que precisa ser corrigido?
+      description: Explique objetivamente a informação contestada e a correção solicitada.
+    validations:
+      required: true
+  - type: textarea
+    id: evidencias
+    attributes:
+      label: Fontes públicas que fundamentam a correção
+      description: Inclua URLs oficiais, documentos públicos ou notícias verificáveis, com datas quando disponíveis.
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacidade
+    attributes:
+      label: Privacidade
+      options:
+        - label: Confirmo que não incluí informações pessoais sensíveis ou documentos sigilosos.
+          required: true
