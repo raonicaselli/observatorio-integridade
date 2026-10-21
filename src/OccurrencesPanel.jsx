@@ -1,6 +1,12 @@
 import React from 'react'
 import { ExternalLink, FileSearch, ShieldAlert } from 'lucide-react'
 
+const tipos = {
+ apuracao_jornalistica:'Apuração jornalística — sem confirmação de procedimento oficial',
+ pedido_de_apuracao:'Pedido de apuração — abertura ainda não confirmada',
+ investigacao_oficial:'Investigação oficial — sem presunção de culpa',
+ processo_ou_decisao:'Processo ou decisão judicial'
+}
 const categorias = {
  eleitoral:'Direito eleitoral',
  penal:'Direito penal',
@@ -19,10 +25,13 @@ export default function OccurrencesPanel({ candidaturaId, dados, indisponivel=fa
    publicadas.length===0 ? <div className="occ-empty"><FileSearch size={20}/><p>Nenhuma ocorrência jurídica revisada foi publicada para este perfil nesta versão. Isso <strong>não</strong> significa ausência de processos, investigações ou antecedentes.</p></div> :
    <div className="occ-list">{publicadas.map(o=><article key={o.id} className="occ-item">
     <div className="occ-category"><span>{categorias[o.categoria] || 'Outra natureza'}</span><span>{o.dataMarco}</span></div>
+    <div className="occ-type">{tipos[o.tipoRegistro] || 'Situação em verificação'}</div>
     <h4>{o.titulo}</h4>
     <p>{o.resumo}</p>
     <div className="occ-process"><strong>Situação documentada:</strong> {o.descricaoSituacao}</div>
-    <div className="occ-metadata"><span>Órgão: {o.orgao}</span><span>Período dos fatos: {o.periodoFatos}</span><span>Filiação nos fatos: {o.partidoNosFatos}</span><span>Revisão: {o.dataRevisao}</span></div>
+    <div className="occ-qualification"><strong>Limites da informação:</strong> {o.limites}</div>
+    <div className="occ-qualification"><strong>Posicionamento do envolvido:</strong> {o.posicionamentoEnvolvido}</div>
+    <div className="occ-metadata">{o.orgao && <span>Órgão: {o.orgao}</span>}<span>Período dos fatos: {o.periodoFatos}</span><span>Filiação nos fatos: {o.partidoNosFatos}</span><span>Revisão: {o.dataRevisao}</span></div>
     <div className="occ-sources"><strong>Fontes</strong>{o.fontes.map(f=><a key={f.url} href={f.url} target="_blank" rel="noopener noreferrer">{f.instituicao} — {f.titulo} <ExternalLink size={13}/></a>)}</div>
    </article>)}</div>
   }

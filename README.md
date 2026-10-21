@@ -14,6 +14,8 @@ Protótipo de plataforma pública para consultar dados eleitorais com metodologi
 - Link compartilhável para cada candidatura: `?id=SQ_CANDIDATO`.
 - Exportação de dados eleitorais em CSV.
 - Estrutura da camada de ocorrências jurídicas, ainda vazia, com validação editorial automatizada e exibição contextual em fichas individuais.
+- Separação entre **apuração jornalística**, **pedido de apuração**, **investigação oficial** e **processo/decisão**, com critérios distintos para fontes e contraditório.
+- Controle auditável de cobertura dos 234 eleitos em `public/data/cobertura-pesquisa-2022.json`: triagem inicial não significa revisão concluída.
 - Página de metodologia e [solicitação de correções](https://github.com/raonicaselli/observatorio-integridade/issues/new?template=correcao-de-dados.yml).
 
 Os dados podem ser consultados em `public/data/eleitos-2022.json` e `public/data/eleitos-2022.csv`.
@@ -32,6 +34,7 @@ Requer Node.js 22 ou mais recente:
 npm install
 npm run validate:data
 npm run validate:ocorrencias
+npm run validate:coverage
 npm run dev
 ```
 

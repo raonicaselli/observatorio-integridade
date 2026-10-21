@@ -33,6 +33,8 @@ jobs:
         run: npm run validate:data
       - name: Verificar aprovação de ocorrências
         run: npm run validate:ocorrencias
+      - name: Verificar abrangência da pesquisa
+        run: npm run validate:coverage
       - name: Compilar aplicação
         run: npm run build
       - name: Configurar GitHub Pages
