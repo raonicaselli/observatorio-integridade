@@ -1,0 +1,2119 @@
+{
+  "metadados": {
+    "versao": 1,
+    "recorte": "Titulares eleitos pelo PL em 2022",
+    "atualizadoEm": "2026-10-21",
+    "regra": "Triagem inicial significa somente consulta documental pontual: não é auditoria completa nem certificação de ausência de ocorrências.",
+    "total": 234,
+    "triagemInicial": 8,
+    "revisaoConcluida": 0
+  },
+  "registros": [
+    {
+      "candidaturaId": "100001603152",
+      "uf": "MA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ABIGAIL CUNHA DE ALMEIDA SOUSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "110001612761",
+      "uf": "MT",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ABILIO JACQUES BRUNINI MOUMER",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001619693",
+      "uf": "PE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ABIMAEL DOS SANTOS PEREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "80001648785",
+      "uf": "ES",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ADEMIR JOSÉ GOMES PEREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "210001648959",
+      "uf": "RS",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ADRIANA VIEIRA LARA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "220001713754",
+      "uf": "RO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "AFFONSO ANTONIO CANDIDO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596743",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ALAN LOPES SANTANA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "40001612948",
+      "uf": "AM",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ALBERTO BARROS CAVALCANTE NETO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001619685",
+      "uf": "PE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ALBERTO JORGE DO NASCIMENTO FEITOSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "210001648587",
+      "uf": "RS",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ALCIBIO MESQUITA BIBO NUNES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "60001633829",
+      "uf": "CE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ALCIDES FERNANDES DA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "90001652505",
+      "uf": "GO",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ALCIDES RIBEIRO FILHO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "40001633325",
+      "uf": "AM",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ALCIMAR MACIEL PEREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "270001643578",
+      "uf": "TO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ALDAIR DA COSTA SOUSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "50001609344",
+      "uf": "BA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ALDEN JOSÉ LÁZARO DA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619043",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ALESSANDRA DINIZ PORTELA SILVEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610129",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ALEXANDER MUNIZ DE OLIVEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596777",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ALEXANDRE RAMAGEM RODRIGUES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596785",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ALTINEU CORTES FREITAS COUTINHO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "100001603187",
+      "uf": "MA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ALUIZIO DE SOUZA SANTOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "110001612762",
+      "uf": "MT",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "AMÁLIA SCUDELER DE BARROS SANTOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596745",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "AMANDA BRANDAO ARMELAU",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614348",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596746",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ANDERSON LUIS DE MORAES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "60001614161",
+      "uf": "CE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ANDRÉ FERNANDES DE MOURA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001609080",
+      "uf": "PE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ANDRÉ FERREIRA RODRIGUES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610161",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ANDRE LUIS DO PRADO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "200001604696",
+      "uf": "RN",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ANDRÉ LUIZ VIEIRA DE AZEVEDO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619030",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ANTONIO CARLOS ARANTES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611362",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ANTONIO CARLOS RODRIGUES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "60001614151",
+      "uf": "CE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ANTONIO LUIZ RODRIGUES MANO JUNIOR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "10001649326",
+      "uf": "AC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ARLENILSON BARBOSA CUNHA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "230001604276",
+      "uf": "RR",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ARMANDO DO CARMO ARAUJO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "140001601786",
+      "uf": "PA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "AVEILTON SILVA DE SOUZA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "70001615922",
+      "uf": "DF",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "BEATRIZ KICIS TORRENTS DE SORDI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619045",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610121",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "BRUNO ZAMBELLI SALGADO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "150001718195",
+      "uf": "PB",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CAIO FIGUEIREDO ROBERTO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611365",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "CARLA ZAMBELLI SALGADO DE OLIVEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "120001614728",
+      "uf": "MS",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CARLOS ALBERTO DAVID DOS SANTOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "260001712249",
+      "uf": "SE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CARLOS ALEXANDRE SANTOS COSTA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596750",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CARLOS AUGUSTO NOGUEIRA PINTO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610158",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CARLOS CEZAR DA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619046",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CARLOS HENRIQUE COELHO DE CAMPOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614329",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CARLOS HENRIQUE DE LIMA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614337",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CARLOS HUMBERTO METZNER SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596781",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "CARLOS ROBERTO COELHO DE MATTOS JUNIOR",
+      "estado": "triagem_inicial",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": "2026-10-21"
+    },
+    {
+      "candidaturaId": "60001633791",
+      "uf": "CE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CARMELO SILVEIRA CARNEIRO LEÃO NETO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001610965",
+      "uf": "SC",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "CAROLINE RODRIGUES DE TONI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596754",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CELIA CRISTINA AMORIM SILVA JORDÃO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596798",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "CHRISTINE NOGUEIRA DOS REIS TONIETTO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001615753",
+      "uf": "RJ",
+      "cargo": "GOVERNADOR",
+      "nome": "CLÁUDIO BOMFIM DE CASTRO E SILVA",
+      "estado": "triagem_inicial",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": "2026-10-21"
+    },
+    {
+      "candidaturaId": "210001648963",
+      "uf": "RS",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CLAUDIO GILNEI TATSCH",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "100001603167",
+      "uf": "MA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CLAUDIO LUIZ LIMA CUNHA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619031",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "CRISTIANO CAPOREZZO ARAUJO PIRES FERREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001610972",
+      "uf": "SC",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "DANIEL COSTA DE FREITAS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "90001652507",
+      "uf": "GO",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "DANIEL VIEIRA RAMOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "70001615885",
+      "uf": "DF",
+      "cargo": "DEPUTADO DISTRITAL",
+      "nome": "DANIEL XAVIER DONIZET",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001610968",
+      "uf": "SC",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "DANIELA CRISTINA REINEHR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610113",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "DANIELE MAZUQUELI ALONSO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "80001648787",
+      "uf": "ES",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "DANILO BAHIENSE MOREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610117",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "DANILO MASCARENHAS DE BALAS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "40001633336",
+      "uf": "AM",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "DEBORA SALGUEIRO DE MENEZES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596733",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "DEODALTO JOSE FERREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "50001609451",
+      "uf": "BA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "DIEGO CASTRO BARBOSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610181",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "DIMAS MECCA SAMPAIO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001611016",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "DOMINGOS SÁVIO CAMPOS RESENDE",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596741",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "DOUGLAS RUAS DOS SANTOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "140001598311",
+      "uf": "PA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "EDER MAURO CARDOSO BARRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "210001648938",
+      "uf": "RS",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "EDERILDO PAPARICO BACCHI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614342",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "EDILSON MASSOCCO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "90001653796",
+      "uf": "GO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "EDUARDO JOSE DO PRADO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611374",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596794",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "EDUARDO PAZUELLO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "270001643551",
+      "uf": "TO",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ELI DIAS BORGES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "200001603004",
+      "uf": "RN",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ELIESER GIRÃO MONTEIRO FILHO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "110001620549",
+      "uf": "MT",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ELIZEU FRANCISCO DO NASCIMENTO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001611018",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "EMIDIO ALVES MADEIRA JUNIOR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001619691",
+      "uf": "PE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ENOQUE FERREIRA DA COSTA JÚNIOR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001610990",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "EROS FERREIRA BIONDINI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "30001648127",
+      "uf": "AP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ERRINELSON VIEIRA PIMENTEL",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614334",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ESTENER SORATTO DA SILVA JUNIOR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "200001602999",
+      "uf": "RN",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "EVANDRO GONÇALVES DA SILVA JUNIOR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610130",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "FABIANA DE LIMA BARROSO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "100001603158",
+      "uf": "MA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "FABIANA VILAR RODRIGUES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "270001643584",
+      "uf": "TO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "FABION GOMES DE SOUSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "160001622024",
+      "uf": "PR",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "FERNANDO LUCIO GIACOBO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001609086",
+      "uf": "PE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "FERNANDO RODOLFO TENÓRIO DE VASCONCELOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "160001622028",
+      "uf": "PR",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "270001643553",
+      "uf": "TO",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "FILIPE MARTINS DOS SANTOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596738",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "FILIPPE MEDEIROS POUBEL",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001609087",
+      "uf": "PE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "FRANCISCO EURICO DA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611321",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "FRANCISCO EVERARDO TIRIRICA OLIVEIRA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001610992",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "GERALDO JUNIO DO AMARAL",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "150001718239",
+      "uf": "PB",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "GILBERTO GOMES DA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "110001620557",
+      "uf": "MT",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "GILBERTO MOACIR CATTANI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "100001603099",
+      "uf": "MA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "GILDENEMIR DE LIMA SOUSA",
+      "estado": "triagem_inicial",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": "2026-10-21"
+    },
+    {
+      "candidaturaId": "250001610109",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "GILDEVANIO ILSO DOS SANTOS DINIZ",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "160001654944",
+      "uf": "PR",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "GILSON DE SOUZA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "80001615730",
+      "uf": "ES",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "GILVAN AGUIAR COSTA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "210001648591",
+      "uf": "RS",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "GIOVANI CHERINI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596739",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "GISELLE LOUISE MONTEIRO DE OLIVEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610201",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "GRACIELA DE LOURDES DAVID AMBROSIO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596756",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "GUILHERME JANDRE DELAROLI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611359",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "GUILHERME MURARO DERRITE",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619055",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "GUSTAVO DE VASCONCELLOS MOREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "90001652508",
+      "uf": "GO",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596786",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "HELIO FERNANDO BARBOSA LOPES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "140001601810",
+      "uf": "PA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "HUGO ROGERIO SARMANHO BARRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "260001737580",
+      "uf": "SE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ICARO BARBOSA COSTA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614356",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "IVAN NAATZ",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "220001713729",
+      "uf": "RO",
+      "cargo": "SENADOR",
+      "nome": "JAIME MAXIMINO BAGATTOLI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596713",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JAIR DE SIQUEIRA BITTENCOURT JUNIOR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "270001643585",
+      "uf": "TO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JANAD MARQUES DE FREITAS VALCARI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "60001614163",
+      "uf": "CE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JAZIEL PEREIRA DE SOUSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "220001713749",
+      "uf": "RO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JEAN HENRIQUE GEROLOMO DE MENDONÇA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611329",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JEFFERSON ALVES DE CAMPOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614350",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JESSÉ DE FARIA LOPES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "70001615924",
+      "uf": "DF",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOÃO ALBERTO FRAGA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "50001609371",
+      "uf": "BA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOÃO CARLOS PAOLILO BACELAR FILHO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "220001643595",
+      "uf": "RO",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOÃO CHRISÓSTOMO DE MOURA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "200001603000",
+      "uf": "RN",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOÃO DA SILVA MAIA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "150001718221",
+      "uf": "PB",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JOÃO GOMES DE SOUZA NETO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "120001614724",
+      "uf": "MS",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JOÃO HENRIQUE MIRANDA SOARES CATAN",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "70001615870",
+      "uf": "DF",
+      "cargo": "DEPUTADO DISTRITAL",
+      "nome": "JOAQUIM DOMINGOS RORIZ NETO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "140001598308",
+      "uf": "PA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001619707",
+      "uf": "PE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JOEL MAURINO DO CARMO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001610977",
+      "uf": "SC",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JORGE GOETTEN DE LIMA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001611131",
+      "uf": "SC",
+      "cargo": "SENADOR",
+      "nome": "JORGE SEIF JUNIOR",
+      "estado": "triagem_inicial",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": "2026-10-21"
+    },
+    {
+      "candidaturaId": "240001611127",
+      "uf": "SC",
+      "cargo": "GOVERNADOR",
+      "nome": "JORGINHO DOS SANTOS MELLO",
+      "estado": "triagem_inicial",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": "2026-10-21"
+    },
+    {
+      "candidaturaId": "10001649310",
+      "uf": "AC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JOSÉ AFONSO VASCONCELOS FERNANDES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "110001612757",
+      "uf": "MT",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOSÉ ANTÔNIO DOS SANTOS MEDEIROS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "160001654963",
+      "uf": "PR",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JOSE APARECIDO JACOVOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611357",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOSÉ AUGUSTO ROSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "160001654969",
+      "uf": "PR",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JOSÉ GILBERTO DO CARMO ALVES RIBEIRO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "100001603111",
+      "uf": "MA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOSÉ LOURENÇO BONFIM JÚNIOR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001610999",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOSÉ VITOR DE RESENDE AGUIAR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "150001718233",
+      "uf": "PB",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOSÉ WELLINGTON ROBERTO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "100001603114",
+      "uf": "MA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JOSIMAR CUNHA RODRIGUES",
+      "estado": "triagem_inicial",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": "2026-10-21"
+    },
+    {
+      "candidaturaId": "240001610974",
+      "uf": "SC",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "JULIA PEDROSO ZANATTA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "90001653797",
+      "uf": "GO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "JUNIO ALVES ARAÚJO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "50001609456",
+      "uf": "BA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "LEANDRO SILVA DE JESUS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "140001598314",
+      "uf": "PA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "LENILDO MENDES DOS SANTOS SERTÃO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "260001712262",
+      "uf": "SE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "LEUDES ALVES DOS SANTOS NETO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001611001",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "LINCOLN DINIZ PORTELA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "80001648800",
+      "uf": "ES",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "LUCAS DA RE POLESE",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610124",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "LUCAS DIEZ BOVE",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596803",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "LUCIANO VIEIRA MENDES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "80001648792",
+      "uf": "ES",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "LUCINIO CASTELO DE ASSUMÇAO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "20001620174",
+      "uf": "AL",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "LUIZ ALBERTO ALVES TEIXEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611345",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "LUIZ CARLOS MOTTA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001609070",
+      "uf": "PE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "LUIZ DE FRANÇA E SILVA MEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596802",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "LUIZ EDUARDO CARNEIRO DA SILVA DE SOUZA LIMA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611333",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "LUIZ PHILIPPE DE ORLEANS E BRAGANÇA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "90001652511",
+      "uf": "GO",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MAGDA MOFATTO HON",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "80001720164",
+      "uf": "ES",
+      "cargo": "SENADOR",
+      "nome": "MAGNO PEREIRA MALTA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "160001654935",
+      "uf": "PR",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MARCEL HENRIQUE MICHELETTO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001611029",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MARCELO HENRIQUE TEIXEIRA DIAS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "210001648576",
+      "uf": "RS",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MARCELO PIRES MORAES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596721",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MÁRCIO GUALBERTO DOS SANTOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611336",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MARCIO LUIZ ALVINO DE SOUZA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614339",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MARCIUS DA SILVA MACHADO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611335",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MARCO ANTONIO FELICIANO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001610976",
+      "uf": "SC",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MARCOS ANTONIO PEREIRA GOMES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001612472",
+      "uf": "SP",
+      "cargo": "SENADOR",
+      "nome": "MARCOS CESAR PONTES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610193",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MARCOS ROBERTO DAMASIO DA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "120001614258",
+      "uf": "MS",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MARCOS SBOROWSKI POLLON",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "260001712248",
+      "uf": "SE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MARCOS VINICIUS LIMA DE OLIVEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "270001643572",
+      "uf": "TO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MARCUS MARCELO DE BARROS ARAUJO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "100001603115",
+      "uf": "MA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611324",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MARIO LUIS FRIAS",
+      "estado": "triagem_inicial",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": "2026-10-21"
+    },
+    {
+      "candidaturaId": "60001633816",
+      "uf": "CE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MARTA MARIA DO SOCORRO LIMA BARROS GONÇALVES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610136",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MATHEUS COIMBRA MARTINS DE AGUIAR",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "60001614168",
+      "uf": "CE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MATHEUS SOARES NORONHA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614331",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "MAURICIO JOSE ESKUDLARK",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001611021",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MAURICIO LUIZ DE SOUZA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611371",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "MIGUEL LOMBARDI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "140001601793",
+      "uf": "PA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "NEIL DUARTE DE SOUZA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "200001604708",
+      "uf": "RN",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "NEILTON CARLOS DIOGENES MAGALHAES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "210001648951",
+      "uf": "RS",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "NEIVA TERESINHA MARQUES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "160001622020",
+      "uf": "PR",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "NELSI COGUETTO MARIA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001611005",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614335",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "NILSO JOSE BERLANDA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "240001614346",
+      "uf": "SC",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "OSCAR GUTZ",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "90001653821",
+      "uf": "GO",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "PAULO CEZAR MARTINS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611327",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "PAULO FRANCISCO MUNIZ BILYNSKYJ",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610126",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "PAULO JORGE MANSUR NETO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "170001619710",
+      "uf": "PE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "PAULO RENATO ANTUNES GUIMARÃES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611351",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "PAULO ROBERTO FREIRE DA COSTA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "40001633341",
+      "uf": "AM",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "PERICLES RODRIGUES DO NASCIMENTO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "60001614167",
+      "uf": "CE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "PRISCILA BEZERRA DA COSTA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "50001609434",
+      "uf": "BA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "RAIMUNDO RAMOS DE ANDRADE",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "160001654970",
+      "uf": "PR",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "RICARDO ARRUDA NUNES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611315",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "RICARDO DE AQUINO SALLES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610138",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "RICARDO ROSSI MADALENA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "50001609349",
+      "uf": "BA",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ROBERTA DE ARAÚJO COSTA ROMA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001738867",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ROBERTO LUIZ RODRIGUES DE OLIVEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610141",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "ROBERVAL CONTE LOPES LIMA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "200001603001",
+      "uf": "RN",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ROBINSON MESQUITA DE FARIA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "120001614260",
+      "uf": "MS",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "RODOLFO OLIVEIRA NOGUEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610140",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "RODRIGO AUGUSTO MORAES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "210001648942",
+      "uf": "RS",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "RODRIGO MARQUES LORENZONI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "200001603037",
+      "uf": "RN",
+      "cargo": "SENADOR",
+      "nome": "ROGÉRIO SIMONETTI MARINHO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001612455",
+      "uf": "RJ",
+      "cargo": "SENADOR",
+      "nome": "ROMÁRIO DE SOUZA FARIA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "70001615877",
+      "uf": "DF",
+      "cargo": "DEPUTADO DISTRITAL",
+      "nome": "ROOSEVELT VILELA PIRES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001611311",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ROSANA DE OLIVEIRA VALLE",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001611025",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "ROSÂNGELA DE OLIVEIRA CAMPOS REIS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "110001612764",
+      "uf": "MT",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001611024",
+      "uf": "MG",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "SAMUEL JOSÉ RODRIGUES DE VIANA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596759",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "SAMUEL LIMA MALAFAIA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619065",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "SANDRO LÚCIO FONSECA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596716",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "SÉRGIO LUIZ COSTA AZEVEDO FILHO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596718",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "SERGIO RENATO FERREIRA MIRANDA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619041",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "SHEILA APARECIDA PEDROSA DE MELLO OLIVEIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "60001633828",
+      "uf": "CE",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "SILVANA OLIVEIRA DE SOUSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "220001643593",
+      "uf": "RO",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "SÍLVIA CRISTINA AMANCIO CHAGAS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "100001603166",
+      "uf": "MA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "SOLANGE DE ARAUJO SOUSA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596770",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "SORAYA ALENCAR DOS SANTOS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596769",
+      "uf": "RJ",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "SÓSTENES SILVA CAVALCANTE",
+      "estado": "triagem_inicial",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": "2026-10-21"
+    },
+    {
+      "candidaturaId": "200001604694",
+      "uf": "RN",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "TEREZINHA MAIA DE MEDEIROS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "70001615869",
+      "uf": "DF",
+      "cargo": "DEPUTADO DISTRITAL",
+      "nome": "THIAGO DE ARAÚJO MACIEIRA MANZONI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596760",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "THIAGO GAGLIASSO ONOFRE FERREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610134",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "THIAGO REIS AURICCHIO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "210001648581",
+      "uf": "RS",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "UBIRATAN ANTUNES SANDERSON",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "190001596761",
+      "uf": "RJ",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "VALDECIR DIAS DA SILVA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "250001610167",
+      "uf": "SP",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "VALERIA MULLER RAMOS BOLSONARO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "30001648512",
+      "uf": "AP",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "VINICIUS DE AZEVEDO GURGEL",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "50001609449",
+      "uf": "BA",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "VITOR VIANA PARANHOS DE AZEVEDO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "150001718216",
+      "uf": "PB",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "WALLBER VIRGOLINO DA SILVA FERREIRA",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "130001619068",
+      "uf": "MG",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "WASHINGTON FERNANDO RODRIGUES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "110001676176",
+      "uf": "MT",
+      "cargo": "SENADOR",
+      "nome": "WELLINGTON ANTÔNIO FAGUNDES",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "80001648804",
+      "uf": "ES",
+      "cargo": "DEPUTADO ESTADUAL",
+      "nome": "WELLINGTON CALLEGARI",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "90001652051",
+      "uf": "GO",
+      "cargo": "SENADOR",
+      "nome": "WILDER PEDRO DE MORAIS",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    },
+    {
+      "candidaturaId": "60001614155",
+      "uf": "CE",
+      "cargo": "DEPUTADO FEDERAL",
+      "nome": "YURY BRUNO ALENCAR ARAÚJO",
+      "estado": "nao_iniciado",
+      "verificadoIntegralmenteEm": null,
+      "atualizadoEm": null
+    }
+  ]
+}
