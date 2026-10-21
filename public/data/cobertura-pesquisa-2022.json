@@ -5,9 +5,9 @@
     "atualizadoEm": "2026-10-21",
     "regra": "Triagem inicial significa somente consulta documental pontual: não é auditoria completa nem certificação de ausência de ocorrências.",
     "total": 234,
-    "triagemInicial": 3,
+    "triagemInicial": 0,
     "revisaoConcluida": 0,
-    "emRevisao": 5
+    "emRevisao": 8
   },
   "registros": [
     {
@@ -429,7 +429,7 @@
       "uf": "RJ",
       "cargo": "DEPUTADO FEDERAL",
       "nome": "CARLOS ROBERTO COELHO DE MATTOS JUNIOR",
-      "estado": "triagem_inicial",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
       "atualizadoEm": "2026-10-21"
     },
@@ -1545,7 +1545,7 @@
       "uf": "SP",
       "cargo": "DEPUTADO FEDERAL",
       "nome": "MARIO LUIS FRIAS",
-      "estado": "triagem_inicial",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
       "atualizadoEm": "2026-10-21"
     },
@@ -1977,7 +1977,7 @@
       "uf": "RJ",
       "cargo": "DEPUTADO FEDERAL",
       "nome": "SÓSTENES SILVA CAVALCANTE",
-      "estado": "triagem_inicial",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
       "atualizadoEm": "2026-10-21"
     },
