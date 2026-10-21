@@ -29,5 +29,6 @@ for(const p of c.registros){
  else assert.equal(p.verificadoIntegralmenteEm,null,`Revisão completa marcada indevidamente: ${id}`)
 }
 assert.equal(estadoContagem.triagem_inicial,c.metadados.triagemInicial)
+assert.equal(estadoContagem.em_revisao,c.metadados.emRevisao)
 assert.equal(estadoContagem.revisao_concluida,c.metadados.revisaoConcluida)
 console.log('Cobertura de 2022 validada:',JSON.stringify(estadoContagem))
