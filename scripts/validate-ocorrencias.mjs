@@ -27,7 +27,8 @@ for(const occ of data.ocorrencias){
  assert.ok(!ids.has(occ.id),`Ocorrência duplicada: ${occ.id}`)
  ids.add(occ.id)
  assert.ok(cadastro.has(String(occ.candidaturaId)),`Candidatura inexistente: ${occ.candidaturaId}`)
- assert.equal(occ.statusEditorial,'publicado',`Registro ${occ.id} sem aprovação editorial`)
+ assert.ok(['publicado','revisao_final'].includes(occ.statusEditorial),`Estado editorial inválido: ${occ.id}`)
+ if(occ.statusEditorial==='publicado')assert.equal(occ.revisao?.liberacaoPublica,true,`Publicação sem aprovação: ${occ.id}`)
  assert.ok(types.has(occ.tipoRegistro),`Tipo de registro inválido: ${occ.id}`)
  requireText(occ.idCaso,'idCaso',occ.id,5)
  requireText(occ.titulo,'titulo',occ.id)
@@ -41,7 +42,9 @@ for(const occ of data.ocorrencias){
  assert.ok(dateOk(occ.dataRevisao),`Data de revisão inválida: ${occ.id}`)
  requireText(occ.periodoFatos,'periodoFatos',occ.id)
  requireText(occ.partidoNosFatos,'partidoNosFatos',occ.id)
- assert.ok(occ.revisao&&occ.revisao.confirmacaoIdentidade===true&&occ.revisao.verificacaoAtualizacao===true&&occ.revisao.liberacaoPublica===true,`Revisão editorial incompleta: ${occ.id}`)
+ assert.ok(occ.revisao&&occ.revisao.confirmacaoIdentidade===true,`Identidade não conferida: ${occ.id}`)
+ if(occ.statusEditorial==='publicado')assert.ok(occ.revisao.verificacaoAtualizacao===true&&occ.revisao.liberacaoPublica===true,`Revisão de publicação incompleta: ${occ.id}`)
+ else assert.equal(occ.revisao.liberacaoPublica,false,`Rascunho marcado para publicação: ${occ.id}`)
  requireText(occ.revisao.responsavel,'revisao.responsavel',occ.id)
  assert.ok(dateOk(occ.revisao.data)&&occ.revisao.data<=occ.dataRevisao,`Data editorial inválida: ${occ.id}`)
  assert.ok(Array.isArray(occ.fontes)&&occ.fontes.length>=1,`Fonte ausente: ${occ.id}`)
@@ -72,4 +75,4 @@ for(const occ of data.ocorrencias){
   if(occ.tipoRegistro==='processo_ou_decisao')assert.ok(!['apuracao_jornalistica','pedido_de_apuracao','investigacao'].includes(occ.situacaoProcessual),`Processo requer fase judicial: ${occ.id}`)
  }
 }
-console.log(`Validador editorial: ${data.ocorrencias.length} ocorrências publicadas com controles de fonte, estado jurídico e revisão.`)
+console.log(`Validador editorial: ${data.ocorrencias.length} registros na base; ${data.ocorrencias.filter(o=>o.statusEditorial==='publicado').length} publicados, ${data.ocorrencias.filter(o=>o.statusEditorial==='revisao_final').length} aguardando revisão final.`)
