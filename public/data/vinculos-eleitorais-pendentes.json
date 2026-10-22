@@ -1,0 +1,1289 @@
+{
+  "metadados": {
+    "geradoEm": "2026-10-22",
+    "base2022": 234,
+    "base2026": 358,
+    "totalSugestoes": 142,
+    "aviso": "Somente sugestões para reconciliação humana. Nenhum vínculo é declarado como confirmado."
+  },
+  "sugestoes": [
+    {
+      "candidaturaId2022": "170001619693",
+      "candidaturaId2026": "170002539230",
+      "nome2022": "ABIMAEL DOS SANTOS PEREIRA",
+      "nome2026": "ABIMAEL DOS SANTOS PEREIRA LEAL",
+      "uf": "PE",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "210001648959",
+      "candidaturaId2026": "210002535664",
+      "nome2022": "ADRIANA VIEIRA LARA",
+      "nome2026": "ADRIANA VIEIRA LARA",
+      "uf": "RS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596743",
+      "candidaturaId2026": "190002533704",
+      "nome2022": "ALAN LOPES SANTANA",
+      "nome2026": "ALAN LOPES SANTANA",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "170001619685",
+      "candidaturaId2026": "170002539474",
+      "nome2022": "ALBERTO JORGE DO NASCIMENTO FEITOSA",
+      "nome2026": "ALBERTO JORGE DO NASCIMENTO FEITOSA",
+      "uf": "PE",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "210001648587",
+      "candidaturaId2026": "210002534656",
+      "nome2022": "ALCIBIO MESQUITA BIBO NUNES",
+      "nome2026": "ALCIBIO MESQUITA BIBO NUNES",
+      "uf": "RS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "40001633325",
+      "candidaturaId2026": "40002542968",
+      "nome2022": "ALCIMAR MACIEL PEREIRA",
+      "nome2026": "ALCIMAR MACIEL PEREIRA",
+      "uf": "AM",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "270001643578",
+      "candidaturaId2026": "270002544478",
+      "nome2022": "ALDAIR DA COSTA SOUSA",
+      "nome2026": "ALDAIR DA COSTA SOUSA",
+      "uf": "TO",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "50001609344",
+      "candidaturaId2026": "50002532900",
+      "nome2022": "ALDEN JOSÉ LÁZARO DA SILVA",
+      "nome2026": "ALDEN JOSÉ LAZARO DA SILVA",
+      "uf": "BA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001619043",
+      "candidaturaId2026": "130002542081",
+      "nome2022": "ALESSANDRA DINIZ PORTELA SILVEIRA",
+      "nome2026": "ALESSANDRA DINIZ PORTELA SILVEIRA",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610129",
+      "candidaturaId2026": "250002536367",
+      "nome2022": "ALEXANDER MUNIZ DE OLIVEIRA",
+      "nome2026": "ALEXANDER MUNIZ DE OLIVEIRA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596785",
+      "candidaturaId2026": "190002532810",
+      "nome2022": "ALTINEU CORTES FREITAS COUTINHO",
+      "nome2026": "ALTINEU CORTES FREITAS COUTINHO",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "100001603187",
+      "candidaturaId2026": "100002537280",
+      "nome2022": "ALUIZIO DE SOUZA SANTOS",
+      "nome2026": "ALUIZIO DE SOUZA SANTOS",
+      "uf": "MA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596745",
+      "candidaturaId2026": "190002533418",
+      "nome2022": "AMANDA BRANDAO ARMELAU",
+      "nome2026": "AMANDA BRANDÃO PAES ARMELAU",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001614348",
+      "candidaturaId2026": "240002539977",
+      "nome2022": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "nome2026": "ANA CAROLINE CAMPAGNOLO GALVAO",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596746",
+      "candidaturaId2026": "190002533433",
+      "nome2022": "ANDERSON LUIS DE MORAES",
+      "nome2026": "ANDERSON LUIS DE MORAES",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "60001614161",
+      "candidaturaId2026": "60002536979",
+      "nome2022": "ANDRÉ FERNANDES DE MOURA",
+      "nome2026": "ANDRE FERNANDES DE MOURA",
+      "uf": "CE",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "170001609080",
+      "candidaturaId2026": "170002539476",
+      "nome2022": "ANDRÉ FERREIRA RODRIGUES",
+      "nome2026": "ANDRÉ FERREIRA RODRIGUES",
+      "uf": "PE",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610161",
+      "candidaturaId2026": "250002541308",
+      "nome2022": "ANDRE LUIS DO PRADO",
+      "nome2026": "ANDRE LUIS DO PRADO",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "200001604696",
+      "candidaturaId2026": "200002533888",
+      "nome2022": "ANDRÉ LUIZ VIEIRA DE AZEVEDO",
+      "nome2026": "ANDRE LUIZ VIEIRA DE AZEVEDO",
+      "uf": "RN",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001619030",
+      "candidaturaId2026": "130002542060",
+      "nome2022": "ANTONIO CARLOS ARANTES",
+      "nome2026": "ANTÔNIO CARLOS ARANTES",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "10001649326",
+      "candidaturaId2026": "10002545646",
+      "nome2022": "ARLENILSON BARBOSA CUNHA",
+      "nome2026": "ARLENILSON BARBOSA CUNHA",
+      "uf": "AC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "230001604276",
+      "candidaturaId2026": "230002533367",
+      "nome2022": "ARMANDO DO CARMO ARAUJO",
+      "nome2026": "ARMANDO DO CARMO ARAUJO",
+      "uf": "RR",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "70001615922",
+      "candidaturaId2026": "70002552934",
+      "nome2022": "BEATRIZ KICIS TORRENTS DE SORDI",
+      "nome2026": "BEATRIZ KICIS TORRENTS DE SORDI",
+      "uf": "DF",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001619045",
+      "candidaturaId2026": "130002542113",
+      "nome2022": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "nome2026": "BRUNO DE CASTRO ENGLER FLORENCIO DE ALMEIDA",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610121",
+      "candidaturaId2026": "250002536419",
+      "nome2022": "BRUNO ZAMBELLI SALGADO",
+      "nome2026": "BRUNO ZAMBELLI SALGADO",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "120001614728",
+      "candidaturaId2026": "120002536066",
+      "nome2022": "CARLOS ALBERTO DAVID DOS SANTOS",
+      "nome2026": "CARLOS ALBERTO DAVID DOS SANTOS",
+      "uf": "MS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596750",
+      "candidaturaId2026": "190002533674",
+      "nome2022": "CARLOS AUGUSTO NOGUEIRA PINTO",
+      "nome2026": "CARLOS AUGUSTO NOGUEIRA PINTO",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001619046",
+      "candidaturaId2026": "130002542072",
+      "nome2022": "CARLOS HENRIQUE COELHO DE CAMPOS",
+      "nome2026": "CARLOS HENRIQUE COELHO DE CAMPOS",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001614329",
+      "candidaturaId2026": "240002539368",
+      "nome2022": "CARLOS HENRIQUE DE LIMA",
+      "nome2026": "CARLOS HENRIQUE DE LIMA",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001614337",
+      "candidaturaId2026": "240002539964",
+      "nome2022": "CARLOS HUMBERTO METZNER SILVA",
+      "nome2026": "CARLOS HUMBERTO METZNER SILVA",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596781",
+      "candidaturaId2026": "190002542888",
+      "nome2022": "CARLOS ROBERTO COELHO DE MATTOS JUNIOR",
+      "nome2026": "CARLOS ROBERTO COELHO DE MATTOS JÚNIOR",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "60001633791",
+      "candidaturaId2026": "60002536977",
+      "nome2022": "CARMELO SILVEIRA CARNEIRO LEÃO NETO",
+      "nome2026": "CARMELO SILVEIRA CARNEIRO LEÃO NETO",
+      "uf": "CE",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001610965",
+      "candidaturaId2026": "240002541931",
+      "nome2022": "CAROLINE RODRIGUES DE TONI",
+      "nome2026": "CAROLINE RODRIGUES DE TONI",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596798",
+      "candidaturaId2026": "190002532834",
+      "nome2022": "CHRISTINE NOGUEIRA DOS REIS TONIETTO",
+      "nome2026": "CHRISTINE NOGUEIRA DOS REIS TONIETTO",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "210001648963",
+      "candidaturaId2026": "210002535698",
+      "nome2022": "CLAUDIO GILNEI TATSCH",
+      "nome2026": "CLÁUDIO GILNEI TATSCH",
+      "uf": "RS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "100001603167",
+      "candidaturaId2026": "100002537299",
+      "nome2022": "CLAUDIO LUIZ LIMA CUNHA",
+      "nome2026": "CLAUDIO LUIZ LIMA CUNHA",
+      "uf": "MA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001619031",
+      "candidaturaId2026": "130002542043",
+      "nome2022": "CRISTIANO CAPOREZZO ARAUJO PIRES FERREIRA",
+      "nome2026": "CRISTIANO CAPOREZZO ARAUJO PIRES FERREIRA",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001610972",
+      "candidaturaId2026": "240002539376",
+      "nome2022": "DANIEL COSTA DE FREITAS",
+      "nome2026": "DANIEL COSTA DE FREITAS",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001610968",
+      "candidaturaId2026": "240002539382",
+      "nome2022": "DANIELA CRISTINA REINEHR",
+      "nome2026": "DANIELA CRISTINA REINEHR",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610113",
+      "candidaturaId2026": "250002536358",
+      "nome2022": "DANIELE MAZUQUELI ALONSO",
+      "nome2026": "DANIELE MAZUQUELI ALONSO ROSA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "80001648787",
+      "candidaturaId2026": "80002549411",
+      "nome2022": "DANILO BAHIENSE MOREIRA",
+      "nome2026": "DANILO BAHIENSE MOREIRA",
+      "uf": "ES",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610117",
+      "candidaturaId2026": "250002536429",
+      "nome2022": "DANILO MASCARENHAS DE BALAS",
+      "nome2026": "DANILO MASCARENHAS DE BALAS",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "40001633336",
+      "candidaturaId2026": "40002542971",
+      "nome2022": "DEBORA SALGUEIRO DE MENEZES",
+      "nome2026": "DEBORA SALGUEIRO DE MENEZES",
+      "uf": "AM",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "50001609451",
+      "candidaturaId2026": "50002535102",
+      "nome2022": "DIEGO CASTRO BARBOSA",
+      "nome2026": "DIEGO CASTRO BARBOSA",
+      "uf": "BA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001611016",
+      "candidaturaId2026": "130002551786",
+      "nome2022": "DOMINGOS SÁVIO CAMPOS RESENDE",
+      "nome2026": "DOMINGOS SAVIO CAMPOS RESENDE",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596741",
+      "candidaturaId2026": "190002542887",
+      "nome2022": "DOUGLAS RUAS DOS SANTOS",
+      "nome2026": "DOUGLAS RUAS DOS SANTOS",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "210001648938",
+      "candidaturaId2026": "210002535704",
+      "nome2022": "EDERILDO PAPARICO BACCHI",
+      "nome2026": "EDERILDO PAPARICO BACCHI",
+      "uf": "RS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001614342",
+      "candidaturaId2026": "240002539970",
+      "nome2022": "EDILSON MASSOCCO",
+      "nome2026": "EDILSON MASSOCCO",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "90001653796",
+      "candidaturaId2026": "90002543783",
+      "nome2022": "EDUARDO JOSE DO PRADO",
+      "nome2026": "EDUARDO JOSÉ DO PRADO",
+      "uf": "GO",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596794",
+      "candidaturaId2026": "190002532819",
+      "nome2022": "EDUARDO PAZUELLO",
+      "nome2026": "EDUARDO PAZUELLO",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "200001603004",
+      "candidaturaId2026": "200002533875",
+      "nome2022": "ELIESER GIRÃO MONTEIRO FILHO",
+      "nome2026": "ELIESER GIRAO MONTEIRO FILHO",
+      "uf": "RN",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001611018",
+      "candidaturaId2026": "130002542017",
+      "nome2022": "EMIDIO ALVES MADEIRA JUNIOR",
+      "nome2026": "EMIDIO ALVES MADEIRA JUNIOR",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001610990",
+      "candidaturaId2026": "130002542007",
+      "nome2022": "EROS FERREIRA BIONDINI",
+      "nome2026": "EROS FERREIRA BIONDINI",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "200001602999",
+      "candidaturaId2026": "200002533877",
+      "nome2022": "EVANDRO GONÇALVES DA SILVA JUNIOR",
+      "nome2026": "EVANDRO GONCALVES DA SILVA JUNIOR",
+      "uf": "RN",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "100001603158",
+      "candidaturaId2026": "100002537272",
+      "nome2022": "FABIANA VILAR RODRIGUES",
+      "nome2026": "FABIANA VILAR RODRIGUES",
+      "uf": "MA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "160001622028",
+      "candidaturaId2026": "160002547660",
+      "nome2022": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "nome2026": "FILIPE BARROS BAPTISTA DE TOLEDO RIBEIRO",
+      "uf": "PR",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "270001643553",
+      "candidaturaId2026": "270002544470",
+      "nome2022": "FILIPE MARTINS DOS SANTOS",
+      "nome2026": "FILIPE MARTINS DOS SANTOS",
+      "uf": "TO",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596738",
+      "candidaturaId2026": "190002532809",
+      "nome2022": "FILIPPE MEDEIROS POUBEL",
+      "nome2026": "FILIPPE MEDEIROS POUBEL",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001610992",
+      "candidaturaId2026": "130002542008",
+      "nome2022": "GERALDO JUNIO DO AMARAL",
+      "nome2026": "GERALDO JUNIO DO AMARAL",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "150001718239",
+      "candidaturaId2026": "150002538457",
+      "nome2022": "GILBERTO GOMES DA SILVA",
+      "nome2026": "GILBERTO GOMES DA SILVA",
+      "uf": "PB",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "110001620557",
+      "candidaturaId2026": "110002539234",
+      "nome2022": "GILBERTO MOACIR CATTANI",
+      "nome2026": "GILBERTO MOACIR CATTANI",
+      "uf": "MT",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610109",
+      "candidaturaId2026": "250002535936",
+      "nome2022": "GILDEVANIO ILSO DOS SANTOS DINIZ",
+      "nome2026": "GILDEVANIO ILSO DOS SANTOS DINIZ",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "210001648591",
+      "candidaturaId2026": "210002534897",
+      "nome2022": "GIOVANI CHERINI",
+      "nome2026": "GIOVANI CHERINI",
+      "uf": "RS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596739",
+      "candidaturaId2026": "190002533429",
+      "nome2022": "GISELLE LOUISE MONTEIRO DE OLIVEIRA",
+      "nome2026": "GISELLE LOUISE MONTEIRO DE OLIVEIRA",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610201",
+      "candidaturaId2026": "250002536366",
+      "nome2022": "GRACIELA DE LOURDES DAVID AMBROSIO",
+      "nome2026": "GRACIELA DE LOURDES DAVID AMBROSIO",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596756",
+      "candidaturaId2026": "190002533706",
+      "nome2022": "GUILHERME JANDRE DELAROLI",
+      "nome2026": "GUILHERME JANDRE DELAROLI",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001619055",
+      "candidaturaId2026": "130002542047",
+      "nome2022": "GUSTAVO DE VASCONCELLOS MOREIRA",
+      "nome2026": "GUSTAVO DE VASCONCELLOS MOREIRA",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "90001652508",
+      "candidaturaId2026": "90002543556",
+      "nome2022": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "nome2026": "GUSTAVO GAYER MACHADO DE ARAUJO",
+      "uf": "GO",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "140001601810",
+      "candidaturaId2026": "140002546711",
+      "nome2022": "HUGO ROGERIO SARMANHO BARRA",
+      "nome2026": "HUGO ROGERIO SARMANHO BARRA",
+      "uf": "PA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596713",
+      "candidaturaId2026": "190002533424",
+      "nome2022": "JAIR DE SIQUEIRA BITTENCOURT JUNIOR",
+      "nome2026": "JAIR DE SIQUEIRA BITTENCOURT JUNIOR",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "60001614163",
+      "candidaturaId2026": "60002536967",
+      "nome2022": "JAZIEL PEREIRA DE SOUSA",
+      "nome2026": "JAZIEL PEREIRA DE SOUSA",
+      "uf": "CE",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "220001713749",
+      "candidaturaId2026": "220002537554",
+      "nome2022": "JEAN HENRIQUE GEROLOMO DE MENDONÇA",
+      "nome2026": "JEAN HENRIQUE GEROLOMO DE MENDONCA",
+      "uf": "RO",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611329",
+      "candidaturaId2026": "250002535955",
+      "nome2022": "JEFFERSON ALVES DE CAMPOS",
+      "nome2026": "JEFFERSON ALVES DE CAMPOS",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001614350",
+      "candidaturaId2026": "240002539971",
+      "nome2022": "JESSÉ DE FARIA LOPES",
+      "nome2026": "JESSE DE FARIA LOPES",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "70001615924",
+      "candidaturaId2026": "70002550322",
+      "nome2022": "JOÃO ALBERTO FRAGA SILVA",
+      "nome2026": "JOAO ALBERTO FRAGA SILVA",
+      "uf": "DF",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "50001609371",
+      "candidaturaId2026": "50002532899",
+      "nome2022": "JOÃO CARLOS PAOLILO BACELAR FILHO",
+      "nome2026": "JOÃO CARLOS PAOLILO BACELAR FILHO",
+      "uf": "BA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "220001643595",
+      "candidaturaId2026": "220002536880",
+      "nome2022": "JOÃO CHRISÓSTOMO DE MOURA",
+      "nome2026": "JOAO CHRISOSTOMO DE MOURA",
+      "uf": "RO",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "150001718221",
+      "candidaturaId2026": "150002541190",
+      "nome2022": "JOÃO GOMES DE SOUZA NETO",
+      "nome2026": "JOÃO GOMES DE SOUZA NETO",
+      "uf": "PB",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "70001615870",
+      "candidaturaId2026": "70002550019",
+      "nome2022": "JOAQUIM DOMINGOS RORIZ NETO",
+      "nome2026": "JOAQUIM DOMINGOS RORIZ NETO",
+      "uf": "DF",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "140001598308",
+      "candidaturaId2026": "140002546710",
+      "nome2022": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+      "nome2026": "JOAQUIM PASSARINHO PINTO DE SOUZA PORTO",
+      "uf": "PA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001611127",
+      "candidaturaId2026": "240002537073",
+      "nome2022": "JORGINHO DOS SANTOS MELLO",
+      "nome2026": "JORGINHO DOS SANTOS MELLO",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "110001612757",
+      "candidaturaId2026": "110002552693",
+      "nome2022": "JOSÉ ANTÔNIO DOS SANTOS MEDEIROS",
+      "nome2026": "JOSE ANTONIO DOS SANTOS MEDEIROS",
+      "uf": "MT",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "160001654963",
+      "candidaturaId2026": "160002547624",
+      "nome2022": "JOSE APARECIDO JACOVOS",
+      "nome2026": "JOSÉ APARECIDO JACOVÓS",
+      "uf": "PR",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611357",
+      "candidaturaId2026": "250002535954",
+      "nome2022": "JOSÉ AUGUSTO ROSA",
+      "nome2026": "JOSE AUGUSTO ROSA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "160001654969",
+      "candidaturaId2026": "160002547650",
+      "nome2022": "JOSÉ GILBERTO DO CARMO ALVES RIBEIRO",
+      "nome2026": "JOSE GILBERTO DO CARMO ALVES RIBEIRO",
+      "uf": "PR",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001610999",
+      "candidaturaId2026": "130002542031",
+      "nome2022": "JOSÉ VITOR DE RESENDE AGUIAR",
+      "nome2026": "JOSE VITOR DE RESENDE AGUIAR",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001610974",
+      "candidaturaId2026": "240002539378",
+      "nome2022": "JULIA PEDROSO ZANATTA",
+      "nome2026": "JULIA PEDROSO ZANATTA",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "140001598314",
+      "candidaturaId2026": "140002546709",
+      "nome2022": "LENILDO MENDES DOS SANTOS SERTÃO",
+      "nome2026": "LENILDO MENDES DOS SANTOS SERTAO",
+      "uf": "PA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001611001",
+      "candidaturaId2026": "130002542015",
+      "nome2022": "LINCOLN DINIZ PORTELA",
+      "nome2026": "LINCOLN DINIZ PORTELA",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "80001648800",
+      "candidaturaId2026": "80002549698",
+      "nome2022": "LUCAS DA RE POLESE",
+      "nome2026": "LUCAS DA RE POLESE",
+      "uf": "ES",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610124",
+      "candidaturaId2026": "250002536410",
+      "nome2022": "LUCAS DIEZ BOVE",
+      "nome2026": "LUCAS DIEZ BOVE",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "80001648792",
+      "candidaturaId2026": "80002549430",
+      "nome2022": "LUCINIO CASTELO DE ASSUMÇAO",
+      "nome2026": "LUCINIO CASTELO DE ASSUMÇAO",
+      "uf": "ES",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "20001620174",
+      "candidaturaId2026": "20002550917",
+      "nome2022": "LUIZ ALBERTO ALVES TEIXEIRA",
+      "nome2026": "LUIZ ALBERTO ALVES TEIXEIRA",
+      "uf": "AL",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611345",
+      "candidaturaId2026": "250002535968",
+      "nome2022": "LUIZ CARLOS MOTTA",
+      "nome2026": "LUIZ CARLOS MOTTA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "90001652511",
+      "candidaturaId2026": "90002542624",
+      "nome2022": "MAGDA MOFATTO HON",
+      "nome2026": "MAGDA MOFATTO HON",
+      "uf": "GO",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001611029",
+      "candidaturaId2026": "130002542016",
+      "nome2022": "MARCELO HENRIQUE TEIXEIRA DIAS",
+      "nome2026": "MARCELO HENRIQUE TEIXEIRA DIAS",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "210001648576",
+      "candidaturaId2026": "210002534671",
+      "nome2022": "MARCELO PIRES MORAES",
+      "nome2026": "MARCELO PIRES MORAES",
+      "uf": "RS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596721",
+      "candidaturaId2026": "190002533420",
+      "nome2022": "MÁRCIO GUALBERTO DOS SANTOS",
+      "nome2026": "MARCIO GUALBERTO DOS SANTOS",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611336",
+      "candidaturaId2026": "250002535980",
+      "nome2022": "MARCIO LUIZ ALVINO DE SOUZA",
+      "nome2026": "MARCIO LUIZ ALVINO DE SOUZA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001614339",
+      "candidaturaId2026": "240002539963",
+      "nome2022": "MARCIUS DA SILVA MACHADO",
+      "nome2026": "MARCIUS DA SILVA MACHADO",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611335",
+      "candidaturaId2026": "250002535951",
+      "nome2022": "MARCO ANTONIO FELICIANO",
+      "nome2026": "MARCO ANTONIO FELICIANO",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001610976",
+      "candidaturaId2026": "240002539384",
+      "nome2022": "MARCOS ANTONIO PEREIRA GOMES",
+      "nome2026": "MARCOS ANTONIO PEREIRA GOMES",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610193",
+      "candidaturaId2026": "250002536406",
+      "nome2022": "MARCOS ROBERTO DAMASIO DA SILVA",
+      "nome2026": "MARCOS ROBERTO DAMASIO DA SILVA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "120001614258",
+      "candidaturaId2026": "120002536282",
+      "nome2022": "MARCOS SBOROWSKI POLLON",
+      "nome2026": "MARCOS SBOROWSKI POLLON",
+      "uf": "MS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "270001643572",
+      "candidaturaId2026": "270002544482",
+      "nome2022": "MARCUS MARCELO DE BARROS ARAUJO",
+      "nome2026": "MARCUS MARCELO DE BARROS ARAÚJO",
+      "uf": "TO",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "100001603115",
+      "candidaturaId2026": "100002537278",
+      "nome2022": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+      "nome2026": "MARIA DEUSDETE LIMA CUNHA RODRIGUES",
+      "uf": "MA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611324",
+      "candidaturaId2026": "250002535959",
+      "nome2022": "MARIO LUIS FRIAS",
+      "nome2026": "MARIO LUIS FRIAS",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610136",
+      "candidaturaId2026": "250002536395",
+      "nome2022": "MATHEUS COIMBRA MARTINS DE AGUIAR",
+      "nome2026": "MATHEUS COIMBRA MARTINS DE AGUIAR",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "60001614168",
+      "candidaturaId2026": "60002536984",
+      "nome2022": "MATHEUS SOARES NORONHA",
+      "nome2026": "MATHEUS SOARES NORONHA",
+      "uf": "CE",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611371",
+      "candidaturaId2026": "250002535948",
+      "nome2022": "MIGUEL LOMBARDI",
+      "nome2026": "MIGUEL LOMBARDI",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "140001601793",
+      "candidaturaId2026": "140002549265",
+      "nome2022": "NEIL DUARTE DE SOUZA",
+      "nome2026": "NEIL DUARTE DE SOUZA",
+      "uf": "PA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "210001648951",
+      "candidaturaId2026": "210002535706",
+      "nome2022": "NEIVA TERESINHA MARQUES",
+      "nome2026": "NEIVA TERESINHA MARQUES",
+      "uf": "RS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "160001622020",
+      "candidaturaId2026": "160002547565",
+      "nome2022": "NELSI COGUETTO MARIA",
+      "nome2026": "NELSI COGUETTO MARIA",
+      "uf": "PR",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001611005",
+      "candidaturaId2026": "130002542026",
+      "nome2022": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "nome2026": "NIKOLAS FERREIRA DE OLIVEIRA",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "240001614346",
+      "candidaturaId2026": "240002539988",
+      "nome2022": "OSCAR GUTZ",
+      "nome2026": "OSCAR GUTZ",
+      "uf": "SC",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611327",
+      "candidaturaId2026": "250002535991",
+      "nome2022": "PAULO FRANCISCO MUNIZ BILYNSKYJ",
+      "nome2026": "PAULO FRANCISCO MUNIZ BILYNSKYJ",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610126",
+      "candidaturaId2026": "250002536393",
+      "nome2022": "PAULO JORGE MANSUR NETO",
+      "nome2026": "PAULO JORGE MANSUR NETO",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611351",
+      "candidaturaId2026": "250002535982",
+      "nome2022": "PAULO ROBERTO FREIRE DA COSTA",
+      "nome2026": "PAULO ROBERTO FREIRE DA COSTA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "40001633341",
+      "candidaturaId2026": "40002542965",
+      "nome2022": "PERICLES RODRIGUES DO NASCIMENTO",
+      "nome2026": "PERICLES RODRIGUES DO NASCIMENTO",
+      "uf": "AM",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "160001654970",
+      "candidaturaId2026": "160002547593",
+      "nome2022": "RICARDO ARRUDA NUNES",
+      "nome2026": "RICARDO ARRUDA NUNES",
+      "uf": "PR",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610138",
+      "candidaturaId2026": "250002536389",
+      "nome2022": "RICARDO ROSSI MADALENA",
+      "nome2026": "RICARDO ROSSI MADALENA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "50001609349",
+      "candidaturaId2026": "50002532910",
+      "nome2022": "ROBERTA DE ARAÚJO COSTA ROMA",
+      "nome2026": "ROBERTA DE ARAUJO COSTA ROMA",
+      "uf": "BA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610141",
+      "candidaturaId2026": "250002536407",
+      "nome2022": "ROBERVAL CONTE LOPES LIMA",
+      "nome2026": "ROBERVAL CONTE LOPES LIMA",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "120001614260",
+      "candidaturaId2026": "120002536281",
+      "nome2022": "RODOLFO OLIVEIRA NOGUEIRA",
+      "nome2026": "RODOLFO OLIVEIRA NOGUEIRA",
+      "uf": "MS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610140",
+      "candidaturaId2026": "250002536352",
+      "nome2022": "RODRIGO AUGUSTO MORAES",
+      "nome2026": "RODRIGO AUGUSTO MORAES",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "70001615877",
+      "candidaturaId2026": "70002550009",
+      "nome2022": "ROOSEVELT VILELA PIRES",
+      "nome2026": "ROOSEVELT VILELA PIRES",
+      "uf": "DF",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001611311",
+      "candidaturaId2026": "250002535972",
+      "nome2022": "ROSANA DE OLIVEIRA VALLE",
+      "nome2026": "ROSANA DE OLIVEIRA VALLE",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001611025",
+      "candidaturaId2026": "130002542027",
+      "nome2022": "ROSÂNGELA DE OLIVEIRA CAMPOS REIS",
+      "nome2026": "ROSANGELA DE OLIVEIRA CAMPOS REIS",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "110001612764",
+      "candidaturaId2026": "110002538411",
+      "nome2022": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+      "nome2026": "RUBIA FERNANDA DINIZ ROBSON SANTOS DE SIQUEIRA",
+      "uf": "MT",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596718",
+      "candidaturaId2026": "190002533695",
+      "nome2022": "SERGIO RENATO FERREIRA MIRANDA",
+      "nome2026": "SERGIO RENATO FERREIRA MIRANDA",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001619041",
+      "candidaturaId2026": "130002542110",
+      "nome2022": "SHEILA APARECIDA PEDROSA DE MELLO OLIVEIRA",
+      "nome2026": "SHEILA APARECIDA PEDROSA DE MELLO",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "60001633828",
+      "candidaturaId2026": "60002542832",
+      "nome2022": "SILVANA OLIVEIRA DE SOUSA",
+      "nome2026": "SILVANA OLIVEIRA DE SOUSA",
+      "uf": "CE",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "100001603166",
+      "candidaturaId2026": "100002537286",
+      "nome2022": "SOLANGE DE ARAUJO SOUSA",
+      "nome2026": "SOLANGE DE ARAÚJO SOUSA",
+      "uf": "MA",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596770",
+      "candidaturaId2026": "190002532807",
+      "nome2022": "SORAYA ALENCAR DOS SANTOS",
+      "nome2026": "SORAYA ALENCAR DOS SANTOS",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596769",
+      "candidaturaId2026": "190002532795",
+      "nome2022": "SÓSTENES SILVA CAVALCANTE",
+      "nome2026": "SÓSTENES SILVA CAVALCANTE",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "70001615869",
+      "candidaturaId2026": "70002550319",
+      "nome2022": "THIAGO DE ARAÚJO MACIEIRA MANZONI",
+      "nome2026": "THIAGO DE ARAUJO MACIEIRA MANZONI",
+      "uf": "DF",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "190001596760",
+      "candidaturaId2026": "190002535140",
+      "nome2022": "THIAGO GAGLIASSO ONOFRE FERREIRA",
+      "nome2026": "THIAGO GAGLIASSO ONOFRE FERREIRA",
+      "uf": "RJ",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "250001610134",
+      "candidaturaId2026": "250002536423",
+      "nome2022": "THIAGO REIS AURICCHIO",
+      "nome2026": "THIAGO REIS AURICCHIO",
+      "uf": "SP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "210001648581",
+      "candidaturaId2026": "210002547816",
+      "nome2022": "UBIRATAN ANTUNES SANDERSON",
+      "nome2026": "UBIRATAN ANTUNES SANDERSON",
+      "uf": "RS",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "30001648512",
+      "candidaturaId2026": "30002538084",
+      "nome2022": "VINICIUS DE AZEVEDO GURGEL",
+      "nome2026": "VINICIUS DE AZEVEDO GURGEL",
+      "uf": "AP",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "150001718216",
+      "candidaturaId2026": "150002541191",
+      "nome2022": "WALLBER VIRGOLINO DA SILVA FERREIRA",
+      "nome2026": "WALLBER VIRGOLINO DA SILVA FERREIRA",
+      "uf": "PB",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    },
+    {
+      "candidaturaId2022": "130001619068",
+      "candidaturaId2026": "130002542109",
+      "nome2022": "WASHINGTON FERNANDO RODRIGUES",
+      "nome2026": "WASHINGTON FERNANDO RODRIGUES",
+      "uf": "MG",
+      "status": "pendente_revisao_humana",
+      "nota": "Correspondência sugerida por nome e UF; NÃO é prova de identidade e NÃO autoriza vincular ocorrências jurídicas."
+    }
+  ]
+}
