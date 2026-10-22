@@ -1,7 +1,7 @@
 {
   "name": "observatorio-integridade",
   "private": true,
-  "version": "0.4.0",
+  "version": "0.6.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "validate:data": "node scripts/validate-data.mjs",
     "validate:ocorrencias": "node scripts/validate-ocorrencias.mjs",
-    "validate:coverage": "node scripts/validate-coverage.mjs"
+    "validate:coverage": "node scripts/validate-coverage.mjs",
+    "import:2026": "node scripts/import-2026.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",
