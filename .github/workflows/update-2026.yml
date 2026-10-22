@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - scripts/import-2026.mjs
+      - scripts/import-tse-2026.py
       - .github/workflows/update-2026.yml
 permissions:
   contents: write
@@ -19,9 +20,9 @@ jobs:
         with:
           node-version: '22'
       - name: Verificar sintaxe do importador
-        run: node --check scripts/import-2026.mjs
-      - name: Importar resultados primeiro turno 2026
-        run: npm run import:2026
+        run: python3 -m py_compile scripts/import-tse-2026.py
+      - name: Importar totalização oficial TSE primeiro turno 2026
+        run: python3 scripts/import-tse-2026.py
       - name: Validar quantidade e integridade
         run: |
           node -e "const d=require('./public/data/eleitos-2026.json');if(d.pessoas.length<121||d.pessoas.filter(p=>p.cargo==='DEPUTADO FEDERAL').length!==121)process.exit(1); console.log(d.metadados)"
