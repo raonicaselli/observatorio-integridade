@@ -25,6 +25,8 @@ jobs:
       - name: Validar quantidade e integridade
         run: |
           node -e "const d=require('./public/data/eleitos-2026.json');if(d.pessoas.length<121||d.pessoas.filter(p=>p.cargo==='DEPUTADO FEDERAL').length!==121)process.exit(1); console.log(d.metadados)"
+      - name: Validar formato 2026
+        run: npm run validate:2026
       - name: Publicar atualização na main
         run: |
           git config user.name "github-actions[bot]"

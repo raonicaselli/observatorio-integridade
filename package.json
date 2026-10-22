@@ -10,7 +10,8 @@
     "validate:data": "node scripts/validate-data.mjs",
     "validate:ocorrencias": "node scripts/validate-ocorrencias.mjs",
     "validate:coverage": "node scripts/validate-coverage.mjs",
-    "import:2026": "node scripts/import-2026.mjs"
+    "import:2026": "node scripts/import-2026.mjs",
+    "validate:2026": "node scripts/validate-2026.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",
