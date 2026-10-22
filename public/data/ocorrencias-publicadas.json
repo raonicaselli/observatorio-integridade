@@ -316,15 +316,15 @@
       "situacaoProcessual": "investigacao",
       "titulo": "Mario Frias é investigado na Operação Make Up sobre destinação de emendas",
       "resumo": "O STF autorizou buscas em endereços de investigados, incluindo o deputado Mario Frias, na Operação Make Up, deflagrada pela PF em 10/09/2026. A investigação apura suspeitas de desvio de recursos de emendas destinadas a entidades privadas. A polícia e a CGU investigam possíveis fraudes contratuais e circulação de recursos entre empresas. A apuração não representa comprovação dos delitos.",
-      "descricaoSituacao": "Operação policial e medidas de busca e apreensão autorizadas pelo STF em 10/09/2026. Não foi confirmada denúncia recebida ou condenação nesse episódio.",
-      "limites": "Não foi comprovado por decisão judicial definitiva que emendas tenham financiado o filme Dark Horse; a própria cobertura da Agência Brasil ressalva que a cadeia financeira investigada não estabelece origem direta dos valores. Não foi localizado resultado conclusivo posterior à operação.",
+      "descricaoSituacao": "Operação Make Up e medidas de busca e apreensão autorizadas na PET 16669 em 10/09/2026. Na ocasião, o STF também informou medidas cautelares, incluindo recolhimento de passaporte e proibição de deixar o país sem autorização judicial. Não foi confirmada denúncia recebida ou condenação nesse episódio.",
+      "limites": "Na notícia de 10/09/2026, o STF identificou a PET 16669 e relatou suspeitas investigadas de desvio de emendas. As medidas cautelares e buscas não constituem condenação; não se confirmou desfecho conclusivo nem eventual revisão das cautelares até 22/10/2026.",
       "posicionamentoEnvolvido": "Mario Frias negou irregularidades e declarou que os recursos destinados a projetos sociais tinham finalidades públicas legítimas.",
       "dataMarco": "2026-09-10",
       "periodoFatos": "Destinação e execução de emendas parlamentares analisadas pela PF, com movimentações examinadas até julho de 2026",
       "partidoNosFatos": "PL no período da operação; filiação na data de cada fato não apurada integralmente",
       "orgao": "Supremo Tribunal Federal / Polícia Federal / Controladoria-Geral da União",
-      "processoNumero": "Investigação no STF; número público não confirmado nesta consulta",
-      "dataRevisao": "2026-10-21",
+      "processoNumero": "PET 16669 (STF)",
+      "dataRevisao": "2026-10-22",
       "fontes": [
         {
           "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-sobre-destinacao-de-emendas-parlamentares-no-caso-dark-horse/",
@@ -347,7 +347,7 @@
       ],
       "revisao": {
         "responsavel": "Revisão documental assistida por IA sob autorização editorial do mantenedor",
-        "data": "2026-10-21",
+        "data": "2026-10-22",
         "confirmacaoIdentidade": true,
         "verificacaoAtualizacao": true,
         "liberacaoPublica": true
@@ -441,13 +441,13 @@
       "resumo": "O Plenário do STF condenou o ex-deputado Eduardo Bolsonaro, por maioria, a um ano de detenção por difamação contra a deputada Tabata Amaral. A decisão da sessão virtual encerrada em 25 de setembro de 2026 decorre de publicações realizadas em outubro de 2021.",
       "descricaoSituacao": "Condenação colegiada por difamação em 25/09/2026, com pena de um ano de detenção e 39 dias-multa. Não foi comprovado trânsito em julgado.",
       "limites": "Trata-se de caso distinto da AP 2782. A fonte consultada descreve o julgamento de setembro de 2026; recursos posteriores e eventual trânsito em julgado não foram confirmados.",
-      "posicionamentoEnvolvido": "Manifestação específica após o julgamento não foi identificada na fonte oficial resumida consultada.",
+      "posicionamentoEnvolvido": "A defesa alegou incompetência do STF, nulidades e proteção das manifestações por imunidade parlamentar e liberdade de expressão, sustentando ausência de intenção de difamar. Os ministros André Mendonça, Nunes Marques e Luiz Fux ficaram vencidos, considerando que as falas estavam abrangidas pela imunidade parlamentar.",
       "dataMarco": "2026-09-25",
       "periodoFatos": "Publicações em outubro de 2021",
       "partidoNosFatos": "Não auditado para o período de outubro de 2021; eleito pelo PL em 2022",
       "orgao": "Supremo Tribunal Federal",
-      "processoNumero": "Número processual não confirmado nesta consulta",
-      "dataRevisao": "2026-10-21",
+      "processoNumero": "AP 1053 (STF)",
+      "dataRevisao": "2026-10-22",
       "fontes": [
         {
           "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-um-ano-de-detencao-por-difamar-deputada-tabata-amaral/",
@@ -458,7 +458,7 @@
       ],
       "revisao": {
         "responsavel": "Pesquisa documental assistida por IA sob autorização do mantenedor",
-        "data": "2026-10-21",
+        "data": "2026-10-22",
         "confirmacaoIdentidade": true,
         "verificacaoAtualizacao": true,
         "liberacaoPublica": true
