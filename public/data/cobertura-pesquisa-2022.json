@@ -7,7 +7,7 @@
     "total": 234,
     "triagemInicial": 0,
     "revisaoConcluida": 0,
-    "emRevisao": 8
+    "emRevisao": 10
   },
   "registros": [
     {
@@ -168,9 +168,9 @@
       "uf": "RJ",
       "cargo": "DEPUTADO FEDERAL",
       "nome": "ALEXANDRE RAMAGEM RODRIGUES",
-      "estado": "nao_iniciado",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
-      "atualizadoEm": null
+      "atualizadoEm": "2026-10-21"
     },
     {
       "candidaturaId": "190001596785",
@@ -663,9 +663,9 @@
       "uf": "SP",
       "cargo": "DEPUTADO FEDERAL",
       "nome": "EDUARDO NANTES BOLSONARO",
-      "estado": "nao_iniciado",
+      "estado": "em_revisao",
       "verificadoIntegralmenteEm": null,
-      "atualizadoEm": null
+      "atualizadoEm": "2026-10-21"
     },
     {
       "candidaturaId": "190001596794",
