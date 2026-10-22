@@ -27,11 +27,13 @@ jobs:
           node -e "const d=require('./public/data/eleitos-2026.json');if(d.pessoas.length<121||d.pessoas.filter(p=>p.cargo==='DEPUTADO FEDERAL').length!==121)process.exit(1); console.log(d.metadados)"
       - name: Validar formato 2026
         run: npm run validate:2026
+      - name: Produzir sugestões auditáveis de reconciliação
+        run: node scripts/reconcile-elections.mjs
       - name: Publicar atualização na main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/eleitos-2026.json
+          git add public/data/eleitos-2026.json public/data/vinculos-eleitorais-pendentes.json
           if ! git diff --cached --quiet; then
             git commit -m "data: atualizar eleitos PL 2026 do primeiro turno"
             git push
@@ -41,4 +43,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: eleitos-2026-diagnostico
-          path: public/data/eleitos-2026.json
+          path: |
+            public/data/eleitos-2026.json
+            public/data/vinculos-eleitorais-pendentes.json
