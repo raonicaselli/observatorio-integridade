@@ -66,7 +66,7 @@ def main():
     statuses=Counter()
     for r in table(votes_data,['votacao_candidato_munzona_2026']):
         if field(r,'NR_TURNO')!='1' or field(r,'SG_PARTIDO').upper()!='PL':continue
-        if field(r,'CD_CARGO') in ('2','4','6','7','8') or field(r,'DS_CARGO').upper() in ('VICE-GOVERNADOR','1º SUPLENTE','2º SUPLENTE'):continue
+        if field(r,'DS_CARGO').upper() in ('VICE-PRESIDENTE','VICE-GOVERNADOR','1º SUPLENTE','2º SUPLENTE','PRIMEIRO SUPLENTE','SEGUNDO SUPLENTE'):continue
         status=field(r,'DS_SIT_TOT_TURNO','DS_SIT_TOT_TURNO_SUP')
         statuses[status]+=1
         if not elected(status):continue
