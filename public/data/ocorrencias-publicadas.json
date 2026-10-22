@@ -2,7 +2,7 @@
   "metadados": {
     "versao": 1,
     "atualizadoEm": "2026-10-22",
-    "total": 11,
+    "total": 13,
     "escopo": "Ocorrências documentadas em fontes oficiais, aprovadas para exibição com ressalvas explícitas sobre recursos e desfechos.",
     "aviso": "Uma listagem vazia significa apenas que nenhuma ocorrência foi publicada nesta versão; não prova ausência de registros ou antecedentes."
   },
@@ -463,6 +463,76 @@
         "verificacaoAtualizacao": true,
         "liberacaoPublica": true
       }
+    },
+    {
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "penal",
+      "situacaoProcessual": "denuncia_recebida",
+      "partidoNosFatos": "PL na eleição de 2022; filiação específica na data dos fatos não auditada",
+      "orgao": "Supremo Tribunal Federal, Primeira Turma",
+      "dataRevisao": "2026-10-22",
+      "revisao": {
+        "responsavel": "Pesquisa documental com fonte oficial STF; revisão editorial assistida por IA",
+        "data": "2026-10-22",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      },
+      "id": "stf-inq4974-gustavo-gayer-2026",
+      "idCaso": "stf-inq-4974-injuria-presidente",
+      "candidaturaId": "90001652508",
+      "titulo": "STF recebe denúncia contra Gustavo Gayer por injúria ao presidente da República",
+      "resumo": "Em 28 de abril de 2026, a Primeira Turma do STF recebeu denúncia da PGR contra Gustavo Gayer por suposta injúria relacionada à publicação de imagem manipulada do presidente Lula nas redes sociais em 2024. O recebimento da denúncia tornou o deputado réu e iniciou a etapa processual de ação penal; não houve, nesse ato, condenação.",
+      "descricaoSituacao": "Denúncia recebida pelo STF no Inquérito 4974 em 28/04/2026. Situação após esse julgamento, eventuais recursos e sentença posterior não confirmados até esta revisão.",
+      "limites": "A abertura da ação penal não comprova culpa ou condenação. O status é o confirmado pela notícia oficial do STF publicada em 28/04/2026, não uma certidão atualizada de andamento. Vínculo com candidatura de 2022 validado pelo nome completo e cargo/UF do cadastro PL-GO.",
+      "posicionamentoEnvolvido": "A defesa afirmou ao STF que não houve crime e que a postagem seria crítica política coberta por imunidade parlamentar. O STF afastou essa tese para fins de recebimento da denúncia.",
+      "dataMarco": "2026-04-28",
+      "periodoFatos": "Publicação em redes sociais em 2024",
+      "processoNumero": "Inq 4974 (STF), denúncia recebida",
+      "fontes": [
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-aceita-denuncia-da-pgr-contra-deputado-gustavo-gayer-por-injuria-a-presidente-lula/",
+          "titulo": "STF aceita denúncia da PGR contra deputado Gustavo Gayer por injúria a presidente Lula",
+          "instituicao": "Supremo Tribunal Federal",
+          "tipo": "oficial"
+        }
+      ]
+    },
+    {
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "penal",
+      "situacaoProcessual": "denuncia_recebida",
+      "partidoNosFatos": "PL na eleição de 2022; filiação específica na data dos fatos não auditada",
+      "orgao": "Supremo Tribunal Federal, Primeira Turma",
+      "dataRevisao": "2026-10-22",
+      "revisao": {
+        "responsavel": "Pesquisa documental com fonte oficial STF; revisão editorial assistida por IA",
+        "data": "2026-10-22",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      },
+      "id": "stf-inq4999-gilvan-federal-2026",
+      "idCaso": "stf-inq-4999-injuria-presidente",
+      "candidaturaId": "80001615730",
+      "titulo": "STF recebe denúncia contra Gilvan da Federal por injúria ao presidente da República",
+      "resumo": "Em 18 de agosto de 2026, a Primeira Turma do STF recebeu denúncia da PGR contra Gilvan Aguiar Costa, conhecido como Gilvan da Federal, por suposta injúria relacionada à divulgação de declarações sobre o presidente Lula, proferidas em comissão parlamentar e posteriormente publicadas nas redes. O ato torna possível a tramitação da ação penal, sem condenação.",
+      "descricaoSituacao": "Denúncia recebida no Inquérito 4999 em 18/08/2026, por decisão da Primeira Turma do STF. Não foi confirmado desfecho de instrução penal ou decisão posterior até esta revisão.",
+      "limites": "O STF entendeu haver requisitos para processamento da acusação, não comprovação de crime. A relatora indicou que a intenção de ofender será examinada com contraditório na instrução. Não há trânsito em julgado nem condenação atestados.",
+      "posicionamentoEnvolvido": "A alegação de ausência de intenção ofensiva e a proteção pela imunidade parlamentar foram discutidas no julgamento. A Corte afastou a imunidade no recebimento da denúncia quanto à divulgação fora da Casa Legislativa. Defesa completa e manifestações posteriores não foram reconstituídas.",
+      "dataMarco": "2026-08-18",
+      "periodoFatos": "Declarações em comissão em 08/04/2025 e divulgação posterior em redes sociais",
+      "processoNumero": "Inq 4999 (STF), denúncia recebida",
+      "fontes": [
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-denuncia-contra-deputado-gilvan-da-federal-pl-es-por-ofensas-ao-presidente-lula/",
+          "titulo": "STF recebe denúncia contra deputado Gilvan da Federal (PL-ES)",
+          "instituicao": "Supremo Tribunal Federal",
+          "tipo": "oficial"
+        }
+      ]
     }
   ]
 }
