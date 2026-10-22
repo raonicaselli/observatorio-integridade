@@ -16,4 +16,5 @@ jobs:
       - run: npm run validate:data
       - run: npm run validate:ocorrencias
       - run: npm run validate:coverage
+      - run: npm run validate:2026
       - run: npm run build
