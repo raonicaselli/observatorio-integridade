@@ -35,6 +35,7 @@ jobs:
         run: npm run validate:ocorrencias
       - name: Verificar abrangência da pesquisa
         run: npm run validate:coverage
+      - run: npm run validate:2026
       - name: Compilar aplicação
         run: npm run build
       - name: Configurar GitHub Pages
