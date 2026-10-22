@@ -1,0 +1,47 @@
+{
+  "aviso": "Registro de pesquisa, não publicado: exige confirmação da identidade eleitoral e do andamento. Não inferir situação jurídica atual.",
+  "data": "2026-10-22",
+  "registros": [
+    {
+      "id": "tse-francischini-ro-0603975-98-2021",
+      "idCaso": "tse-francischini-desinformacao-2018",
+      "candidaturaId": "160002547568",
+      "statusEditorial": "pendente_revisao",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "eleitoral",
+      "situacaoProcessual": "outro",
+      "titulo": "TSE cassou mandato de Fernando Francischini por desinformação eleitoral em 2018",
+      "resumo": "O TSE cassou em 28/10/2021 o mandato estadual de Fernando Francischini por abuso de poder político e uso indevido dos meios de comunicação em fatos de 2018. Em 07/06/2022, a Segunda Turma do STF restabeleceu os efeitos da cassação.",
+      "descricaoSituacao": "Decisão eleitoral histórica, com inelegibilidade fixada por oito anos a contar do pleito de 2018. Não há conclusão verificada sobre inelegibilidade vigente em outubro de 2026.",
+      "dataMarco": "2022-06-07",
+      "periodoFatos": "Eleições de 2018",
+      "partidoNosFatos": "PSL em 2018; candidatura pelo PL em 2026",
+      "orgao": "TSE / STF",
+      "processoNumero": "RO 0603975-98 (TSE); TPA 39 (STF)",
+      "dataRevisao": "2026-10-22",
+      "limites": "Decisão eleitoral, não condenação penal. Identidade entre 2018 e 2026 requer validação de identificador estável; recursos posteriores e situação atual ainda carecem de revisão editorial.",
+      "posicionamentoEnvolvido": "A liminar do ministro Nunes Marques favorável à suspensão da cassação foi rejeitada pela Segunda Turma do STF, que restabeleceu o resultado do TSE.",
+      "fontes": [
+        {
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2021/Outubro/plenario-cassa-deputado-francischini-por-propagar-desinformacao-contra-o-sistema-eletronico-de-votacao",
+          "titulo": "TSE cassa mandato de Francischini",
+          "instituicao": "TSE",
+          "tipo": "oficial"
+        },
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-restabelece-cassacao-do-mandato-do-deputado-estadual-fernando-francischini-psl-pr/",
+          "titulo": "STF restabelece efeitos da cassação",
+          "instituicao": "STF",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Pesquisa documental assistida por IA; revisão editorial pendente",
+        "data": "2026-10-22",
+        "confirmacaoIdentidade": false,
+        "verificacaoAtualizacao": false,
+        "liberacaoPublica": false
+      }
+    }
+  ]
+}
