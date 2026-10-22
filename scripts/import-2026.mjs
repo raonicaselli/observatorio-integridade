@@ -8,8 +8,13 @@ if(localIndex!==-1){
  if(!filename)throw Error('Arquivo CSV não especificado')
  csv=readFileSync(filename,'utf8')
 }else{
- const response=await fetch(source,{headers:{'User-Agent':'ObservatorioIntegridade/1.0 (pesquisa eleitoral)'},signal:AbortSignal.timeout(45000)})
+ let response
+ try{
+  response=await fetch(source,{headers:{'User-Agent':'ObservatorioIntegridade/1.0 (pesquisa eleitoral)'},signal:AbortSignal.timeout(45000)})
+ }catch(error){throw Error('Falha ao consultar fonte '+source+': '+(error?.message||error))}
  if(!response.ok)throw Error('Fonte CSV indisponível: HTTP '+response.status+' ('+source+')')
+ const type=response.headers.get('content-type')||''
+ if(type.includes('text/html'))throw Error('Fonte retornou HTML, não CSV: '+source)
  csv=await response.text()
 }
 if(csv.length<1000)throw Error('CSV vazio ou inesperadamente pequeno')
@@ -29,11 +34,13 @@ function parseCSV(input){
  return rows.map(x=>Object.fromEntries(head.map((h,i)=>[h,x[i]||''])))
 }
 const records=parseCSV(csv)
+if(records.length<1000)throw Error('Lista de candidaturas inesperadamente curta: '+records.length)
 const elected=v=>/^(1|s|sim|true)$/i.test(String(v).trim())
 const notTwo=v=>!/2.?\s*turno/i.test(v)
 const isPL=x=>x.partido.trim().toUpperCase()==='PL'
 const electedPL=records.filter(x=>isPL(x)&&elected(x.eleito))
 const selected=electedPL.filter(x=>notTwo(x.situacao))
+if(selected.length===0)throw Error('Nenhum eleito PL identificado. Conferir formato da coluna eleito e situação. Exemplos: '+JSON.stringify(records.filter(isPL).slice(0,4).map(x=>({eleito:x.eleito,situacao:x.situacao,cargo:x.cargo}))))
 console.log('Diagnóstico do CSV:',JSON.stringify({linhas:records.length,pl:records.filter(isPL).length,eleitosPL:electedPL.length,primeiroTurno:selected.length,situacoes:[...new Set(records.filter(isPL).map(x=>x.situacao))].slice(0,25)}))
 const unique=new Set();const arr=selected.map(r=>{
  const id=String(r.sq_candidato).trim()
