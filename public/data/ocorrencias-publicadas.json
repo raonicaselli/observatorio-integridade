@@ -1,7 +1,7 @@
 {
   "metadados": {
     "versao": 1,
-    "atualizadoEm": "2026-10-21",
+    "atualizadoEm": "2026-10-22",
     "total": 11,
     "escopo": "Ocorrências documentadas em fontes oficiais, aprovadas para exibição com ressalvas explícitas sobre recursos e desfechos.",
     "aviso": "Uma listagem vazia significa apenas que nenhuma ocorrência foi publicada nesta versão; não prova ausência de registros ou antecedentes."
@@ -405,14 +405,14 @@
       "titulo": "STF condena Eduardo Bolsonaro por coação no curso de processo judicial",
       "resumo": "Em 16 de junho de 2026, a Primeira Turma do STF condenou o ex-deputado Eduardo Bolsonaro a quatro anos e dois meses de reclusão por coação no curso do processo, relacionada a tentativas de interferência no julgamento da AP 2668.",
       "descricaoSituacao": "Condenação colegiada na AP 2782 em 16/06/2026. A documentação utilizada não comprova esgotamento de recursos nem trânsito em julgado.",
-      "limites": "Não afirmar condenação transitada em julgado sem comprovação do andamento posterior. A decisão diz respeito ao crime de coação no curso do processo, não a condenação por participação na tentativa de golpe julgada na AP 2668.",
-      "posicionamentoEnvolvido": "O STF relata defesa no processo; não foi reconstituída manifestação atual completa do ex-parlamentar após a sentença.",
+      "limites": "A condenação colegiada de 16/06/2026 na AP 2782 está confirmada em notícia oficial do STF. Não foi verificado o trânsito em julgado ou o desfecho de eventuais recursos posteriores. Este caso trata de coação no curso do processo, e não de participação na tentativa de golpe julgada na AP 2668.",
+      "posicionamentoEnvolvido": "A Defensoria Pública da União argumentou no julgamento que as manifestações eram exercício de atividade política e parlamentar e não configuravam grave ameaça. Sustentou também que Eduardo Bolsonaro não tinha poder decisório sobre sanções dos Estados Unidos. A Primeira Turma rejeitou esses argumentos ao condená-lo.",
       "dataMarco": "2026-06-16",
       "periodoFatos": "Condutas investigadas em relação ao julgamento de 2025",
       "partidoNosFatos": "PL na época da eleição de 2022; filiação na data específica dos fatos não auditada",
       "orgao": "Supremo Tribunal Federal",
       "processoNumero": "AP 2782",
-      "dataRevisao": "2026-10-21",
+      "dataRevisao": "2026-10-22",
       "fontes": [
         {
           "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-4-anos-e-2-meses-de-reclusao-por-tentar-interferir-no-processo-sobre-tentativa-de-golpe/",
@@ -423,7 +423,7 @@
       ],
       "revisao": {
         "responsavel": "Pesquisa documental assistida por IA sob autorização do mantenedor",
-        "data": "2026-10-21",
+        "data": "2026-10-22",
         "confirmacaoIdentidade": true,
         "verificacaoAtualizacao": true,
         "liberacaoPublica": true
