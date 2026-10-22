@@ -43,3 +43,5 @@
 .case-footer span{font-weight:700;font-size:12px}.case-footer button{border:0;color:#236e4b;background:none;font-size:12px;display:flex;align-items:center;gap:5px;font-weight:800;white-space:nowrap}
 .cases-none{display:flex;gap:9px;padding:26px;color:#53695a}.cases-footnote{font-size:12px;color:#708172;line-height:1.75;margin-top:28px}
 @media(max-width:760px){.cases-results{grid-template-columns:1fr}.cases-filter{flex-direction:column}.cases-filter select{width:100%}.cases-page{padding-top:36px}.cases-metrics>div{min-width:130px;flex:1}.case-footer{align-items:flex-start;flex-wrap:wrap}}
+
+.year-toggle{display:inline-flex;border:1px solid #d8e5dc;background:white;border-radius:9px;padding:4px;gap:3px;margin:22px 0 16px}.year-toggle button{border:0;border-radius:7px;background:transparent;padding:10px 18px;color:#63796c;font-size:13px;font-weight:800}.year-toggle button.active{background:#19563b;color:white}.import-notice{border:1px solid #d6e7d9;border-radius:9px;background:#f2f8f3;padding:13px 16px;font-size:13px;line-height:1.7;color:#3b5d48;margin:6px 0 20px}.import-notice a{text-decoration:underline;font-weight:800}

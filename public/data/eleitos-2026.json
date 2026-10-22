@@ -1,0 +1,13 @@
+{
+  "metadados": {
+    "ano": 2026,
+    "turno": 1,
+    "partido": "PL",
+    "quantidade": 0,
+    "situacao": "aguardando_importacao_validada",
+    "fontePrimaria": "https://resultados.tse.jus.br/",
+    "fonteAgregadora": "https://colinhas.com.br/dados",
+    "aviso": "Este arquivo ainda não contém a lista validada. Não representa ausência de eleitos; ver workflow de atualização."
+  },
+  "pessoas": []
+}
