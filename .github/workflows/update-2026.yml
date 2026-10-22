@@ -1,4 +1,4 @@
-name: Atualizar eleitos PL 2026
+name: Importar eleitos PL 2026
 on:
   workflow_dispatch:
   push:
@@ -8,26 +8,24 @@ on:
       - .github/workflows/update-2026.yml
 permissions:
   contents: write
-  pages: write
-  id-token: write
-concurrency:
-  group: github-pages
-  cancel-in-progress: false
 jobs:
-  update-and-deploy:
+  update:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm install
-      - name: Importar primeiro turno 2026
+      - name: Verificar sintaxe do importador
+        run: node --check scripts/import-2026.mjs
+      - name: Importar resultados primeiro turno 2026
         run: npm run import:2026
-      - name: Conferir e versionar a importação
+      - name: Validar quantidade e integridade
+        run: |
+          node -e "const d=require('./public/data/eleitos-2026.json');if(d.pessoas.length<121||d.pessoas.filter(p=>p.cargo==='DEPUTADO FEDERAL').length!==121)process.exit(1); console.log(d.metadados)"
+      - name: Publicar atualização na main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -36,13 +34,9 @@ jobs:
             git commit -m "data: atualizar eleitos PL 2026 do primeiro turno"
             git push
           fi
-      - run: npm run validate:data
-      - run: npm run validate:coverage
-      - run: npm run validate:ocorrencias
-      - run: npm run build
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - name: Guardar cópia de diagnóstico
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
-          path: dist
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          name: eleitos-2026-diagnostico
+          path: public/data/eleitos-2026.json
