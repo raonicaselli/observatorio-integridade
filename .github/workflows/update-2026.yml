@@ -1,6 +1,11 @@
 name: Atualizar eleitos PL 2026
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/import-2026.mjs
+      - .github/workflows/update-2026.yml
 permissions:
   contents: write
   pages: write
