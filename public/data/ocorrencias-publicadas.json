@@ -2,7 +2,7 @@
   "metadados": {
     "versao": 1,
     "atualizadoEm": "2026-10-21",
-    "total": 8,
+    "total": 11,
     "escopo": "Ocorrências documentadas em fontes oficiais, aprovadas para exibição com ressalvas explícitas sobre recursos e desfechos.",
     "aviso": "Uma listagem vazia significa apenas que nenhuma ocorrência foi publicada nesta versão; não prova ausência de registros ou antecedentes."
   },
@@ -347,6 +347,117 @@
       ],
       "revisao": {
         "responsavel": "Revisão documental assistida por IA sob autorização editorial do mantenedor",
+        "data": "2026-10-21",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      }
+    },
+    {
+      "id": "stf-ramagem-ap2668-2025",
+      "idCaso": "stf-ap-2668-nucleo1",
+      "candidaturaId": "190001596777",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "penal",
+      "situacaoProcessual": "decisao_definitiva",
+      "titulo": "STF condenou Alexandre Ramagem na AP 2668 por crimes contra a democracia",
+      "resumo": "Na AP 2668, o STF condenou Alexandre Ramagem a 16 anos, um mês e 15 dias de reclusão por organização criminosa armada, tentativa de abolição violenta do Estado Democrático de Direito e golpe de Estado. Posteriormente, o STF registrou perda de mandato e retomada de ação separada por fatos posteriores à diplomação.",
+      "descricaoSituacao": "Condenação na AP 2668 com pena de 16 anos, um mês e 15 dias; em dezembro de 2025, o STF informou perda de mandato em decorrência da condenação e retomada de apuração de outros crimes. A situação processual de crimes posteriores à diplomação é separada desta decisão.",
+      "limites": "A condenação pela AP 2668 não se confunde com os crimes de dano qualificado e deterioração de patrimônio tombado, cuja apuração foi retomada após a perda do mandato. Não se afirma que houve condenação por estes últimos crimes.",
+      "posicionamentoEnvolvido": "Ramagem apresentou defesas e recursos ao longo do processo; a posição atual sobre a decisão não foi reconstituída na íntegra das fontes consultadas.",
+      "dataMarco": "2025-12-22",
+      "periodoFatos": "Articulação relacionada à tentativa de ruptura institucional após as eleições de 2022",
+      "partidoNosFatos": "Filiação específica em cada etapa não reconstituída; eleito pelo PL em 2022",
+      "orgao": "Supremo Tribunal Federal",
+      "processoNumero": "AP 2668",
+      "dataRevisao": "2026-10-21",
+      "fontes": [
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/apos-perda-de-mandato-stf-retoma-acao-penal-contra-alexandre-ramagem/",
+          "titulo": "Após perda do mandato, STF retoma ação contra Alexandre Ramagem",
+          "instituicao": "STF",
+          "tipo": "oficial"
+        },
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado",
+          "titulo": "STF fixa penas para condenados por tentativa de golpe",
+          "instituicao": "STF",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Pesquisa documental assistida por IA sob autorização do mantenedor",
+        "data": "2026-10-21",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      }
+    },
+    {
+      "id": "stf-eduardo-ap2782-2026",
+      "idCaso": "stf-ap-2782-coacao",
+      "candidaturaId": "250001611374",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "penal",
+      "situacaoProcessual": "decisao_nao_definitiva",
+      "titulo": "STF condena Eduardo Bolsonaro por coação no curso de processo judicial",
+      "resumo": "Em 16 de junho de 2026, a Primeira Turma do STF condenou o ex-deputado Eduardo Bolsonaro a quatro anos e dois meses de reclusão por coação no curso do processo, relacionada a tentativas de interferência no julgamento da AP 2668.",
+      "descricaoSituacao": "Condenação colegiada na AP 2782 em 16/06/2026. A documentação utilizada não comprova esgotamento de recursos nem trânsito em julgado.",
+      "limites": "Não afirmar condenação transitada em julgado sem comprovação do andamento posterior. A decisão diz respeito ao crime de coação no curso do processo, não a condenação por participação na tentativa de golpe julgada na AP 2668.",
+      "posicionamentoEnvolvido": "O STF relata defesa no processo; não foi reconstituída manifestação atual completa do ex-parlamentar após a sentença.",
+      "dataMarco": "2026-06-16",
+      "periodoFatos": "Condutas investigadas em relação ao julgamento de 2025",
+      "partidoNosFatos": "PL na época da eleição de 2022; filiação na data específica dos fatos não auditada",
+      "orgao": "Supremo Tribunal Federal",
+      "processoNumero": "AP 2782",
+      "dataRevisao": "2026-10-21",
+      "fontes": [
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-4-anos-e-2-meses-de-reclusao-por-tentar-interferir-no-processo-sobre-tentativa-de-golpe/",
+          "titulo": "STF condena Eduardo Bolsonaro por coação no curso do processo",
+          "instituicao": "STF",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Pesquisa documental assistida por IA sob autorização do mantenedor",
+        "data": "2026-10-21",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      }
+    },
+    {
+      "id": "stf-eduardo-difamacao-tabata-2026",
+      "idCaso": "stf-difamacao-tabata-amaral",
+      "candidaturaId": "250001611374",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "penal",
+      "situacaoProcessual": "decisao_nao_definitiva",
+      "titulo": "STF condena Eduardo Bolsonaro por difamação contra Tabata Amaral",
+      "resumo": "O Plenário do STF condenou o ex-deputado Eduardo Bolsonaro, por maioria, a um ano de detenção por difamação contra a deputada Tabata Amaral. A decisão da sessão virtual encerrada em 25 de setembro de 2026 decorre de publicações realizadas em outubro de 2021.",
+      "descricaoSituacao": "Condenação colegiada por difamação em 25/09/2026, com pena de um ano de detenção e 39 dias-multa. Não foi comprovado trânsito em julgado.",
+      "limites": "Trata-se de caso distinto da AP 2782. A fonte consultada descreve o julgamento de setembro de 2026; recursos posteriores e eventual trânsito em julgado não foram confirmados.",
+      "posicionamentoEnvolvido": "Manifestação específica após o julgamento não foi identificada na fonte oficial resumida consultada.",
+      "dataMarco": "2026-09-25",
+      "periodoFatos": "Publicações em outubro de 2021",
+      "partidoNosFatos": "Não auditado para o período de outubro de 2021; eleito pelo PL em 2022",
+      "orgao": "Supremo Tribunal Federal",
+      "processoNumero": "Número processual não confirmado nesta consulta",
+      "dataRevisao": "2026-10-21",
+      "fontes": [
+        {
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-um-ano-de-detencao-por-difamar-deputada-tabata-amaral/",
+          "titulo": "STF condena Eduardo Bolsonaro por difamar Tabata Amaral",
+          "instituicao": "STF",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Pesquisa documental assistida por IA sob autorização do mantenedor",
         "data": "2026-10-21",
         "confirmacaoIdentidade": true,
         "verificacaoAtualizacao": true,
