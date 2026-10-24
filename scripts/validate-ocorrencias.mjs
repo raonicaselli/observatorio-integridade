@@ -1,9 +1,9 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
+import { pathToFileURL } from 'node:url'
 
 const read = path => JSON.parse(readFileSync(new URL(path,import.meta.url),'utf8'))
-const data = read('../public/data/ocorrencias-publicadas.json')
-const eleitos = read('../public/data/eleitos-2022.json')
+export function validateOcorrencias(data, eleitos) {
 const cadastro = new Set(eleitos.pessoas.map(p=>String(p.id)))
 const categories = new Set(['eleitoral','penal','civel','administrativa','outra'])
 const types = new Set(['apuracao_jornalistica','pedido_de_apuracao','investigacao_oficial','processo_ou_decisao'])
@@ -27,8 +27,8 @@ for(const occ of data.ocorrencias){
  assert.ok(!ids.has(occ.id),`Ocorrência duplicada: ${occ.id}`)
  ids.add(occ.id)
  assert.ok(cadastro.has(String(occ.candidaturaId)),`Candidatura inexistente: ${occ.candidaturaId}`)
- assert.ok(['publicado','revisao_final'].includes(occ.statusEditorial),`Estado editorial inválido: ${occ.id}`)
- if(occ.statusEditorial==='publicado')assert.equal(occ.revisao?.liberacaoPublica,true,`Publicação sem aprovação: ${occ.id}`)
+ assert.equal(occ.statusEditorial,'publicado',`Base pública aceita somente registros publicados: ${occ.id}`)
+ assert.equal(occ.revisao?.liberacaoPublica,true,`Publicação sem aprovação: ${occ.id}`)
  assert.ok(types.has(occ.tipoRegistro),`Tipo de registro inválido: ${occ.id}`)
  requireText(occ.idCaso,'idCaso',occ.id,5)
  requireText(occ.titulo,'titulo',occ.id)
@@ -43,8 +43,7 @@ for(const occ of data.ocorrencias){
  requireText(occ.periodoFatos,'periodoFatos',occ.id)
  requireText(occ.partidoNosFatos,'partidoNosFatos',occ.id)
  assert.ok(occ.revisao&&occ.revisao.confirmacaoIdentidade===true,`Identidade não conferida: ${occ.id}`)
- if(occ.statusEditorial==='publicado')assert.ok(occ.revisao.verificacaoAtualizacao===true&&occ.revisao.liberacaoPublica===true,`Revisão de publicação incompleta: ${occ.id}`)
- else assert.equal(occ.revisao.liberacaoPublica,false,`Rascunho marcado para publicação: ${occ.id}`)
+ assert.equal(occ.revisao.verificacaoAtualizacao,true,`Revisão de publicação incompleta: ${occ.id}`)
  requireText(occ.revisao.responsavel,'revisao.responsavel',occ.id)
  assert.ok(dateOk(occ.revisao.data)&&occ.revisao.data<=occ.dataRevisao,`Data editorial inválida: ${occ.id}`)
  assert.ok(Array.isArray(occ.fontes)&&occ.fontes.length>=1,`Fonte ausente: ${occ.id}`)
@@ -75,4 +74,11 @@ for(const occ of data.ocorrencias){
   if(occ.tipoRegistro==='processo_ou_decisao')assert.ok(!['apuracao_jornalistica','pedido_de_apuracao','investigacao'].includes(occ.situacaoProcessual),`Processo requer fase judicial: ${occ.id}`)
  }
 }
-console.log(`Validador editorial: ${data.ocorrencias.length} registros na base; ${data.ocorrencias.filter(o=>o.statusEditorial==='publicado').length} publicados, ${data.ocorrencias.filter(o=>o.statusEditorial==='revisao_final').length} aguardando revisão final.`)
+}
+
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+ const data = read('../public/data/ocorrencias-publicadas.json')
+ const eleitos = read('../public/data/eleitos-2022.json')
+ validateOcorrencias(data, eleitos)
+ console.log(`Validador editorial: ${data.ocorrencias.length} registros publicados e aprovados na base pública.`)
+}
