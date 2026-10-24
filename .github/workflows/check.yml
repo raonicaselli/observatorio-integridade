@@ -13,6 +13,7 @@ jobs:
         with:
           node-version: '22'
       - run: npm install
+      - run: npm test
       - run: npm run validate:data
       - run: npm run validate:ocorrencias
       - run: npm run validate:coverage
