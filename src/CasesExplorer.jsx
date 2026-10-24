@@ -2,13 +2,18 @@ import React, { useMemo, useState } from 'react'
 import { ArrowUpRight, Search, FileWarning, ShieldCheck } from 'lucide-react'
 
 const names={investigacao_oficial:'Investigação oficial',processo_ou_decisao:'Processo ou decisão',pedido_de_apuracao:'Pedido de apuração',apuracao_jornalistica:'Apuração jornalística'}
-export default function CasesExplorer({ data, records, onOpen }) {
+export default function CasesExplorer({ data, records, onOpen, indisponivel=false }) {
  const [type,setType]=useState('')
  const [search,setSearch]=useState('')
  const published=(data?.ocorrencias||[]).filter(o=>o.statusEditorial==='publicado')
  const byId=useMemo(()=>new Map(records.map(p=>[String(p.id),p])),[records])
  const clean=v=>String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()
  const list=published.filter(o=>(!type||o.tipoRegistro===type)&&(!search||clean([o.titulo,o.resumo,byId.get(String(o.candidaturaId))?.nome,byId.get(String(o.candidaturaId))?.nomeUrna].join(' ')).includes(clean(search)))).sort((a,b)=>b.dataMarco.localeCompare(a.dataMarco))
+ if(indisponivel || data==null) return <main className="shell cases-page" id="casos">
+  <div className="kicker">BASE DOCUMENTAL / PILOTO 2022</div>
+  <h1>Investigações, processos e decisões</h1>
+  {indisponivel ? <div className="cases-none" role="alert"><FileWarning size={20}/><p>A consulta das ocorrências está temporariamente indisponível. Nenhuma conclusão pode ser tirada daqui. Tente recarregar a página.</p></div> : <p role="status">Carregando ocorrências documentadas…</p>}
+ </main>
  return <main className="shell cases-page" id="casos">
   <div className="kicker">BASE DOCUMENTAL / PILOTO 2022</div>
   <h1>Investigações, processos e decisões</h1>
