@@ -1,49 +1,67 @@
-name: Importar eleitos PL 2026
+name: Propor atualização dos resultados PL 2026
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - scripts/import-2026.mjs
-      - scripts/import-tse-2026.py
-      - .github/workflows/update-2026.yml
 permissions:
   contents: write
+  pull-requests: write
+concurrency:
+  group: atualizar-resultados-2026
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: true
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Verificar sintaxe do importador
-        run: python3 -m py_compile scripts/import-tse-2026.py
-      - name: Importar totalização oficial TSE primeiro turno 2026
-        run: python3 scripts/import-tse-2026.py
-      - name: Validar quantidade e integridade
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Preservar base anterior
+        run: cp public/data/eleitos-2026.json "$RUNNER_TEMP/eleitos-2026-anterior.json"
+      - name: Instalar dependências
+        run: npm install --package-lock=false
+      - name: Testar importação e aplicação
+        run: npm test
+      - name: Importar os dois turnos oficiais
+        run: npm run import:2026
+      - name: Validar dados e aplicação
         run: |
-          node -e "const d=require('./public/data/eleitos-2026.json');if(d.pessoas.length<121||d.pessoas.filter(p=>p.cargo==='DEPUTADO FEDERAL').length!==121)process.exit(1); console.log(d.metadados)"
-      - name: Validar formato 2026
-        run: npm run validate:2026
-      - name: Produzir sugestões auditáveis de reconciliação
-        run: node scripts/reconcile-elections.mjs
-      - name: Publicar atualização na main
+          npm run validate:data
+          npm run validate:ocorrencias
+          npm run validate:coverage
+          npm run validate:2026
+          node scripts/reconcile-elections.mjs
+          npm run build
+      - name: Gerar comparação auditável
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/eleitos-2026.json public/data/vinculos-eleitorais-pendentes.json
-          if ! git diff --cached --quiet; then
-            git commit -m "data: atualizar eleitos PL 2026 do primeiro turno"
-            git push
+          mkdir -p docs/auditorias
+          node scripts/compare-elections-2026.mjs "$RUNNER_TEMP/eleitos-2026-anterior.json" public/data/eleitos-2026.json docs/auditorias/ultima-atualizacao-2026.json
+      - name: Criar branch revisável e PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- public/data/eleitos-2026.json public/data/vinculos-eleitorais-pendentes.json; then
+            echo 'Nenhuma alteração eleitoral; nenhum PR necessário.'
+            exit 0
           fi
-      - name: Guardar cópia de diagnóstico
+          branch="data/resultados-2026-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git switch -c "$branch"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data/eleitos-2026.json public/data/vinculos-eleitorais-pendentes.json docs/auditorias/ultima-atualizacao-2026.json
+          git commit -m 'data: propor atualização dos resultados TSE 2026'
+          git push origin "HEAD:refs/heads/$branch"
+          gh pr create --base main --head "$branch" --title 'data: atualizar resultados TSE 2026' --body-file docs/modelo-pr-atualizacao-eleitoral.md
+      - name: Guardar diagnóstico
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: eleitos-2026-diagnostico
+          name: resultados-2026-diagnostico
           path: |
             public/data/eleitos-2026.json
             public/data/vinculos-eleitorais-pendentes.json
+            docs/auditorias/ultima-atualizacao-2026.json

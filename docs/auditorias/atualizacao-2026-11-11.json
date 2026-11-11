@@ -1,0 +1,3296 @@
+{
+  "metadadosAntes": {
+    "ano": 2026,
+    "turno": 1,
+    "partido": "PL",
+    "quantidade": 358,
+    "atualizadoEm": "2026-10-22",
+    "situacao": "apuracao_do_primeiro_turno_sujeita_a_retotalizacao",
+    "distribuicaoPorCargo": {
+      "DEPUTADO FEDERAL": 121,
+      "DEPUTADO ESTADUAL": 207,
+      "SENADOR": 19,
+      "DEPUTADO DISTRITAL": 5,
+      "GOVERNADOR": 6
+    },
+    "fontePrimaria": "https://dadosabertos.tse.jus.br/",
+    "arquivosOriginais": [
+      {
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+        "sha256": "6bb0b38ae2e2e5195e9bb74ffaa03ac0f4da136117c9218b98b0f3ee5767590f"
+      },
+      {
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "sha256": "7324c37a4654a0d7506690d67695991cf048cb825ef36a7271120a32c327d541"
+      }
+    ],
+    "aviso": "Somente eleitos titulares do primeiro turno. Sujeito a retotalizacao ou decisao judicial posterior."
+  },
+  "metadadosDepois": {
+    "ano": 2026,
+    "turnos": [
+      1,
+      2
+    ],
+    "partido": "PL",
+    "quantidade": 358,
+    "atualizadoEm": "2026-11-11",
+    "situacao": "resultados_dos_dois_turnos_sujeitos_a_retotalizacao",
+    "distribuicaoPorCargo": {
+      "DEPUTADO DISTRITAL": 5,
+      "DEPUTADO ESTADUAL": 207,
+      "DEPUTADO FEDERAL": 121,
+      "GOVERNADOR": 6,
+      "SENADOR": 19
+    },
+    "distribuicaoPorTurno": {
+      "1": 358
+    },
+    "fontePrimaria": "https://dadosabertos.tse.jus.br/",
+    "metodo": "Uma abrangência por ZIP; último turno da candidatura; soma de QT_VOTOS_NOMINAIS_VALIDOS por município/zona, sem somar turnos.",
+    "aviso": "Resultados dos dois turnos de 2026 consultados na data indicada. Sujeitos a retotalizações e decisões judiciais posteriores; não é certificação de diplomação.",
+    "arquivosOriginais": [
+      {
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+        "sha256": "4d7e2eb52aa58ae98a9225b0a171256306f07a94538c78efda9daea766c9e4ec"
+      },
+      {
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "sha256": "1d6a55f0b69e40877b071b10243fa1c0a7ec013e5a342808408c68769732bcb0"
+      }
+    ]
+  },
+  "resumo": {
+    "antes": 358,
+    "depois": 358,
+    "inclusoes": 0,
+    "exclusoes": 0,
+    "alteracoes": 358
+  },
+  "inclusoes": [],
+  "exclusoes": [],
+  "alteracoes": [
+    {
+      "id": "170002539230",
+      "campos": {
+        "votosValidos": {
+          "antes": 100808,
+          "depois": 50404
+        }
+      }
+    },
+    {
+      "id": "200002534419",
+      "campos": {
+        "votosValidos": {
+          "antes": 75748,
+          "depois": 37874
+        }
+      }
+    },
+    {
+      "id": "210002535664",
+      "campos": {
+        "votosValidos": {
+          "antes": 52258,
+          "depois": 26129
+        }
+      }
+    },
+    {
+      "id": "210002535710",
+      "campos": {
+        "votosValidos": {
+          "antes": 258984,
+          "depois": 129492
+        }
+      }
+    },
+    {
+      "id": "220002537562",
+      "campos": {
+        "votosValidos": {
+          "antes": 41672,
+          "depois": 20836
+        }
+      }
+    },
+    {
+      "id": "190002533704",
+      "campos": {
+        "votosValidos": {
+          "antes": 186792,
+          "depois": 93396
+        }
+      }
+    },
+    {
+      "id": "170002539474",
+      "campos": {
+        "votosValidos": {
+          "antes": 117626,
+          "depois": 58813
+        }
+      }
+    },
+    {
+      "id": "210002534656",
+      "campos": {
+        "votosValidos": {
+          "antes": 148414,
+          "depois": 74207
+        }
+      }
+    },
+    {
+      "id": "40002542968",
+      "campos": {
+        "votosValidos": {
+          "antes": 78834,
+          "depois": 39417
+        }
+      }
+    },
+    {
+      "id": "110002539005",
+      "campos": {
+        "votosValidos": {
+          "antes": 45248,
+          "depois": 22624
+        }
+      }
+    },
+    {
+      "id": "270002544478",
+      "campos": {
+        "votosValidos": {
+          "antes": 42938,
+          "depois": 21469
+        }
+      }
+    },
+    {
+      "id": "50002532900",
+      "campos": {
+        "votosValidos": {
+          "antes": 210220,
+          "depois": 105110
+        }
+      }
+    },
+    {
+      "id": "100002537271",
+      "campos": {
+        "votosValidos": {
+          "antes": 283528,
+          "depois": 141764
+        }
+      }
+    },
+    {
+      "id": "130002542081",
+      "campos": {
+        "votosValidos": {
+          "antes": 126190,
+          "depois": 63095
+        }
+      }
+    },
+    {
+      "id": "30002538135",
+      "campos": {
+        "votosValidos": {
+          "antes": 9610,
+          "depois": 4805
+        }
+      }
+    },
+    {
+      "id": "250002536367",
+      "campos": {
+        "votosValidos": {
+          "antes": 245408,
+          "depois": 122704
+        }
+      }
+    },
+    {
+      "id": "40002540480",
+      "campos": {
+        "votosValidos": {
+          "antes": 425896,
+          "depois": 212948
+        }
+      }
+    },
+    {
+      "id": "190002533688",
+      "campos": {
+        "votosValidos": {
+          "antes": 166922,
+          "depois": 83461
+        }
+      }
+    },
+    {
+      "id": "220002537559",
+      "campos": {
+        "votosValidos": {
+          "antes": 59324,
+          "depois": 29662
+        }
+      }
+    },
+    {
+      "id": "40002540481",
+      "campos": {
+        "votosValidos": {
+          "antes": 118542,
+          "depois": 59271
+        }
+      }
+    },
+    {
+      "id": "210002535691",
+      "campos": {
+        "votosValidos": {
+          "antes": 49466,
+          "depois": 24733
+        }
+      }
+    },
+    {
+      "id": "190002532810",
+      "campos": {
+        "votosValidos": {
+          "antes": 350322,
+          "depois": 175161
+        }
+      }
+    },
+    {
+      "id": "100002537280",
+      "campos": {
+        "votosValidos": {
+          "antes": 155182,
+          "depois": 77591
+        }
+      }
+    },
+    {
+      "id": "190002533418",
+      "campos": {
+        "votosValidos": {
+          "antes": 497008,
+          "depois": 248504
+        }
+      }
+    },
+    {
+      "id": "130002542080",
+      "campos": {
+        "votosValidos": {
+          "antes": 90312,
+          "depois": 45156
+        }
+      }
+    },
+    {
+      "id": "90002543800",
+      "campos": {
+        "votosValidos": {
+          "antes": 139112,
+          "depois": 69556
+        }
+      }
+    },
+    {
+      "id": "240002539977",
+      "campos": {
+        "votosValidos": {
+          "antes": 775046,
+          "depois": 387523
+        }
+      }
+    },
+    {
+      "id": "170002539181",
+      "campos": {
+        "votosValidos": {
+          "antes": 370858,
+          "depois": 185429
+        }
+      }
+    },
+    {
+      "id": "130002542079",
+      "campos": {
+        "votosValidos": {
+          "antes": 119740,
+          "depois": 59870
+        }
+      }
+    },
+    {
+      "id": "190002533433",
+      "campos": {
+        "votosValidos": {
+          "antes": 258650,
+          "depois": 129325
+        }
+      }
+    },
+    {
+      "id": "60002536979",
+      "campos": {
+        "votosValidos": {
+          "antes": 1368744,
+          "depois": 684372
+        }
+      }
+    },
+    {
+      "id": "250002541308",
+      "campos": {
+        "votosValidos": {
+          "antes": 25406178,
+          "depois": 12703089
+        }
+      }
+    },
+    {
+      "id": "120002536068",
+      "campos": {
+        "votosValidos": {
+          "antes": 56874,
+          "depois": 28437
+        }
+      }
+    },
+    {
+      "id": "200002533888",
+      "campos": {
+        "votosValidos": {
+          "antes": 210806,
+          "depois": 105403
+        }
+      }
+    },
+    {
+      "id": "170002539476",
+      "campos": {
+        "votosValidos": {
+          "antes": 237736,
+          "depois": 118868
+        }
+      }
+    },
+    {
+      "id": "70002550001",
+      "campos": {
+        "votosValidos": {
+          "antes": 47366,
+          "depois": 23683
+        }
+      }
+    },
+    {
+      "id": "230002534804",
+      "campos": {
+        "votosValidos": {
+          "antes": 276538,
+          "depois": 138269
+        }
+      }
+    },
+    {
+      "id": "130002542060",
+      "campos": {
+        "votosValidos": {
+          "antes": 291824,
+          "depois": 145912
+        }
+      }
+    },
+    {
+      "id": "10002545646",
+      "campos": {
+        "votosValidos": {
+          "antes": 20288,
+          "depois": 10144
+        }
+      }
+    },
+    {
+      "id": "230002533367",
+      "campos": {
+        "votosValidos": {
+          "antes": 13084,
+          "depois": 6542
+        }
+      }
+    },
+    {
+      "id": "230002549223",
+      "campos": {
+        "votosValidos": {
+          "antes": 441618,
+          "depois": 220809
+        }
+      }
+    },
+    {
+      "id": "70002552934",
+      "campos": {
+        "votosValidos": {
+          "antes": 1773232,
+          "depois": 886616
+        }
+      }
+    },
+    {
+      "id": "240002539973",
+      "campos": {
+        "votosValidos": {
+          "antes": 80654,
+          "depois": 40327
+        }
+      }
+    },
+    {
+      "id": "130002542113",
+      "campos": {
+        "votosValidos": {
+          "antes": 1351880,
+          "depois": 675940
+        }
+      }
+    },
+    {
+      "id": "220002539995",
+      "campos": {
+        "votosValidos": {
+          "antes": 948452,
+          "depois": 474226
+        }
+      }
+    },
+    {
+      "id": "250002536419",
+      "campos": {
+        "votosValidos": {
+          "antes": 165892,
+          "depois": 82946
+        }
+      }
+    },
+    {
+      "id": "200002534421",
+      "campos": {
+        "votosValidos": {
+          "antes": 62876,
+          "depois": 31438
+        }
+      }
+    },
+    {
+      "id": "240002539983",
+      "campos": {
+        "votosValidos": {
+          "antes": 127866,
+          "depois": 63933
+        }
+      }
+    },
+    {
+      "id": "120002536066",
+      "campos": {
+        "votosValidos": {
+          "antes": 82984,
+          "depois": 41492
+        }
+      }
+    },
+    {
+      "id": "130002541998",
+      "campos": {
+        "votosValidos": {
+          "antes": 50180,
+          "depois": 25090
+        }
+      }
+    },
+    {
+      "id": "210002535683",
+      "campos": {
+        "votosValidos": {
+          "antes": 52926,
+          "depois": 26463
+        }
+      }
+    },
+    {
+      "id": "190002533674",
+      "campos": {
+        "votosValidos": {
+          "antes": 116284,
+          "depois": 58142
+        }
+      }
+    },
+    {
+      "id": "270002546333",
+      "campos": {
+        "votosValidos": {
+          "antes": 900382,
+          "depois": 450191
+        }
+      }
+    },
+    {
+      "id": "190002535142",
+      "campos": {
+        "votosValidos": {
+          "antes": 8529864,
+          "depois": 4264932
+        }
+      }
+    },
+    {
+      "id": "130002542072",
+      "campos": {
+        "votosValidos": {
+          "antes": 105896,
+          "depois": 52948
+        }
+      }
+    },
+    {
+      "id": "240002539368",
+      "campos": {
+        "votosValidos": {
+          "antes": 256666,
+          "depois": 128333
+        }
+      }
+    },
+    {
+      "id": "240002539964",
+      "campos": {
+        "votosValidos": {
+          "antes": 110972,
+          "depois": 55486
+        }
+      }
+    },
+    {
+      "id": "240002541935",
+      "campos": {
+        "votosValidos": {
+          "antes": 4083680,
+          "depois": 2041840
+        }
+      }
+    },
+    {
+      "id": "190002542888",
+      "campos": {
+        "votosValidos": {
+          "antes": 7824810,
+          "depois": 3912405
+        }
+      }
+    },
+    {
+      "id": "60002536977",
+      "campos": {
+        "votosValidos": {
+          "antes": 112136,
+          "depois": 56068
+        }
+      }
+    },
+    {
+      "id": "240002541931",
+      "campos": {
+        "votosValidos": {
+          "antes": 5389836,
+          "depois": 2694918
+        }
+      }
+    },
+    {
+      "id": "130002542071",
+      "campos": {
+        "votosValidos": {
+          "antes": 225636,
+          "depois": 112818
+        }
+      }
+    },
+    {
+      "id": "190002532834",
+      "campos": {
+        "votosValidos": {
+          "antes": 163932,
+          "depois": 81966
+        }
+      }
+    },
+    {
+      "id": "50002535081",
+      "campos": {
+        "votosValidos": {
+          "antes": 178126,
+          "depois": 89063
+        }
+      }
+    },
+    {
+      "id": "100002537299",
+      "campos": {
+        "votosValidos": {
+          "antes": 98788,
+          "depois": 49394
+        }
+      }
+    },
+    {
+      "id": "210002535671",
+      "campos": {
+        "votosValidos": {
+          "antes": 246874,
+          "depois": 123437
+        }
+      }
+    },
+    {
+      "id": "130002542048",
+      "campos": {
+        "votosValidos": {
+          "antes": 85924,
+          "depois": 42962
+        }
+      }
+    },
+    {
+      "id": "210002535698",
+      "campos": {
+        "votosValidos": {
+          "antes": 81304,
+          "depois": 40652
+        }
+      }
+    },
+    {
+      "id": "130002542043",
+      "campos": {
+        "votosValidos": {
+          "antes": 115756,
+          "depois": 57878
+        }
+      }
+    },
+    {
+      "id": "160002547608",
+      "campos": {
+        "votosValidos": {
+          "antes": 96618,
+          "depois": 48309
+        }
+      }
+    },
+    {
+      "id": "210002535670",
+      "campos": {
+        "votosValidos": {
+          "antes": 64316,
+          "depois": 32158
+        }
+      }
+    },
+    {
+      "id": "240002539376",
+      "campos": {
+        "votosValidos": {
+          "antes": 152916,
+          "depois": 76458
+        }
+      }
+    },
+    {
+      "id": "190002533421",
+      "campos": {
+        "votosValidos": {
+          "antes": 85536,
+          "depois": 42768
+        }
+      }
+    },
+    {
+      "id": "230002534800",
+      "campos": {
+        "votosValidos": {
+          "antes": 33346,
+          "depois": 16673
+        }
+      }
+    },
+    {
+      "id": "240002539382",
+      "campos": {
+        "votosValidos": {
+          "antes": 192506,
+          "depois": 96253
+        }
+      }
+    },
+    {
+      "id": "250002536358",
+      "campos": {
+        "votosValidos": {
+          "antes": 311148,
+          "depois": 155574
+        }
+      }
+    },
+    {
+      "id": "190002532827",
+      "campos": {
+        "votosValidos": {
+          "antes": 233968,
+          "depois": 116984
+        }
+      }
+    },
+    {
+      "id": "80002549411",
+      "campos": {
+        "votosValidos": {
+          "antes": 38954,
+          "depois": 19477
+        }
+      }
+    },
+    {
+      "id": "250002536429",
+      "campos": {
+        "votosValidos": {
+          "antes": 192376,
+          "depois": 96188
+        }
+      }
+    },
+    {
+      "id": "80002549410",
+      "campos": {
+        "votosValidos": {
+          "antes": 76572,
+          "depois": 38286
+        }
+      }
+    },
+    {
+      "id": "120002536060",
+      "campos": {
+        "votosValidos": {
+          "antes": 61208,
+          "depois": 30604
+        }
+      }
+    },
+    {
+      "id": "40002542971",
+      "campos": {
+        "votosValidos": {
+          "antes": 136876,
+          "depois": 68438
+        }
+      }
+    },
+    {
+      "id": "130002542068",
+      "campos": {
+        "votosValidos": {
+          "antes": 109104,
+          "depois": 54552
+        }
+      }
+    },
+    {
+      "id": "160002547646",
+      "campos": {
+        "votosValidos": {
+          "antes": 142740,
+          "depois": 71370
+        }
+      }
+    },
+    {
+      "id": "50002535102",
+      "campos": {
+        "votosValidos": {
+          "antes": 320610,
+          "depois": 160305
+        }
+      }
+    },
+    {
+      "id": "190002532816",
+      "campos": {
+        "votosValidos": {
+          "antes": 204052,
+          "depois": 102026
+        }
+      }
+    },
+    {
+      "id": "210002534899",
+      "campos": {
+        "votosValidos": {
+          "antes": 186134,
+          "depois": 93067
+        }
+      }
+    },
+    {
+      "id": "130002551786",
+      "campos": {
+        "votosValidos": {
+          "antes": 9937658,
+          "depois": 4968829
+        }
+      }
+    },
+    {
+      "id": "190002532817",
+      "campos": {
+        "votosValidos": {
+          "antes": 160620,
+          "depois": 80310
+        }
+      }
+    },
+    {
+      "id": "190002542887",
+      "campos": {
+        "votosValidos": {
+          "antes": 8542398,
+          "depois": 4271199
+        }
+      }
+    },
+    {
+      "id": "230002533378",
+      "campos": {
+        "votosValidos": {
+          "antes": 16774,
+          "depois": 8387
+        }
+      }
+    },
+    {
+      "id": "210002535704",
+      "campos": {
+        "votosValidos": {
+          "antes": 143844,
+          "depois": 71922
+        }
+      }
+    },
+    {
+      "id": "10002544296",
+      "campos": {
+        "votosValidos": {
+          "antes": 27464,
+          "depois": 13732
+        }
+      }
+    },
+    {
+      "id": "240002539970",
+      "campos": {
+        "votosValidos": {
+          "antes": 129610,
+          "depois": 64805
+        }
+      }
+    },
+    {
+      "id": "130002542082",
+      "campos": {
+        "votosValidos": {
+          "antes": 331872,
+          "depois": 165936
+        }
+      }
+    },
+    {
+      "id": "90002543783",
+      "campos": {
+        "votosValidos": {
+          "antes": 78892,
+          "depois": 39446
+        }
+      }
+    },
+    {
+      "id": "190002532819",
+      "campos": {
+        "votosValidos": {
+          "antes": 292296,
+          "depois": 146148
+        }
+      }
+    },
+    {
+      "id": "250002535975",
+      "campos": {
+        "votosValidos": {
+          "antes": 133720,
+          "depois": 66860
+        }
+      }
+    },
+    {
+      "id": "200002533875",
+      "campos": {
+        "votosValidos": {
+          "antes": 266516,
+          "depois": 133258
+        }
+      }
+    },
+    {
+      "id": "160002547636",
+      "campos": {
+        "votosValidos": {
+          "antes": 76800,
+          "depois": 38400
+        }
+      }
+    },
+    {
+      "id": "130002542017",
+      "campos": {
+        "votosValidos": {
+          "antes": 189624,
+          "depois": 94812
+        }
+      }
+    },
+    {
+      "id": "130002542007",
+      "campos": {
+        "votosValidos": {
+          "antes": 163300,
+          "depois": 81650
+        }
+      }
+    },
+    {
+      "id": "80002549412",
+      "campos": {
+        "votosValidos": {
+          "antes": 103790,
+          "depois": 51895
+        }
+      }
+    },
+    {
+      "id": "200002533877",
+      "campos": {
+        "votosValidos": {
+          "antes": 308146,
+          "depois": 154073
+        }
+      }
+    },
+    {
+      "id": "250002536380",
+      "campos": {
+        "votosValidos": {
+          "antes": 122366,
+          "depois": 61183
+        }
+      }
+    },
+    {
+      "id": "100002537272",
+      "campos": {
+        "votosValidos": {
+          "antes": 320722,
+          "depois": 160361
+        }
+      }
+    },
+    {
+      "id": "130002542011",
+      "campos": {
+        "votosValidos": {
+          "antes": 87816,
+          "depois": 43908
+        }
+      }
+    },
+    {
+      "id": "90002542616",
+      "campos": {
+        "votosValidos": {
+          "antes": 87286,
+          "depois": 43643
+        }
+      }
+    },
+    {
+      "id": "250002536415",
+      "campos": {
+        "votosValidos": {
+          "antes": 155406,
+          "depois": 77703
+        }
+      }
+    },
+    {
+      "id": "110002539237",
+      "campos": {
+        "votosValidos": {
+          "antes": 82078,
+          "depois": 41039
+        }
+      }
+    },
+    {
+      "id": "190002533687",
+      "campos": {
+        "votosValidos": {
+          "antes": 82586,
+          "depois": 41293
+        }
+      }
+    },
+    {
+      "id": "250002536413",
+      "campos": {
+        "votosValidos": {
+          "antes": 276554,
+          "depois": 138277
+        }
+      }
+    },
+    {
+      "id": "160002547568",
+      "campos": {
+        "votosValidos": {
+          "antes": 106414,
+          "depois": 53207
+        }
+      }
+    },
+    {
+      "id": "250002536387",
+      "campos": {
+        "votosValidos": {
+          "antes": 134826,
+          "depois": 67413
+        }
+      }
+    },
+    {
+      "id": "260002550765",
+      "campos": {
+        "votosValidos": {
+          "antes": 44966,
+          "depois": 22483
+        }
+      }
+    },
+    {
+      "id": "220002539996",
+      "campos": {
+        "votosValidos": {
+          "antes": 1141598,
+          "depois": 570799
+        }
+      }
+    },
+    {
+      "id": "160002547660",
+      "campos": {
+        "votosValidos": {
+          "antes": 6297166,
+          "depois": 3148583
+        }
+      }
+    },
+    {
+      "id": "270002544470",
+      "campos": {
+        "votosValidos": {
+          "antes": 128136,
+          "depois": 64068
+        }
+      }
+    },
+    {
+      "id": "190002532809",
+      "campos": {
+        "votosValidos": {
+          "antes": 163920,
+          "depois": 81960
+        }
+      }
+    },
+    {
+      "id": "160002547597",
+      "campos": {
+        "votosValidos": {
+          "antes": 127662,
+          "depois": 63831
+        }
+      }
+    },
+    {
+      "id": "190002533425",
+      "campos": {
+        "votosValidos": {
+          "antes": 101328,
+          "depois": 50664
+        }
+      }
+    },
+    {
+      "id": "60002542833",
+      "campos": {
+        "votosValidos": {
+          "antes": 254068,
+          "depois": 127034
+        }
+      }
+    },
+    {
+      "id": "10002545649",
+      "campos": {
+        "votosValidos": {
+          "antes": 23028,
+          "depois": 11514
+        }
+      }
+    },
+    {
+      "id": "250002536377",
+      "campos": {
+        "votosValidos": {
+          "antes": 196750,
+          "depois": 98375
+        }
+      }
+    },
+    {
+      "id": "130002542036",
+      "campos": {
+        "votosValidos": {
+          "antes": 121250,
+          "depois": 60625
+        }
+      }
+    },
+    {
+      "id": "90002542618",
+      "campos": {
+        "votosValidos": {
+          "antes": 304760,
+          "depois": 152380
+        }
+      }
+    },
+    {
+      "id": "150002541192",
+      "campos": {
+        "votosValidos": {
+          "antes": 80582,
+          "depois": 40291
+        }
+      }
+    },
+    {
+      "id": "190002533422",
+      "campos": {
+        "votosValidos": {
+          "antes": 192534,
+          "depois": 96267
+        }
+      }
+    },
+    {
+      "id": "150002538453",
+      "campos": {
+        "votosValidos": {
+          "antes": 114908,
+          "depois": 57454
+        }
+      }
+    },
+    {
+      "id": "130002542008",
+      "campos": {
+        "votosValidos": {
+          "antes": 67524,
+          "depois": 33762
+        }
+      }
+    },
+    {
+      "id": "120002536054",
+      "campos": {
+        "votosValidos": {
+          "antes": 72216,
+          "depois": 36108
+        }
+      }
+    },
+    {
+      "id": "150002538457",
+      "campos": {
+        "votosValidos": {
+          "antes": 534284,
+          "depois": 267142
+        }
+      }
+    },
+    {
+      "id": "110002539234",
+      "campos": {
+        "votosValidos": {
+          "antes": 139344,
+          "depois": 69672
+        }
+      }
+    },
+    {
+      "id": "250002535936",
+      "campos": {
+        "votosValidos": {
+          "antes": 126796,
+          "depois": 63398
+        }
+      }
+    },
+    {
+      "id": "160002547569",
+      "campos": {
+        "votosValidos": {
+          "antes": 485286,
+          "depois": 242643
+        }
+      }
+    },
+    {
+      "id": "210002534897",
+      "campos": {
+        "votosValidos": {
+          "antes": 468342,
+          "depois": 234171
+        }
+      }
+    },
+    {
+      "id": "250002536388",
+      "campos": {
+        "votosValidos": {
+          "antes": 470726,
+          "depois": 235363
+        }
+      }
+    },
+    {
+      "id": "190002533429",
+      "campos": {
+        "votosValidos": {
+          "antes": 89064,
+          "depois": 44532
+        }
+      }
+    },
+    {
+      "id": "10002545660",
+      "campos": {
+        "votosValidos": {
+          "antes": 16058,
+          "depois": 8029
+        }
+      }
+    },
+    {
+      "id": "250002536366",
+      "campos": {
+        "votosValidos": {
+          "antes": 251248,
+          "depois": 125624
+        }
+      }
+    },
+    {
+      "id": "130002542019",
+      "campos": {
+        "votosValidos": {
+          "antes": 132790,
+          "depois": 66395
+        }
+      }
+    },
+    {
+      "id": "240002539972",
+      "campos": {
+        "votosValidos": {
+          "antes": 152082,
+          "depois": 76041
+        }
+      }
+    },
+    {
+      "id": "190002533706",
+      "campos": {
+        "votosValidos": {
+          "antes": 332748,
+          "depois": 166374
+        }
+      }
+    },
+    {
+      "id": "130002542047",
+      "campos": {
+        "votosValidos": {
+          "antes": 120586,
+          "depois": 60293
+        }
+      }
+    },
+    {
+      "id": "90002543556",
+      "campos": {
+        "votosValidos": {
+          "antes": 3278494,
+          "depois": 1639247
+        }
+      }
+    },
+    {
+      "id": "200002534423",
+      "campos": {
+        "votosValidos": {
+          "antes": 99062,
+          "depois": 49531
+        }
+      }
+    },
+    {
+      "id": "140002546711",
+      "campos": {
+        "votosValidos": {
+          "antes": 179946,
+          "depois": 89973
+        }
+      }
+    },
+    {
+      "id": "130002542000",
+      "campos": {
+        "votosValidos": {
+          "antes": 141144,
+          "depois": 70572
+        }
+      }
+    },
+    {
+      "id": "50002535104",
+      "campos": {
+        "votosValidos": {
+          "antes": 159472,
+          "depois": 79736
+        }
+      }
+    },
+    {
+      "id": "130002542004",
+      "campos": {
+        "votosValidos": {
+          "antes": 78550,
+          "depois": 39275
+        }
+      }
+    },
+    {
+      "id": "250002536375",
+      "campos": {
+        "votosValidos": {
+          "antes": 123906,
+          "depois": 61953
+        }
+      }
+    },
+    {
+      "id": "60002542851",
+      "campos": {
+        "votosValidos": {
+          "antes": 261604,
+          "depois": 130802
+        }
+      }
+    },
+    {
+      "id": "160002547611",
+      "campos": {
+        "votosValidos": {
+          "antes": 85760,
+          "depois": 42880
+        }
+      }
+    },
+    {
+      "id": "70002550316",
+      "campos": {
+        "votosValidos": {
+          "antes": 176112,
+          "depois": 88056
+        }
+      }
+    },
+    {
+      "id": "190002533424",
+      "campos": {
+        "votosValidos": {
+          "antes": 147444,
+          "depois": 73722
+        }
+      }
+    },
+    {
+      "id": "240002539371",
+      "campos": {
+        "votosValidos": {
+          "antes": 263110,
+          "depois": 131555
+        }
+      }
+    },
+    {
+      "id": "50002535120",
+      "campos": {
+        "votosValidos": {
+          "antes": 155412,
+          "depois": 77706
+        }
+      }
+    },
+    {
+      "id": "60002536967",
+      "campos": {
+        "votosValidos": {
+          "antes": 129740,
+          "depois": 64870
+        }
+      }
+    },
+    {
+      "id": "220002537554",
+      "campos": {
+        "votosValidos": {
+          "antes": 52214,
+          "depois": 26107
+        }
+      }
+    },
+    {
+      "id": "250002535955",
+      "campos": {
+        "votosValidos": {
+          "antes": 184572,
+          "depois": 92286
+        }
+      }
+    },
+    {
+      "id": "240002539971",
+      "campos": {
+        "votosValidos": {
+          "antes": 123562,
+          "depois": 61781
+        }
+      }
+    },
+    {
+      "id": "160002547605",
+      "campos": {
+        "votosValidos": {
+          "antes": 263346,
+          "depois": 131673
+        }
+      }
+    },
+    {
+      "id": "210002534664",
+      "campos": {
+        "votosValidos": {
+          "antes": 189250,
+          "depois": 94625
+        }
+      }
+    },
+    {
+      "id": "70002550322",
+      "campos": {
+        "votosValidos": {
+          "antes": 237158,
+          "depois": 118579
+        }
+      }
+    },
+    {
+      "id": "70002550000",
+      "campos": {
+        "votosValidos": {
+          "antes": 41244,
+          "depois": 20622
+        }
+      }
+    },
+    {
+      "id": "220002536880",
+      "campos": {
+        "votosValidos": {
+          "antes": 102974,
+          "depois": 51487
+        }
+      }
+    },
+    {
+      "id": "70002550019",
+      "campos": {
+        "votosValidos": {
+          "antes": 91208,
+          "depois": 45604
+        }
+      }
+    },
+    {
+      "id": "140002546710",
+      "campos": {
+        "votosValidos": {
+          "antes": 292614,
+          "depois": 146307
+        }
+      }
+    },
+    {
+      "id": "110002538410",
+      "campos": {
+        "votosValidos": {
+          "antes": 257394,
+          "depois": 128697
+        }
+      }
+    },
+    {
+      "id": "190002532823",
+      "campos": {
+        "votosValidos": {
+          "antes": 134596,
+          "depois": 67298
+        }
+      }
+    },
+    {
+      "id": "190002533686",
+      "campos": {
+        "votosValidos": {
+          "antes": 117016,
+          "depois": 58508
+        }
+      }
+    },
+    {
+      "id": "240002537073",
+      "campos": {
+        "votosValidos": {
+          "antes": 5884772,
+          "depois": 2942386
+        }
+      }
+    },
+    {
+      "id": "110002552693",
+      "campos": {
+        "votosValidos": {
+          "antes": 1955554,
+          "depois": 977777
+        }
+      }
+    },
+    {
+      "id": "250002535954",
+      "campos": {
+        "votosValidos": {
+          "antes": 307490,
+          "depois": 153745
+        }
+      }
+    },
+    {
+      "id": "160002547650",
+      "campos": {
+        "votosValidos": {
+          "antes": 75692,
+          "depois": 37846
+        }
+      }
+    },
+    {
+      "id": "230002533356",
+      "campos": {
+        "votosValidos": {
+          "antes": 19946,
+          "depois": 9973
+        }
+      }
+    },
+    {
+      "id": "60002542827",
+      "campos": {
+        "votosValidos": {
+          "antes": 56632,
+          "depois": 28316
+        }
+      }
+    },
+    {
+      "id": "130002542031",
+      "campos": {
+        "votosValidos": {
+          "antes": 290012,
+          "depois": 145006
+        }
+      }
+    },
+    {
+      "id": "100002537291",
+      "campos": {
+        "votosValidos": {
+          "antes": 166224,
+          "depois": 83112
+        }
+      }
+    },
+    {
+      "id": "160002547624",
+      "campos": {
+        "votosValidos": {
+          "antes": 152746,
+          "depois": 76373
+        }
+      }
+    },
+    {
+      "id": "120002536055",
+      "campos": {
+        "votosValidos": {
+          "antes": 108160,
+          "depois": 54080
+        }
+      }
+    },
+    {
+      "id": "100002537287",
+      "campos": {
+        "votosValidos": {
+          "antes": 126000,
+          "depois": 63000
+        }
+      }
+    },
+    {
+      "id": "50002532899",
+      "campos": {
+        "votosValidos": {
+          "antes": 214464,
+          "depois": 107232
+        }
+      }
+    },
+    {
+      "id": "150002541172",
+      "campos": {
+        "votosValidos": {
+          "antes": 71244,
+          "depois": 35622
+        }
+      }
+    },
+    {
+      "id": "150002541190",
+      "campos": {
+        "votosValidos": {
+          "antes": 84904,
+          "depois": 42452
+        }
+      }
+    },
+    {
+      "id": "250002536356",
+      "campos": {
+        "votosValidos": {
+          "antes": 152742,
+          "depois": 76371
+        }
+      }
+    },
+    {
+      "id": "190002532835",
+      "campos": {
+        "votosValidos": {
+          "antes": 207760,
+          "depois": 103880
+        }
+      }
+    },
+    {
+      "id": "240002539378",
+      "campos": {
+        "votosValidos": {
+          "antes": 1120446,
+          "depois": 560223
+        }
+      }
+    },
+    {
+      "id": "240002539969",
+      "campos": {
+        "votosValidos": {
+          "antes": 86284,
+          "depois": 43142
+        }
+      }
+    },
+    {
+      "id": "140002549286",
+      "campos": {
+        "votosValidos": {
+          "antes": 139438,
+          "depois": 69719
+        }
+      }
+    },
+    {
+      "id": "190002533709",
+      "campos": {
+        "votosValidos": {
+          "antes": 85742,
+          "depois": 42871
+        }
+      }
+    },
+    {
+      "id": "200002534427",
+      "campos": {
+        "votosValidos": {
+          "antes": 108330,
+          "depois": 54165
+        }
+      }
+    },
+    {
+      "id": "130002542003",
+      "campos": {
+        "votosValidos": {
+          "antes": 123546,
+          "depois": 61773
+        }
+      }
+    },
+    {
+      "id": "140002549262",
+      "campos": {
+        "votosValidos": {
+          "antes": 174364,
+          "depois": 87182
+        }
+      }
+    },
+    {
+      "id": "240002539991",
+      "campos": {
+        "votosValidos": {
+          "antes": 85026,
+          "depois": 42513
+        }
+      }
+    },
+    {
+      "id": "140002546709",
+      "campos": {
+        "votosValidos": {
+          "antes": 829854,
+          "depois": 414927
+        }
+      }
+    },
+    {
+      "id": "20002550946",
+      "campos": {
+        "votosValidos": {
+          "antes": 34356,
+          "depois": 17178
+        }
+      }
+    },
+    {
+      "id": "250002536404",
+      "campos": {
+        "votosValidos": {
+          "antes": 189664,
+          "depois": 94832
+        }
+      }
+    },
+    {
+      "id": "130002542015",
+      "campos": {
+        "votosValidos": {
+          "antes": 74324,
+          "depois": 37162
+        }
+      }
+    },
+    {
+      "id": "90002543807",
+      "campos": {
+        "votosValidos": {
+          "antes": 92112,
+          "depois": 46056
+        }
+      }
+    },
+    {
+      "id": "80002549698",
+      "campos": {
+        "votosValidos": {
+          "antes": 839470,
+          "depois": 419735
+        }
+      }
+    },
+    {
+      "id": "250002536410",
+      "campos": {
+        "votosValidos": {
+          "antes": 142526,
+          "depois": 71263
+        }
+      }
+    },
+    {
+      "id": "250002535995",
+      "campos": {
+        "votosValidos": {
+          "antes": 6076876,
+          "depois": 3038438
+        }
+      }
+    },
+    {
+      "id": "80002554483",
+      "campos": {
+        "votosValidos": {
+          "antes": 87946,
+          "depois": 43973
+        }
+      }
+    },
+    {
+      "id": "220002537549",
+      "campos": {
+        "votosValidos": {
+          "antes": 56462,
+          "depois": 28231
+        }
+      }
+    },
+    {
+      "id": "260002550754",
+      "campos": {
+        "votosValidos": {
+          "antes": 57350,
+          "depois": 28675
+        }
+      }
+    },
+    {
+      "id": "210002547857",
+      "campos": {
+        "votosValidos": {
+          "antes": 7032096,
+          "depois": 3516048
+        }
+      }
+    },
+    {
+      "id": "80002549430",
+      "campos": {
+        "votosValidos": {
+          "antes": 120194,
+          "depois": 60097
+        }
+      }
+    },
+    {
+      "id": "220002536882",
+      "campos": {
+        "votosValidos": {
+          "antes": 316842,
+          "depois": 158421
+        }
+      }
+    },
+    {
+      "id": "20002550917",
+      "campos": {
+        "votosValidos": {
+          "antes": 198330,
+          "depois": 99165
+        }
+      }
+    },
+    {
+      "id": "220002537555",
+      "campos": {
+        "votosValidos": {
+          "antes": 51830,
+          "depois": 25915
+        }
+      }
+    },
+    {
+      "id": "200002534425",
+      "campos": {
+        "votosValidos": {
+          "antes": 100700,
+          "depois": 50350
+        }
+      }
+    },
+    {
+      "id": "120002536069",
+      "campos": {
+        "votosValidos": {
+          "antes": 52408,
+          "depois": 26204
+        }
+      }
+    },
+    {
+      "id": "250002535968",
+      "campos": {
+        "votosValidos": {
+          "antes": 225708,
+          "depois": 112854
+        }
+      }
+    },
+    {
+      "id": "200002533885",
+      "campos": {
+        "votosValidos": {
+          "antes": 79836,
+          "depois": 39918
+        }
+      }
+    },
+    {
+      "id": "250002535940",
+      "campos": {
+        "votosValidos": {
+          "antes": 258008,
+          "depois": 129004
+        }
+      }
+    },
+    {
+      "id": "130002542022",
+      "campos": {
+        "votosValidos": {
+          "antes": 71916,
+          "depois": 35958
+        }
+      }
+    },
+    {
+      "id": "250002535958",
+      "campos": {
+        "votosValidos": {
+          "antes": 375486,
+          "depois": 187743
+        }
+      }
+    },
+    {
+      "id": "90002542624",
+      "campos": {
+        "votosValidos": {
+          "antes": 263966,
+          "depois": 131983
+        }
+      }
+    },
+    {
+      "id": "150002541204",
+      "campos": {
+        "votosValidos": {
+          "antes": 107282,
+          "depois": 53641
+        }
+      }
+    },
+    {
+      "id": "190002532804",
+      "campos": {
+        "votosValidos": {
+          "antes": 235296,
+          "depois": 117648
+        }
+      }
+    },
+    {
+      "id": "120002536286",
+      "campos": {
+        "votosValidos": {
+          "antes": 240398,
+          "depois": 120199
+        }
+      }
+    },
+    {
+      "id": "190002533699",
+      "campos": {
+        "votosValidos": {
+          "antes": 93400,
+          "depois": 46700
+        }
+      }
+    },
+    {
+      "id": "190002533710",
+      "campos": {
+        "votosValidos": {
+          "antes": 115964,
+          "depois": 57982
+        }
+      }
+    },
+    {
+      "id": "130002542066",
+      "campos": {
+        "votosValidos": {
+          "antes": 127476,
+          "depois": 63738
+        }
+      }
+    },
+    {
+      "id": "130002542016",
+      "campos": {
+        "votosValidos": {
+          "antes": 113916,
+          "depois": 56958
+        }
+      }
+    },
+    {
+      "id": "210002534671",
+      "campos": {
+        "votosValidos": {
+          "antes": 206584,
+          "depois": 103292
+        }
+      }
+    },
+    {
+      "id": "210002534898",
+      "campos": {
+        "votosValidos": {
+          "antes": 147948,
+          "depois": 73974
+        }
+      }
+    },
+    {
+      "id": "230002533380",
+      "campos": {
+        "votosValidos": {
+          "antes": 22882,
+          "depois": 11441
+        }
+      }
+    },
+    {
+      "id": "120002536072",
+      "campos": {
+        "votosValidos": {
+          "antes": 46244,
+          "depois": 23122
+        }
+      }
+    },
+    {
+      "id": "190002533420",
+      "campos": {
+        "votosValidos": {
+          "antes": 101608,
+          "depois": 50804
+        }
+      }
+    },
+    {
+      "id": "250002535980",
+      "campos": {
+        "votosValidos": {
+          "antes": 522650,
+          "depois": 261325
+        }
+      }
+    },
+    {
+      "id": "10002548050",
+      "campos": {
+        "votosValidos": {
+          "antes": 447944,
+          "depois": 223972
+        }
+      }
+    },
+    {
+      "id": "240002539963",
+      "campos": {
+        "votosValidos": {
+          "antes": 74122,
+          "depois": 37061
+        }
+      }
+    },
+    {
+      "id": "250002535951",
+      "campos": {
+        "votosValidos": {
+          "antes": 244238,
+          "depois": 122119
+        }
+      }
+    },
+    {
+      "id": "90002543795",
+      "campos": {
+        "votosValidos": {
+          "antes": 62078,
+          "depois": 31039
+        }
+      }
+    },
+    {
+      "id": "50002535085",
+      "campos": {
+        "votosValidos": {
+          "antes": 100470,
+          "depois": 50235
+        }
+      }
+    },
+    {
+      "id": "240002539384",
+      "campos": {
+        "votosValidos": {
+          "antes": 179660,
+          "depois": 89830
+        }
+      }
+    },
+    {
+      "id": "240002539981",
+      "campos": {
+        "votosValidos": {
+          "antes": 93046,
+          "depois": 46523
+        }
+      }
+    },
+    {
+      "id": "250002536406",
+      "campos": {
+        "votosValidos": {
+          "antes": 313382,
+          "depois": 156691
+        }
+      }
+    },
+    {
+      "id": "220002541939",
+      "campos": {
+        "votosValidos": {
+          "antes": 1074740,
+          "depois": 537370
+        }
+      }
+    },
+    {
+      "id": "120002536282",
+      "campos": {
+        "votosValidos": {
+          "antes": 280258,
+          "depois": 140129
+        }
+      }
+    },
+    {
+      "id": "130002542044",
+      "campos": {
+        "votosValidos": {
+          "antes": 134742,
+          "depois": 67371
+        }
+      }
+    },
+    {
+      "id": "270002544482",
+      "campos": {
+        "votosValidos": {
+          "antes": 40708,
+          "depois": 20354
+        }
+      }
+    },
+    {
+      "id": "100002537278",
+      "campos": {
+        "votosValidos": {
+          "antes": 167092,
+          "depois": 83546
+        }
+      }
+    },
+    {
+      "id": "250002536384",
+      "campos": {
+        "votosValidos": {
+          "antes": 3912476,
+          "depois": 1956238
+        }
+      }
+    },
+    {
+      "id": "250002535959",
+      "campos": {
+        "votosValidos": {
+          "antes": 182806,
+          "depois": 91403
+        }
+      }
+    },
+    {
+      "id": "140002549285",
+      "campos": {
+        "votosValidos": {
+          "antes": 168708,
+          "depois": 84354
+        }
+      }
+    },
+    {
+      "id": "130002542062",
+      "campos": {
+        "votosValidos": {
+          "antes": 107458,
+          "depois": 53729
+        }
+      }
+    },
+    {
+      "id": "130002542054",
+      "campos": {
+        "votosValidos": {
+          "antes": 85748,
+          "depois": 42874
+        }
+      }
+    },
+    {
+      "id": "250002536395",
+      "campos": {
+        "votosValidos": {
+          "antes": 396684,
+          "depois": 198342
+        }
+      }
+    },
+    {
+      "id": "60002536984",
+      "campos": {
+        "votosValidos": {
+          "antes": 247980,
+          "depois": 123990
+        }
+      }
+    },
+    {
+      "id": "160002547616",
+      "campos": {
+        "votosValidos": {
+          "antes": 102632,
+          "depois": 51316
+        }
+      }
+    },
+    {
+      "id": "210002534654",
+      "campos": {
+        "votosValidos": {
+          "antes": 759668,
+          "depois": 379834
+        }
+      }
+    },
+    {
+      "id": "240002539976",
+      "campos": {
+        "votosValidos": {
+          "antes": 88316,
+          "depois": 44158
+        }
+      }
+    },
+    {
+      "id": "210002535669",
+      "campos": {
+        "votosValidos": {
+          "antes": 111140,
+          "depois": 55570
+        }
+      }
+    },
+    {
+      "id": "160002547640",
+      "campos": {
+        "votosValidos": {
+          "antes": 102744,
+          "depois": 51372
+        }
+      }
+    },
+    {
+      "id": "140002549269",
+      "campos": {
+        "votosValidos": {
+          "antes": 107958,
+          "depois": 53979
+        }
+      }
+    },
+    {
+      "id": "60002542831",
+      "campos": {
+        "votosValidos": {
+          "antes": 69504,
+          "depois": 34752
+        }
+      }
+    },
+    {
+      "id": "70002552936",
+      "campos": {
+        "votosValidos": {
+          "antes": 1876992,
+          "depois": 938496
+        }
+      }
+    },
+    {
+      "id": "250002535948",
+      "campos": {
+        "votosValidos": {
+          "antes": 192666,
+          "depois": 96333
+        }
+      }
+    },
+    {
+      "id": "270002544480",
+      "campos": {
+        "votosValidos": {
+          "antes": 52316,
+          "depois": 26158
+        }
+      }
+    },
+    {
+      "id": "250002536344",
+      "campos": {
+        "votosValidos": {
+          "antes": 141994,
+          "depois": 70997
+        }
+      }
+    },
+    {
+      "id": "210002535685",
+      "campos": {
+        "votosValidos": {
+          "antes": 222682,
+          "depois": 111341
+        }
+      }
+    },
+    {
+      "id": "140002549265",
+      "campos": {
+        "votosValidos": {
+          "antes": 103664,
+          "depois": 51832
+        }
+      }
+    },
+    {
+      "id": "210002535706",
+      "campos": {
+        "votosValidos": {
+          "antes": 112872,
+          "depois": 56436
+        }
+      }
+    },
+    {
+      "id": "160002547565",
+      "campos": {
+        "votosValidos": {
+          "antes": 144332,
+          "depois": 72166
+        }
+      }
+    },
+    {
+      "id": "190002533707",
+      "campos": {
+        "votosValidos": {
+          "antes": 141104,
+          "depois": 70552
+        }
+      }
+    },
+    {
+      "id": "130002542026",
+      "campos": {
+        "votosValidos": {
+          "antes": 6238636,
+          "depois": 3119318
+        }
+      }
+    },
+    {
+      "id": "150002541194",
+      "campos": {
+        "votosValidos": {
+          "antes": 154178,
+          "depois": 77089
+        }
+      }
+    },
+    {
+      "id": "120002536067",
+      "campos": {
+        "votosValidos": {
+          "antes": 71810,
+          "depois": 35905
+        }
+      }
+    },
+    {
+      "id": "100002537267",
+      "campos": {
+        "votosValidos": {
+          "antes": 165654,
+          "depois": 82827
+        }
+      }
+    },
+    {
+      "id": "240002539988",
+      "campos": {
+        "votosValidos": {
+          "antes": 103906,
+          "depois": 51953
+        }
+      }
+    },
+    {
+      "id": "210002534668",
+      "campos": {
+        "votosValidos": {
+          "antes": 233294,
+          "depois": 116647
+        }
+      }
+    },
+    {
+      "id": "250002535991",
+      "campos": {
+        "votosValidos": {
+          "antes": 180726,
+          "depois": 90363
+        }
+      }
+    },
+    {
+      "id": "160002547632",
+      "campos": {
+        "votosValidos": {
+          "antes": 384818,
+          "depois": 192409
+        }
+      }
+    },
+    {
+      "id": "250002536393",
+      "campos": {
+        "votosValidos": {
+          "antes": 214146,
+          "depois": 107073
+        }
+      }
+    },
+    {
+      "id": "120002536056",
+      "campos": {
+        "votosValidos": {
+          "antes": 89082,
+          "depois": 44541
+        }
+      }
+    },
+    {
+      "id": "250002535982",
+      "campos": {
+        "votosValidos": {
+          "antes": 198776,
+          "depois": 99388
+        }
+      }
+    },
+    {
+      "id": "160002547629",
+      "campos": {
+        "votosValidos": {
+          "antes": 97752,
+          "depois": 48876
+        }
+      }
+    },
+    {
+      "id": "50002535103",
+      "campos": {
+        "votosValidos": {
+          "antes": 131364,
+          "depois": 65682
+        }
+      }
+    },
+    {
+      "id": "130002542093",
+      "campos": {
+        "votosValidos": {
+          "antes": 81752,
+          "depois": 40876
+        }
+      }
+    },
+    {
+      "id": "190002533711",
+      "campos": {
+        "votosValidos": {
+          "antes": 114708,
+          "depois": 57354
+        }
+      }
+    },
+    {
+      "id": "40002542965",
+      "campos": {
+        "votosValidos": {
+          "antes": 117474,
+          "depois": 58737
+        }
+      }
+    },
+    {
+      "id": "130002542107",
+      "campos": {
+        "votosValidos": {
+          "antes": 454018,
+          "depois": 227009
+        }
+      }
+    },
+    {
+      "id": "190002532820",
+      "campos": {
+        "votosValidos": {
+          "antes": 182148,
+          "depois": 91074
+        }
+      }
+    },
+    {
+      "id": "10002545655",
+      "campos": {
+        "votosValidos": {
+          "antes": 16138,
+          "depois": 8069
+        }
+      }
+    },
+    {
+      "id": "50002532883",
+      "campos": {
+        "votosValidos": {
+          "antes": 324740,
+          "depois": 162370
+        }
+      }
+    },
+    {
+      "id": "230002533376",
+      "campos": {
+        "votosValidos": {
+          "antes": 15438,
+          "depois": 7719
+        }
+      }
+    },
+    {
+      "id": "120002535764",
+      "campos": {
+        "votosValidos": {
+          "antes": 1807108,
+          "depois": 903554
+        }
+      }
+    },
+    {
+      "id": "120002535769",
+      "campos": {
+        "votosValidos": {
+          "antes": 1712090,
+          "depois": 856045
+        }
+      }
+    },
+    {
+      "id": "140002549255",
+      "campos": {
+        "votosValidos": {
+          "antes": 151682,
+          "depois": 75841
+        }
+      }
+    },
+    {
+      "id": "250002535947",
+      "campos": {
+        "votosValidos": {
+          "antes": 758624,
+          "depois": 379312
+        }
+      }
+    },
+    {
+      "id": "160002547614",
+      "campos": {
+        "votosValidos": {
+          "antes": 94462,
+          "depois": 47231
+        }
+      }
+    },
+    {
+      "id": "160002547593",
+      "campos": {
+        "votosValidos": {
+          "antes": 103326,
+          "depois": 51663
+        }
+      }
+    },
+    {
+      "id": "250002536389",
+      "campos": {
+        "votosValidos": {
+          "antes": 188638,
+          "depois": 94319
+        }
+      }
+    },
+    {
+      "id": "240002539377",
+      "campos": {
+        "votosValidos": {
+          "antes": 157396,
+          "depois": 78698
+        }
+      }
+    },
+    {
+      "id": "50002532910",
+      "campos": {
+        "votosValidos": {
+          "antes": 312216,
+          "depois": 156108
+        }
+      }
+    },
+    {
+      "id": "130002542096",
+      "campos": {
+        "votosValidos": {
+          "antes": 127680,
+          "depois": 63840
+        }
+      }
+    },
+    {
+      "id": "250002536407",
+      "campos": {
+        "votosValidos": {
+          "antes": 278450,
+          "depois": 139225
+        }
+      }
+    },
+    {
+      "id": "120002536281",
+      "campos": {
+        "votosValidos": {
+          "antes": 206606,
+          "depois": 103303
+        }
+      }
+    },
+    {
+      "id": "250002536352",
+      "campos": {
+        "votosValidos": {
+          "antes": 147574,
+          "depois": 73787
+        }
+      }
+    },
+    {
+      "id": "190002533703",
+      "campos": {
+        "votosValidos": {
+          "antes": 131060,
+          "depois": 65530
+        }
+      }
+    },
+    {
+      "id": "250002536361",
+      "campos": {
+        "votosValidos": {
+          "antes": 325124,
+          "depois": 162562
+        }
+      }
+    },
+    {
+      "id": "130002542039",
+      "campos": {
+        "votosValidos": {
+          "antes": 75068,
+          "depois": 37534
+        }
+      }
+    },
+    {
+      "id": "250002536405",
+      "campos": {
+        "votosValidos": {
+          "antes": 178312,
+          "depois": 89156
+        }
+      }
+    },
+    {
+      "id": "70002550009",
+      "campos": {
+        "votosValidos": {
+          "antes": 78362,
+          "depois": 39181
+        }
+      }
+    },
+    {
+      "id": "250002535972",
+      "campos": {
+        "votosValidos": {
+          "antes": 427504,
+          "depois": 213752
+        }
+      }
+    },
+    {
+      "id": "130002542027",
+      "campos": {
+        "votosValidos": {
+          "antes": 114126,
+          "depois": 57063
+        }
+      }
+    },
+    {
+      "id": "160002547585",
+      "campos": {
+        "votosValidos": {
+          "antes": 292834,
+          "depois": 146417
+        }
+      }
+    },
+    {
+      "id": "110002538411",
+      "campos": {
+        "votosValidos": {
+          "antes": 410128,
+          "depois": 205064
+        }
+      }
+    },
+    {
+      "id": "110002539240",
+      "campos": {
+        "votosValidos": {
+          "antes": 115800,
+          "depois": 57900
+        }
+      }
+    },
+    {
+      "id": "50002535119",
+      "campos": {
+        "votosValidos": {
+          "antes": 174304,
+          "depois": 87152
+        }
+      }
+    },
+    {
+      "id": "250002535965",
+      "campos": {
+        "votosValidos": {
+          "antes": 212942,
+          "depois": 106471
+        }
+      }
+    },
+    {
+      "id": "160002540833",
+      "campos": {
+        "votosValidos": {
+          "antes": 6255822,
+          "depois": 3127911
+        }
+      }
+    },
+    {
+      "id": "190002533695",
+      "campos": {
+        "votosValidos": {
+          "antes": 112658,
+          "depois": 56329
+        }
+      }
+    },
+    {
+      "id": "130002542110",
+      "campos": {
+        "votosValidos": {
+          "antes": 140342,
+          "depois": 70171
+        }
+      }
+    },
+    {
+      "id": "60002542832",
+      "campos": {
+        "votosValidos": {
+          "antes": 132946,
+          "depois": 66473
+        }
+      }
+    },
+    {
+      "id": "220002536886",
+      "campos": {
+        "votosValidos": {
+          "antes": 75968,
+          "depois": 37984
+        }
+      }
+    },
+    {
+      "id": "240002539987",
+      "campos": {
+        "votosValidos": {
+          "antes": 79858,
+          "depois": 39929
+        }
+      }
+    },
+    {
+      "id": "100002537286",
+      "campos": {
+        "votosValidos": {
+          "antes": 117298,
+          "depois": 58649
+        }
+      }
+    },
+    {
+      "id": "190002532807",
+      "campos": {
+        "votosValidos": {
+          "antes": 282886,
+          "depois": 141443
+        }
+      }
+    },
+    {
+      "id": "190002532795",
+      "campos": {
+        "votosValidos": {
+          "antes": 340580,
+          "depois": 170290
+        }
+      }
+    },
+    {
+      "id": "100002537259",
+      "campos": {
+        "votosValidos": {
+          "antes": 226456,
+          "depois": 113228
+        }
+      }
+    },
+    {
+      "id": "220002537560",
+      "campos": {
+        "votosValidos": {
+          "antes": 44498,
+          "depois": 22249
+        }
+      }
+    },
+    {
+      "id": "60002542842",
+      "campos": {
+        "votosValidos": {
+          "antes": 302792,
+          "depois": 151396
+        }
+      }
+    },
+    {
+      "id": "160002547648",
+      "campos": {
+        "votosValidos": {
+          "antes": 130092,
+          "depois": 65046
+        }
+      }
+    },
+    {
+      "id": "140002549266",
+      "campos": {
+        "votosValidos": {
+          "antes": 157972,
+          "depois": 78986
+        }
+      }
+    },
+    {
+      "id": "80002549424",
+      "campos": {
+        "votosValidos": {
+          "antes": 80136,
+          "depois": 40068
+        }
+      }
+    },
+    {
+      "id": "70002550319",
+      "campos": {
+        "votosValidos": {
+          "antes": 180836,
+          "depois": 90418
+        }
+      }
+    },
+    {
+      "id": "250002535986",
+      "campos": {
+        "votosValidos": {
+          "antes": 323942,
+          "depois": 161971
+        }
+      }
+    },
+    {
+      "id": "110002538413",
+      "campos": {
+        "votosValidos": {
+          "antes": 144750,
+          "depois": 72375
+        }
+      }
+    },
+    {
+      "id": "190002535140",
+      "campos": {
+        "votosValidos": {
+          "antes": 135400,
+          "depois": 67700
+        }
+      }
+    },
+    {
+      "id": "130002542034",
+      "campos": {
+        "votosValidos": {
+          "antes": 85436,
+          "depois": 42718
+        }
+      }
+    },
+    {
+      "id": "170002539162",
+      "campos": {
+        "votosValidos": {
+          "antes": 176708,
+          "depois": 88354
+        }
+      }
+    },
+    {
+      "id": "250002536423",
+      "campos": {
+        "votosValidos": {
+          "antes": 119884,
+          "depois": 59942
+        }
+      }
+    },
+    {
+      "id": "250002536353",
+      "campos": {
+        "votosValidos": {
+          "antes": 356328,
+          "depois": 178164
+        }
+      }
+    },
+    {
+      "id": "210002547816",
+      "campos": {
+        "votosValidos": {
+          "antes": 6906632,
+          "depois": 3453316
+        }
+      }
+    },
+    {
+      "id": "130002542094",
+      "campos": {
+        "votosValidos": {
+          "antes": 132024,
+          "depois": 66012
+        }
+      }
+    },
+    {
+      "id": "240002539990",
+      "campos": {
+        "votosValidos": {
+          "antes": 96260,
+          "depois": 48130
+        }
+      }
+    },
+    {
+      "id": "100002537283",
+      "campos": {
+        "votosValidos": {
+          "antes": 132428,
+          "depois": 66214
+        }
+      }
+    },
+    {
+      "id": "210002535703",
+      "campos": {
+        "votosValidos": {
+          "antes": 70856,
+          "depois": 35428
+        }
+      }
+    },
+    {
+      "id": "70002550004",
+      "campos": {
+        "votosValidos": {
+          "antes": 64240,
+          "depois": 32120
+        }
+      }
+    },
+    {
+      "id": "270002544484",
+      "campos": {
+        "votosValidos": {
+          "antes": 52012,
+          "depois": 26006
+        }
+      }
+    },
+    {
+      "id": "130002542021",
+      "campos": {
+        "votosValidos": {
+          "antes": 161134,
+          "depois": 80567
+        }
+      }
+    },
+    {
+      "id": "30002538084",
+      "campos": {
+        "votosValidos": {
+          "antes": 39250,
+          "depois": 19625
+        }
+      }
+    },
+    {
+      "id": "90002542626",
+      "campos": {
+        "votosValidos": {
+          "antes": 208756,
+          "depois": 104378
+        }
+      }
+    },
+    {
+      "id": "80002549425",
+      "campos": {
+        "votosValidos": {
+          "antes": 66452,
+          "depois": 33226
+        }
+      }
+    },
+    {
+      "id": "130002542058",
+      "campos": {
+        "votosValidos": {
+          "antes": 155862,
+          "depois": 77931
+        }
+      }
+    },
+    {
+      "id": "150002541191",
+      "campos": {
+        "votosValidos": {
+          "antes": 64980,
+          "depois": 32490
+        }
+      }
+    },
+    {
+      "id": "130002542109",
+      "campos": {
+        "votosValidos": {
+          "antes": 206622,
+          "depois": 103311
+        }
+      }
+    },
+    {
+      "id": "90002543799",
+      "campos": {
+        "votosValidos": {
+          "antes": 80232,
+          "depois": 40116
+        }
+      }
+    },
+    {
+      "id": "250002535994",
+      "campos": {
+        "votosValidos": {
+          "antes": 133346,
+          "depois": 66673
+        }
+      }
+    },
+    {
+      "id": "240002539960",
+      "campos": {
+        "votosValidos": {
+          "antes": 84684,
+          "depois": 42342
+        }
+      }
+    },
+    {
+      "id": "270002544481",
+      "campos": {
+        "votosValidos": {
+          "antes": 43594,
+          "depois": 21797
+        }
+      }
+    },
+    {
+      "id": "220002537557",
+      "campos": {
+        "votosValidos": {
+          "antes": 37220,
+          "depois": 18610
+        }
+      }
+    },
+    {
+      "id": "190002532805",
+      "campos": {
+        "votosValidos": {
+          "antes": 163594,
+          "depois": 81797
+        }
+      }
+    },
+    {
+      "id": "200002533880",
+      "campos": {
+        "votosValidos": {
+          "antes": 370496,
+          "depois": 185248
+        }
+      }
+    }
+  ]
+}

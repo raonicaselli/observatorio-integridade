@@ -8,6 +8,7 @@ import { createServer } from 'vite'
 const server = await createServer({ server: { middlewareMode: true }, appType: 'custom' })
 after(() => server.close())
 const { default: CasesExplorer } = await server.ssrLoadModule('/src/CasesExplorer.jsx')
+const { default: ElectionScopeNotice } = await server.ssrLoadModule('/src/ElectionScopeNotice.jsx')
 const render = props => renderToStaticMarkup(React.createElement(CasesExplorer, {
  records: [], onOpen() {}, ...props
 }))
@@ -49,4 +50,22 @@ test('lista carregada mostra apenas registros publicados', () => {
  ] } })
  assert.match(html, /Exemplo aprovado/)
  assert.doesNotMatch(html, /Exemplo pendente|Nenhum registro correspondente|Carregando ocorrências/)
+})
+
+
+test('aviso distingue abrangência dos dois turnos de eleitos no segundo turno', () => {
+ const html = renderToStaticMarkup(React.createElement(ElectionScopeNotice, {
+  metadata: { turnos: [1, 2], atualizadoEm: '2026-11-11', distribuicaoPorTurno: { 1: 358 } }
+ }))
+ assert.match(html, /2026-11-11/)
+ assert.match(html, /Cobertura dos dois turnos/)
+ assert.match(html, /0.*titulares deste recorte eleitos/)
+ assert.match(html, /Vices e suplentes não estão incluídos/)
+ assert.match(html, /retotalizações/)
+})
+
+test('aviso não declara segundo turno para base antiga', () => {
+ assert.equal(renderToStaticMarkup(React.createElement(ElectionScopeNotice, {
+  metadata: { turno: 1 }
+ })), '')
 })

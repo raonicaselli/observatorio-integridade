@@ -1,30 +1,37 @@
 {
   "metadados": {
     "ano": 2026,
-    "turno": 1,
+    "turnos": [
+      1,
+      2
+    ],
     "partido": "PL",
     "quantidade": 358,
-    "atualizadoEm": "2026-10-22",
-    "situacao": "apuracao_do_primeiro_turno_sujeita_a_retotalizacao",
+    "atualizadoEm": "2026-11-11",
+    "situacao": "resultados_dos_dois_turnos_sujeitos_a_retotalizacao",
     "distribuicaoPorCargo": {
-      "DEPUTADO FEDERAL": 121,
-      "DEPUTADO ESTADUAL": 207,
-      "SENADOR": 19,
       "DEPUTADO DISTRITAL": 5,
-      "GOVERNADOR": 6
+      "DEPUTADO ESTADUAL": 207,
+      "DEPUTADO FEDERAL": 121,
+      "GOVERNADOR": 6,
+      "SENADOR": 19
+    },
+    "distribuicaoPorTurno": {
+      "1": 358
     },
     "fontePrimaria": "https://dadosabertos.tse.jus.br/",
+    "metodo": "Uma abrangência por ZIP; último turno da candidatura; soma de QT_VOTOS_NOMINAIS_VALIDOS por município/zona, sem somar turnos.",
+    "aviso": "Resultados dos dois turnos de 2026 consultados na data indicada. Sujeitos a retotalizações e decisões judiciais posteriores; não é certificação de diplomação.",
     "arquivosOriginais": [
       {
         "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
-        "sha256": "6bb0b38ae2e2e5195e9bb74ffaa03ac0f4da136117c9218b98b0f3ee5767590f"
+        "sha256": "4d7e2eb52aa58ae98a9225b0a171256306f07a94538c78efda9daea766c9e4ec"
       },
       {
         "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
-        "sha256": "7324c37a4654a0d7506690d67695991cf048cb825ef36a7271120a32c327d541"
+        "sha256": "1d6a55f0b69e40877b071b10243fa1c0a7ec013e5a342808408c68769732bcb0"
       }
-    ],
-    "aviso": "Somente eleitos titulares do primeiro turno. Sujeito a retotalizacao ou decisao judicial posterior."
+    ]
   },
   "pessoas": [
     {
@@ -36,7 +43,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PE",
       "partido": "PL",
-      "votosValidos": 100808,
+      "votosValidos": 50404,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -49,7 +56,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 75748,
+      "votosValidos": 37874,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -62,7 +69,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 52258,
+      "votosValidos": 26129,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -75,7 +82,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 258984,
+      "votosValidos": 129492,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -88,7 +95,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 41672,
+      "votosValidos": 20836,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -101,7 +108,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 186792,
+      "votosValidos": 93396,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -114,7 +121,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PE",
       "partido": "PL",
-      "votosValidos": 117626,
+      "votosValidos": 58813,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -127,7 +134,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 148414,
+      "votosValidos": 74207,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -140,7 +147,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AM",
       "partido": "PL",
-      "votosValidos": 78834,
+      "votosValidos": 39417,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -153,7 +160,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MT",
       "partido": "PL",
-      "votosValidos": 45248,
+      "votosValidos": 22624,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -166,7 +173,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "TO",
       "partido": "PL",
-      "votosValidos": 42938,
+      "votosValidos": 21469,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -179,7 +186,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 210220,
+      "votosValidos": 105110,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -192,7 +199,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 283528,
+      "votosValidos": 141764,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -205,7 +212,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 126190,
+      "votosValidos": 63095,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -218,7 +225,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AP",
       "partido": "PL",
-      "votosValidos": 9610,
+      "votosValidos": 4805,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -231,7 +238,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 245408,
+      "votosValidos": 122704,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -244,7 +251,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "AM",
       "partido": "PL",
-      "votosValidos": 425896,
+      "votosValidos": 212948,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -257,7 +264,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 166922,
+      "votosValidos": 83461,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -270,7 +277,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 59324,
+      "votosValidos": 29662,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -283,7 +290,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "AM",
       "partido": "PL",
-      "votosValidos": 118542,
+      "votosValidos": 59271,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -296,7 +303,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 49466,
+      "votosValidos": 24733,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -309,7 +316,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 350322,
+      "votosValidos": 175161,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -322,7 +329,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 155182,
+      "votosValidos": 77591,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -335,7 +342,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 497008,
+      "votosValidos": 248504,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -348,7 +355,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 90312,
+      "votosValidos": 45156,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -361,7 +368,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 139112,
+      "votosValidos": 69556,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -374,7 +381,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 775046,
+      "votosValidos": 387523,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -387,7 +394,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PE",
       "partido": "PL",
-      "votosValidos": 370858,
+      "votosValidos": 185429,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -400,7 +407,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 119740,
+      "votosValidos": 59870,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -413,7 +420,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 258650,
+      "votosValidos": 129325,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -426,7 +433,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 1368744,
+      "votosValidos": 684372,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -439,7 +446,7 @@
       "cargo": "SENADOR",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 25406178,
+      "votosValidos": 12703089,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -452,7 +459,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 56874,
+      "votosValidos": 28437,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -465,7 +472,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 210806,
+      "votosValidos": 105403,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -478,7 +485,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PE",
       "partido": "PL",
-      "votosValidos": 237736,
+      "votosValidos": 118868,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -491,7 +498,7 @@
       "cargo": "DEPUTADO DISTRITAL",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 47366,
+      "votosValidos": 23683,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -504,7 +511,7 @@
       "cargo": "SENADOR",
       "uf": "RR",
       "partido": "PL",
-      "votosValidos": 276538,
+      "votosValidos": 138269,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -517,7 +524,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 291824,
+      "votosValidos": 145912,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -530,7 +537,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AC",
       "partido": "PL",
-      "votosValidos": 20288,
+      "votosValidos": 10144,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -543,7 +550,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RR",
       "partido": "PL",
-      "votosValidos": 13084,
+      "votosValidos": 6542,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -556,7 +563,7 @@
       "cargo": "GOVERNADOR",
       "uf": "RR",
       "partido": "PL",
-      "votosValidos": 441618,
+      "votosValidos": 220809,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -569,7 +576,7 @@
       "cargo": "SENADOR",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 1773232,
+      "votosValidos": 886616,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -582,7 +589,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 80654,
+      "votosValidos": 40327,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -595,7 +602,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 1351880,
+      "votosValidos": 675940,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -608,7 +615,7 @@
       "cargo": "SENADOR",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 948452,
+      "votosValidos": 474226,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -621,7 +628,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 165892,
+      "votosValidos": 82946,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -634,7 +641,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 62876,
+      "votosValidos": 31438,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -647,7 +654,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 127866,
+      "votosValidos": 63933,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -660,7 +667,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 82984,
+      "votosValidos": 41492,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -673,7 +680,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 50180,
+      "votosValidos": 25090,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -686,7 +693,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 52926,
+      "votosValidos": 26463,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -699,7 +706,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 116284,
+      "votosValidos": 58142,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -712,7 +719,7 @@
       "cargo": "SENADOR",
       "uf": "TO",
       "partido": "PL",
-      "votosValidos": 900382,
+      "votosValidos": 450191,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -725,7 +732,7 @@
       "cargo": "SENADOR",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 8529864,
+      "votosValidos": 4264932,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -738,7 +745,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 105896,
+      "votosValidos": 52948,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -751,7 +758,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 256666,
+      "votosValidos": 128333,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -764,7 +771,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 110972,
+      "votosValidos": 55486,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -777,7 +784,7 @@
       "cargo": "SENADOR",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 4083680,
+      "votosValidos": 2041840,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -790,7 +797,7 @@
       "cargo": "SENADOR",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 7824810,
+      "votosValidos": 3912405,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -803,7 +810,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 112136,
+      "votosValidos": 56068,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -816,7 +823,7 @@
       "cargo": "SENADOR",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 5389836,
+      "votosValidos": 2694918,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -829,7 +836,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 225636,
+      "votosValidos": 112818,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -842,7 +849,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 163932,
+      "votosValidos": 81966,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -855,7 +862,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 178126,
+      "votosValidos": 89063,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -868,7 +875,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 98788,
+      "votosValidos": 49394,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -881,7 +888,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 246874,
+      "votosValidos": 123437,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -894,7 +901,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 85924,
+      "votosValidos": 42962,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -907,7 +914,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 81304,
+      "votosValidos": 40652,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -920,7 +927,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 115756,
+      "votosValidos": 57878,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -933,7 +940,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 96618,
+      "votosValidos": 48309,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -946,7 +953,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 64316,
+      "votosValidos": 32158,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -959,7 +966,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 152916,
+      "votosValidos": 76458,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -972,7 +979,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 85536,
+      "votosValidos": 42768,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -985,7 +992,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RR",
       "partido": "PL",
-      "votosValidos": 33346,
+      "votosValidos": 16673,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -998,7 +1005,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 192506,
+      "votosValidos": 96253,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1011,7 +1018,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 311148,
+      "votosValidos": 155574,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1024,7 +1031,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 233968,
+      "votosValidos": 116984,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1037,7 +1044,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "ES",
       "partido": "PL",
-      "votosValidos": 38954,
+      "votosValidos": 19477,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1050,7 +1057,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 192376,
+      "votosValidos": 96188,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1063,7 +1070,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "ES",
       "partido": "PL",
-      "votosValidos": 76572,
+      "votosValidos": 38286,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1076,7 +1083,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 61208,
+      "votosValidos": 30604,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1089,7 +1096,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AM",
       "partido": "PL",
-      "votosValidos": 136876,
+      "votosValidos": 68438,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1102,7 +1109,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 109104,
+      "votosValidos": 54552,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1115,7 +1122,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 142740,
+      "votosValidos": 71370,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1128,7 +1135,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 320610,
+      "votosValidos": 160305,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1141,7 +1148,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 204052,
+      "votosValidos": 102026,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1154,7 +1161,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 186134,
+      "votosValidos": 93067,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1167,7 +1174,7 @@
       "cargo": "SENADOR",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 9937658,
+      "votosValidos": 4968829,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1180,7 +1187,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 160620,
+      "votosValidos": 80310,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1193,7 +1200,7 @@
       "cargo": "GOVERNADOR",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 8542398,
+      "votosValidos": 4271199,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1206,7 +1213,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RR",
       "partido": "PL",
-      "votosValidos": 16774,
+      "votosValidos": 8387,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1219,7 +1226,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 143844,
+      "votosValidos": 71922,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1232,7 +1239,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "AC",
       "partido": "PL",
-      "votosValidos": 27464,
+      "votosValidos": 13732,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1245,7 +1252,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 129610,
+      "votosValidos": 64805,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1258,7 +1265,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 331872,
+      "votosValidos": 165936,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1271,7 +1278,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 78892,
+      "votosValidos": 39446,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1284,7 +1291,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 292296,
+      "votosValidos": 146148,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1297,7 +1304,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 133720,
+      "votosValidos": 66860,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1310,7 +1317,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 266516,
+      "votosValidos": 133258,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1323,7 +1330,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 76800,
+      "votosValidos": 38400,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1336,7 +1343,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 189624,
+      "votosValidos": 94812,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1349,7 +1356,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 163300,
+      "votosValidos": 81650,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1362,7 +1369,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "ES",
       "partido": "PL",
-      "votosValidos": 103790,
+      "votosValidos": 51895,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1375,7 +1382,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 308146,
+      "votosValidos": 154073,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1388,7 +1395,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 122366,
+      "votosValidos": 61183,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1401,7 +1408,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 320722,
+      "votosValidos": 160361,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1414,7 +1421,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 87816,
+      "votosValidos": 43908,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1427,7 +1434,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 87286,
+      "votosValidos": 43643,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1440,7 +1447,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 155406,
+      "votosValidos": 77703,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1453,7 +1460,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MT",
       "partido": "PL",
-      "votosValidos": 82078,
+      "votosValidos": 41039,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1466,7 +1473,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 82586,
+      "votosValidos": 41293,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1479,7 +1486,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 276554,
+      "votosValidos": 138277,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1492,7 +1499,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 106414,
+      "votosValidos": 53207,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1505,7 +1512,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 134826,
+      "votosValidos": 67413,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1518,7 +1525,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SE",
       "partido": "PL",
-      "votosValidos": 44966,
+      "votosValidos": 22483,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1531,7 +1538,7 @@
       "cargo": "SENADOR",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 1141598,
+      "votosValidos": 570799,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1544,7 +1551,7 @@
       "cargo": "SENADOR",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 6297166,
+      "votosValidos": 3148583,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1557,7 +1564,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "TO",
       "partido": "PL",
-      "votosValidos": 128136,
+      "votosValidos": 64068,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1570,7 +1577,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 163920,
+      "votosValidos": 81960,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1583,7 +1590,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 127662,
+      "votosValidos": 63831,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1596,7 +1603,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 101328,
+      "votosValidos": 50664,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1609,7 +1616,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 254068,
+      "votosValidos": 127034,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1622,7 +1629,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AC",
       "partido": "PL",
-      "votosValidos": 23028,
+      "votosValidos": 11514,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1635,7 +1642,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 196750,
+      "votosValidos": 98375,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1648,7 +1655,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 121250,
+      "votosValidos": 60625,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1661,7 +1668,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 304760,
+      "votosValidos": 152380,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1674,7 +1681,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PB",
       "partido": "PL",
-      "votosValidos": 80582,
+      "votosValidos": 40291,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1687,7 +1694,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 192534,
+      "votosValidos": 96267,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1700,7 +1707,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PB",
       "partido": "PL",
-      "votosValidos": 114908,
+      "votosValidos": 57454,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1713,7 +1720,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 67524,
+      "votosValidos": 33762,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1726,7 +1733,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 72216,
+      "votosValidos": 36108,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1739,7 +1746,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PB",
       "partido": "PL",
-      "votosValidos": 534284,
+      "votosValidos": 267142,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1752,7 +1759,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MT",
       "partido": "PL",
-      "votosValidos": 139344,
+      "votosValidos": 69672,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1765,7 +1772,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 126796,
+      "votosValidos": 63398,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1778,7 +1785,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 485286,
+      "votosValidos": 242643,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1791,7 +1798,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 468342,
+      "votosValidos": 234171,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1804,7 +1811,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 470726,
+      "votosValidos": 235363,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1817,7 +1824,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 89064,
+      "votosValidos": 44532,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1830,7 +1837,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AC",
       "partido": "PL",
-      "votosValidos": 16058,
+      "votosValidos": 8029,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1843,7 +1850,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 251248,
+      "votosValidos": 125624,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1856,7 +1863,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 132790,
+      "votosValidos": 66395,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1869,7 +1876,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 152082,
+      "votosValidos": 76041,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1882,7 +1889,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 332748,
+      "votosValidos": 166374,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1895,7 +1902,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 120586,
+      "votosValidos": 60293,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1908,7 +1915,7 @@
       "cargo": "SENADOR",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 3278494,
+      "votosValidos": 1639247,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1921,7 +1928,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 99062,
+      "votosValidos": 49531,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1934,7 +1941,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 179946,
+      "votosValidos": 89973,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1947,7 +1954,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 141144,
+      "votosValidos": 70572,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1960,7 +1967,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 159472,
+      "votosValidos": 79736,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1973,7 +1980,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 78550,
+      "votosValidos": 39275,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1986,7 +1993,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 123906,
+      "votosValidos": 61953,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -1999,7 +2006,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 261604,
+      "votosValidos": 130802,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2012,7 +2019,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 85760,
+      "votosValidos": 42880,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2025,7 +2032,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 176112,
+      "votosValidos": 88056,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2038,7 +2045,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 147444,
+      "votosValidos": 73722,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2051,7 +2058,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 263110,
+      "votosValidos": 131555,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2064,7 +2071,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 155412,
+      "votosValidos": 77706,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2077,7 +2084,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 129740,
+      "votosValidos": 64870,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2090,7 +2097,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 52214,
+      "votosValidos": 26107,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2103,7 +2110,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 184572,
+      "votosValidos": 92286,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2116,7 +2123,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 123562,
+      "votosValidos": 61781,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2129,7 +2136,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 263346,
+      "votosValidos": 131673,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2142,7 +2149,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 189250,
+      "votosValidos": 94625,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2155,7 +2162,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 237158,
+      "votosValidos": 118579,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2168,7 +2175,7 @@
       "cargo": "DEPUTADO DISTRITAL",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 41244,
+      "votosValidos": 20622,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2181,7 +2188,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 102974,
+      "votosValidos": 51487,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2194,7 +2201,7 @@
       "cargo": "DEPUTADO DISTRITAL",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 91208,
+      "votosValidos": 45604,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2207,7 +2214,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 292614,
+      "votosValidos": 146307,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2220,7 +2227,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MT",
       "partido": "PL",
-      "votosValidos": 257394,
+      "votosValidos": 128697,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2233,7 +2240,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 134596,
+      "votosValidos": 67298,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2246,7 +2253,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 117016,
+      "votosValidos": 58508,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2259,7 +2266,7 @@
       "cargo": "GOVERNADOR",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 5884772,
+      "votosValidos": 2942386,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2272,7 +2279,7 @@
       "cargo": "SENADOR",
       "uf": "MT",
       "partido": "PL",
-      "votosValidos": 1955554,
+      "votosValidos": 977777,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2285,7 +2292,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 307490,
+      "votosValidos": 153745,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2298,7 +2305,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 75692,
+      "votosValidos": 37846,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2311,7 +2318,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RR",
       "partido": "PL",
-      "votosValidos": 19946,
+      "votosValidos": 9973,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2324,7 +2331,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 56632,
+      "votosValidos": 28316,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2337,7 +2344,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 290012,
+      "votosValidos": 145006,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2350,7 +2357,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 166224,
+      "votosValidos": 83112,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2363,7 +2370,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 152746,
+      "votosValidos": 76373,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2376,7 +2383,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 108160,
+      "votosValidos": 54080,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2389,7 +2396,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 126000,
+      "votosValidos": 63000,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2402,7 +2409,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 214464,
+      "votosValidos": 107232,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2415,7 +2422,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PB",
       "partido": "PL",
-      "votosValidos": 71244,
+      "votosValidos": 35622,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2428,7 +2435,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PB",
       "partido": "PL",
-      "votosValidos": 84904,
+      "votosValidos": 42452,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2441,7 +2448,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 152742,
+      "votosValidos": 76371,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2454,7 +2461,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 207760,
+      "votosValidos": 103880,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2467,7 +2474,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 1120446,
+      "votosValidos": 560223,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2480,7 +2487,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 86284,
+      "votosValidos": 43142,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2493,7 +2500,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 139438,
+      "votosValidos": 69719,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2506,7 +2513,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 85742,
+      "votosValidos": 42871,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2519,7 +2526,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 108330,
+      "votosValidos": 54165,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2532,7 +2539,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 123546,
+      "votosValidos": 61773,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2545,7 +2552,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 174364,
+      "votosValidos": 87182,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2558,7 +2565,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 85026,
+      "votosValidos": 42513,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2571,7 +2578,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 829854,
+      "votosValidos": 414927,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2584,7 +2591,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AL",
       "partido": "PL",
-      "votosValidos": 34356,
+      "votosValidos": 17178,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2597,7 +2604,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 189664,
+      "votosValidos": 94832,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2610,7 +2617,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 74324,
+      "votosValidos": 37162,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2623,7 +2630,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 92112,
+      "votosValidos": 46056,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2636,7 +2643,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "ES",
       "partido": "PL",
-      "votosValidos": 839470,
+      "votosValidos": 419735,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2649,7 +2656,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 142526,
+      "votosValidos": 71263,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2662,7 +2669,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 6076876,
+      "votosValidos": 3038438,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2675,7 +2682,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "ES",
       "partido": "PL",
-      "votosValidos": 87946,
+      "votosValidos": 43973,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2688,7 +2695,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 56462,
+      "votosValidos": 28231,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2701,7 +2708,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SE",
       "partido": "PL",
-      "votosValidos": 57350,
+      "votosValidos": 28675,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2714,7 +2721,7 @@
       "cargo": "GOVERNADOR",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 7032096,
+      "votosValidos": 3516048,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2727,7 +2734,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "ES",
       "partido": "PL",
-      "votosValidos": 120194,
+      "votosValidos": 60097,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2740,7 +2747,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 316842,
+      "votosValidos": 158421,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2753,7 +2760,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AL",
       "partido": "PL",
-      "votosValidos": 198330,
+      "votosValidos": 99165,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2766,7 +2773,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 51830,
+      "votosValidos": 25915,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2779,7 +2786,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 100700,
+      "votosValidos": 50350,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2792,7 +2799,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 52408,
+      "votosValidos": 26204,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2805,7 +2812,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 225708,
+      "votosValidos": 112854,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2818,7 +2825,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 79836,
+      "votosValidos": 39918,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2831,7 +2838,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 258008,
+      "votosValidos": 129004,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2844,7 +2851,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 71916,
+      "votosValidos": 35958,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2857,7 +2864,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 375486,
+      "votosValidos": 187743,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2870,7 +2877,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 263966,
+      "votosValidos": 131983,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2883,7 +2890,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PB",
       "partido": "PL",
-      "votosValidos": 107282,
+      "votosValidos": 53641,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2896,7 +2903,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 235296,
+      "votosValidos": 117648,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2909,7 +2916,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 240398,
+      "votosValidos": 120199,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2922,7 +2929,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 93400,
+      "votosValidos": 46700,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2935,7 +2942,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 115964,
+      "votosValidos": 57982,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2948,7 +2955,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 127476,
+      "votosValidos": 63738,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2961,7 +2968,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 113916,
+      "votosValidos": 56958,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2974,7 +2981,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 206584,
+      "votosValidos": 103292,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -2987,7 +2994,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 147948,
+      "votosValidos": 73974,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3000,7 +3007,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RR",
       "partido": "PL",
-      "votosValidos": 22882,
+      "votosValidos": 11441,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3013,7 +3020,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 46244,
+      "votosValidos": 23122,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3026,7 +3033,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 101608,
+      "votosValidos": 50804,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3039,7 +3046,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 522650,
+      "votosValidos": 261325,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3052,7 +3059,7 @@
       "cargo": "SENADOR",
       "uf": "AC",
       "partido": "PL",
-      "votosValidos": 447944,
+      "votosValidos": 223972,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3065,7 +3072,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 74122,
+      "votosValidos": 37061,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3078,7 +3085,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 244238,
+      "votosValidos": 122119,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3091,7 +3098,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 62078,
+      "votosValidos": 31039,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3104,7 +3111,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 100470,
+      "votosValidos": 50235,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3117,7 +3124,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 179660,
+      "votosValidos": 89830,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3130,7 +3137,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 93046,
+      "votosValidos": 46523,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3143,7 +3150,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 313382,
+      "votosValidos": 156691,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3156,7 +3163,7 @@
       "cargo": "GOVERNADOR",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 1074740,
+      "votosValidos": 537370,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3169,7 +3176,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 280258,
+      "votosValidos": 140129,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3182,7 +3189,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 134742,
+      "votosValidos": 67371,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3195,7 +3202,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "TO",
       "partido": "PL",
-      "votosValidos": 40708,
+      "votosValidos": 20354,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3208,7 +3215,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 167092,
+      "votosValidos": 83546,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3221,7 +3228,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 3912476,
+      "votosValidos": 1956238,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3234,7 +3241,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 182806,
+      "votosValidos": 91403,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3247,7 +3254,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 168708,
+      "votosValidos": 84354,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3260,7 +3267,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 107458,
+      "votosValidos": 53729,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3273,7 +3280,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 85748,
+      "votosValidos": 42874,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3286,7 +3293,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 396684,
+      "votosValidos": 198342,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3299,7 +3306,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 247980,
+      "votosValidos": 123990,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3312,7 +3319,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 102632,
+      "votosValidos": 51316,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3325,7 +3332,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 759668,
+      "votosValidos": 379834,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3338,7 +3345,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 88316,
+      "votosValidos": 44158,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3351,7 +3358,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 111140,
+      "votosValidos": 55570,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3364,7 +3371,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 102744,
+      "votosValidos": 51372,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3377,7 +3384,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 107958,
+      "votosValidos": 53979,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3390,7 +3397,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 69504,
+      "votosValidos": 34752,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3403,7 +3410,7 @@
       "cargo": "SENADOR",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 1876992,
+      "votosValidos": 938496,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3416,7 +3423,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 192666,
+      "votosValidos": 96333,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3429,7 +3436,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "TO",
       "partido": "PL",
-      "votosValidos": 52316,
+      "votosValidos": 26158,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3442,7 +3449,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 141994,
+      "votosValidos": 70997,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3455,7 +3462,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 222682,
+      "votosValidos": 111341,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3468,7 +3475,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 103664,
+      "votosValidos": 51832,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3481,7 +3488,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 112872,
+      "votosValidos": 56436,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3494,7 +3501,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 144332,
+      "votosValidos": 72166,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3507,7 +3514,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 141104,
+      "votosValidos": 70552,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3520,7 +3527,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 6238636,
+      "votosValidos": 3119318,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3533,7 +3540,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PB",
       "partido": "PL",
-      "votosValidos": 154178,
+      "votosValidos": 77089,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3546,7 +3553,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 71810,
+      "votosValidos": 35905,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3559,7 +3566,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 165654,
+      "votosValidos": 82827,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3572,7 +3579,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 103906,
+      "votosValidos": 51953,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3585,7 +3592,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 233294,
+      "votosValidos": 116647,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3598,7 +3605,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 180726,
+      "votosValidos": 90363,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3611,7 +3618,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 384818,
+      "votosValidos": 192409,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3624,7 +3631,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 214146,
+      "votosValidos": 107073,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3637,7 +3644,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 89082,
+      "votosValidos": 44541,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3650,7 +3657,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 198776,
+      "votosValidos": 99388,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3663,7 +3670,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 97752,
+      "votosValidos": 48876,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3676,7 +3683,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 131364,
+      "votosValidos": 65682,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3689,7 +3696,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 81752,
+      "votosValidos": 40876,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3702,7 +3709,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 114708,
+      "votosValidos": 57354,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3715,7 +3722,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AM",
       "partido": "PL",
-      "votosValidos": 117474,
+      "votosValidos": 58737,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3728,7 +3735,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 454018,
+      "votosValidos": 227009,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3741,7 +3748,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 182148,
+      "votosValidos": 91074,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3754,7 +3761,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "AC",
       "partido": "PL",
-      "votosValidos": 16138,
+      "votosValidos": 8069,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3767,7 +3774,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 324740,
+      "votosValidos": 162370,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3780,7 +3787,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RR",
       "partido": "PL",
-      "votosValidos": 15438,
+      "votosValidos": 7719,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3793,7 +3800,7 @@
       "cargo": "SENADOR",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 1807108,
+      "votosValidos": 903554,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3806,7 +3813,7 @@
       "cargo": "SENADOR",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 1712090,
+      "votosValidos": 856045,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3819,7 +3826,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 151682,
+      "votosValidos": 75841,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3832,7 +3839,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 758624,
+      "votosValidos": 379312,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3845,7 +3852,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 94462,
+      "votosValidos": 47231,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3858,7 +3865,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 103326,
+      "votosValidos": 51663,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3871,7 +3878,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 188638,
+      "votosValidos": 94319,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3884,7 +3891,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 157396,
+      "votosValidos": 78698,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3897,7 +3904,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 312216,
+      "votosValidos": 156108,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3910,7 +3917,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 127680,
+      "votosValidos": 63840,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3923,7 +3930,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 278450,
+      "votosValidos": 139225,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3936,7 +3943,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MS",
       "partido": "PL",
-      "votosValidos": 206606,
+      "votosValidos": 103303,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3949,7 +3956,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 147574,
+      "votosValidos": 73787,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3962,7 +3969,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 131060,
+      "votosValidos": 65530,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3975,7 +3982,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 325124,
+      "votosValidos": 162562,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -3988,7 +3995,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 75068,
+      "votosValidos": 37534,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4001,7 +4008,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 178312,
+      "votosValidos": 89156,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4014,7 +4021,7 @@
       "cargo": "DEPUTADO DISTRITAL",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 78362,
+      "votosValidos": 39181,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4027,7 +4034,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 427504,
+      "votosValidos": 213752,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4040,7 +4047,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 114126,
+      "votosValidos": 57063,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4053,7 +4060,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 292834,
+      "votosValidos": 146417,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4066,7 +4073,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MT",
       "partido": "PL",
-      "votosValidos": 410128,
+      "votosValidos": 205064,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4079,7 +4086,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MT",
       "partido": "PL",
-      "votosValidos": 115800,
+      "votosValidos": 57900,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4092,7 +4099,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "BA",
       "partido": "PL",
-      "votosValidos": 174304,
+      "votosValidos": 87152,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4105,7 +4112,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 212942,
+      "votosValidos": 106471,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4118,7 +4125,7 @@
       "cargo": "GOVERNADOR",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 6255822,
+      "votosValidos": 3127911,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4131,7 +4138,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 112658,
+      "votosValidos": 56329,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4144,7 +4151,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 140342,
+      "votosValidos": 70171,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4157,7 +4164,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 132946,
+      "votosValidos": 66473,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4170,7 +4177,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 75968,
+      "votosValidos": 37984,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4183,7 +4190,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 79858,
+      "votosValidos": 39929,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4196,7 +4203,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 117298,
+      "votosValidos": 58649,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4209,7 +4216,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 282886,
+      "votosValidos": 141443,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4222,7 +4229,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 340580,
+      "votosValidos": 170290,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4235,7 +4242,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 226456,
+      "votosValidos": 113228,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4248,7 +4255,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 44498,
+      "votosValidos": 22249,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4261,7 +4268,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "CE",
       "partido": "PL",
-      "votosValidos": 302792,
+      "votosValidos": 151396,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4274,7 +4281,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PR",
       "partido": "PL",
-      "votosValidos": 130092,
+      "votosValidos": 65046,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4287,7 +4294,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PA",
       "partido": "PL",
-      "votosValidos": 157972,
+      "votosValidos": 78986,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4300,7 +4307,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "ES",
       "partido": "PL",
-      "votosValidos": 80136,
+      "votosValidos": 40068,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4313,7 +4320,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 180836,
+      "votosValidos": 90418,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4326,7 +4333,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 323942,
+      "votosValidos": 161971,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4339,7 +4346,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MT",
       "partido": "PL",
-      "votosValidos": 144750,
+      "votosValidos": 72375,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4352,7 +4359,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 135400,
+      "votosValidos": 67700,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4365,7 +4372,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 85436,
+      "votosValidos": 42718,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4378,7 +4385,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "PE",
       "partido": "PL",
-      "votosValidos": 176708,
+      "votosValidos": 88354,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4391,7 +4398,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 119884,
+      "votosValidos": 59942,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4404,7 +4411,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 356328,
+      "votosValidos": 178164,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4417,7 +4424,7 @@
       "cargo": "SENADOR",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 6906632,
+      "votosValidos": 3453316,
       "situacaoTotalizacao": "ELEITO",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4430,7 +4437,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 132024,
+      "votosValidos": 66012,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4443,7 +4450,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 96260,
+      "votosValidos": 48130,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4456,7 +4463,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MA",
       "partido": "PL",
-      "votosValidos": 132428,
+      "votosValidos": 66214,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4469,7 +4476,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RS",
       "partido": "PL",
-      "votosValidos": 70856,
+      "votosValidos": 35428,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4482,7 +4489,7 @@
       "cargo": "DEPUTADO DISTRITAL",
       "uf": "DF",
       "partido": "PL",
-      "votosValidos": 64240,
+      "votosValidos": 32120,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4495,7 +4502,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "TO",
       "partido": "PL",
-      "votosValidos": 52012,
+      "votosValidos": 26006,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4508,7 +4515,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 161134,
+      "votosValidos": 80567,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4521,7 +4528,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "AP",
       "partido": "PL",
-      "votosValidos": 39250,
+      "votosValidos": 19625,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4534,7 +4541,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 208756,
+      "votosValidos": 104378,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4547,7 +4554,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "ES",
       "partido": "PL",
-      "votosValidos": 66452,
+      "votosValidos": 33226,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4560,7 +4567,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 155862,
+      "votosValidos": 77931,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4573,7 +4580,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "PB",
       "partido": "PL",
-      "votosValidos": 64980,
+      "votosValidos": 32490,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4586,7 +4593,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "MG",
       "partido": "PL",
-      "votosValidos": 206622,
+      "votosValidos": 103311,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4599,7 +4606,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "GO",
       "partido": "PL",
-      "votosValidos": 80232,
+      "votosValidos": 40116,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4612,7 +4619,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "SP",
       "partido": "PL",
-      "votosValidos": 133346,
+      "votosValidos": 66673,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4625,7 +4632,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "SC",
       "partido": "PL",
-      "votosValidos": 84684,
+      "votosValidos": 42342,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4638,7 +4645,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "TO",
       "partido": "PL",
-      "votosValidos": 43594,
+      "votosValidos": 21797,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4651,7 +4658,7 @@
       "cargo": "DEPUTADO ESTADUAL",
       "uf": "RO",
       "partido": "PL",
-      "votosValidos": 37220,
+      "votosValidos": 18610,
       "situacaoTotalizacao": "ELEITO POR MÉDIA",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4664,7 +4671,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RJ",
       "partido": "PL",
-      "votosValidos": 163594,
+      "votosValidos": 81797,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     },
@@ -4677,7 +4684,7 @@
       "cargo": "DEPUTADO FEDERAL",
       "uf": "RN",
       "partido": "PL",
-      "votosValidos": 370496,
+      "votosValidos": 185248,
       "situacaoTotalizacao": "ELEITO POR QP",
       "situacaoPesquisa": "nao_iniciada"
     }
