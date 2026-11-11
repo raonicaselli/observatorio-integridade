@@ -1,0 +1,1493 @@
+{
+  "metadados": {
+    "versao": 1,
+    "dataConsulta": "2026-11-11",
+    "commitBase": "ce32a86fa5eced2fa8b4a28301ae5c44aedcf30e",
+    "sha256Base": "2b2a7ce1846a7f93dfa7d0ae4f0eff330b8c95cf013834fd86a7d8d9bd1fa2d7",
+    "sha256Proposta": "feecb74c456b90a9c5a5603fb0dd7021dc1a0bf9d1232e9774e780844a05b365",
+    "responsavel": "Codex — checagem assistida de fontes públicas solicitada pelo mantenedor, sujeita à revisão do PR",
+    "escopo": "Cotejo dos 13 registros já publicados. Não houve pesquisa de novos envolvidos nem declaração de cobertura concluída.",
+    "limites": "Disponibilidade HTTP não prova teor jurídico; notícias não substituem autos. Respostas vazias, sigilo e falha da interface PJe são inconclusivos. Nenhuma peça integral ou dado pessoal desnecessário é reproduzido neste relatório."
+  },
+  "fontes": [
+    {
+      "id": "fonte-01",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-sete-reus-por-desvio-de-emendas-parlamentares-destinadas-a-municipio-do-maranhao-2/",
+      "consultadoEm": "2026-11-11T20:17:17.216007+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-condena-sete-reus-por-desvio-de-emendas-parlamentares-destinadas-a-municipio-do-maranhao-2/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 74522,
+      "sha256": "1591a866fb73cc7e811f789523a2d5d668fe77be4d7c28dba2fed92bffb447e1",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-02",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-julgar-deputados-federais-acusados-de-desvio-de-emendas-parlamentares-nesta-terca-10/",
+      "consultadoEm": "2026-11-11T20:17:17.216716+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-julgar-deputados-federais-acusados-de-desvio-de-emendas-parlamentares-nesta-terca-10/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 70742,
+      "sha256": "8fb19ee4f17a679aa41a18c8a87d3df98f899974eaa3afc9bb0923238e206e6e",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-03",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7228118",
+      "consultadoEm": "2026-11-11T20:17:17.217164+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7228118",
+      "tipo": "text/html",
+      "bytes": 70290,
+      "sha256": "030c66522e8e661c7ad4c6cb422678011dec7369f1bd59ff85504807f5e97a3b",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-04",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Junho/tse-mantem-inelegibilidade-de-claudio-castro-ex-governador-do-rio",
+      "consultadoEm": "2026-11-11T20:17:17.217584+00:00",
+      "status": 200,
+      "urlFinal": "https://www.tse.jus.br/comunicacao/noticias/2026/Junho/tse-mantem-inelegibilidade-de-claudio-castro-ex-governador-do-rio",
+      "tipo": "text/html;charset=utf-8",
+      "bytes": 129413,
+      "sha256": "480dcfcda47ed888e5cc0a5f02ffa1f3d6918aa878a0196bab04200d8e1a042b",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-05",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/tse-torna-inelegivel-ex-governador-do-rio-claudio-castro",
+      "consultadoEm": "2026-11-11T20:17:17.218031+00:00",
+      "status": 200,
+      "urlFinal": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/tse-torna-inelegivel-ex-governador-do-rio-claudio-castro",
+      "tipo": "text/html;charset=utf-8",
+      "bytes": 132889,
+      "sha256": "db416ea142d57193902852fc0d5ae06320ae03367e901a5668533c58ce27d925",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-06",
+      "url": "https://www.tre-sc.jus.br/comunicacao/noticias/2026/Setembro/tre-sc-reconhece-desinformacao-em-propaganda-eleitoral-de-candidato-sobre-resultado-de-pesquisa-eleitoral",
+      "consultadoEm": "2026-11-11T20:17:19.488135+00:00",
+      "status": 200,
+      "urlFinal": "https://www.tre-sc.jus.br/comunicacao/noticias/2026/Setembro/tre-sc-reconhece-desinformacao-em-propaganda-eleitoral-de-candidato-sobre-resultado-de-pesquisa-eleitoral",
+      "tipo": "text/html;charset=utf-8",
+      "bytes": 107706,
+      "sha256": "14e79219242aee6511dbd0d1d13bc49d4bd9fbdf4b3613c7591e72564750589a",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-07",
+      "url": "https://www.tse.jus.br/jurisprudencia/informativo-tse/arquivos/2026/tse-informativo-tse-no-01-ano-28-de-01-a-15-de-fevereiro-de-2026-formato-pdf/%40%40display-file/file/Infojur1_2026_SeprevOk_FINAL__1_.pdf",
+      "consultadoEm": "2026-11-11T20:17:19.557562+00:00",
+      "status": 200,
+      "urlFinal": "https://www.tse.jus.br/jurisprudencia/informativo-tse/arquivos/2026/tse-informativo-tse-no-01-ano-28-de-01-a-15-de-fevereiro-de-2026-formato-pdf/%40%40display-file/file/Infojur1_2026_SeprevOk_FINAL__1_.pdf",
+      "tipo": "application/pdf",
+      "bytes": 16088528,
+      "sha256": "93dc50ab8835314a983f0db4b1cfcc5224706b0dca94223aa57fc4ec683e250e",
+      "resultadoLeitura": "conteudo_publico_lido",
+      "localizador": "Página 1: RO 060290922 e ED, julgamentos de 10 e 12/02/2026, rejeição da ação por insuficiência de provas."
+    },
+    {
+      "id": "fonte-08",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-apreensoes-e-quebra-de-sigilos-em-investigacao-sobre-uso-irregular-de-cota-parlamentar/",
+      "consultadoEm": "2026-11-11T20:17:19.707769+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-apreensoes-e-quebra-de-sigilos-em-investigacao-sobre-uso-irregular-de-cota-parlamentar/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 65253,
+      "sha256": "47e5c5e69f10ec7a95afcc2101c6c050cb8b8a9600d2d9419cb45e102dee19a8",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-09",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/movimentacoes-suspeitas-envolvendo-sostenes-e-jordy-somam-r-286-mi",
+      "consultadoEm": "2026-11-11T20:17:19.783021+00:00",
+      "status": 200,
+      "urlFinal": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/movimentacoes-suspeitas-envolvendo-sostenes-e-jordy-somam-r-286-mi",
+      "tipo": "text/html; charset=utf-8",
+      "bytes": 101741,
+      "sha256": "99c8186e9c37e932ffd4a428f07bc6536ea837180338baa0dac12144140d4a93",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-10",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
+      "consultadoEm": "2026-11-11T20:17:19.904862+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 67826,
+      "sha256": "cec045409a285f4e658efbaa9dcad416de83a970f489a739fe43ed08cd641bd7",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-11",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-sobre-destinacao-de-emendas-parlamentares-no-caso-dark-horse/",
+      "consultadoEm": "2026-11-11T20:17:20.913120+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-sobre-destinacao-de-emendas-parlamentares-no-caso-dark-horse/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 68033,
+      "sha256": "b0ab49c100f3e5830614372acb474ecbff2e6496e14dde0a29211f13c0364958",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-12",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-apura-desvio-de-recursos-publicos-oriundos-de-emendas-parlamentares",
+      "consultadoEm": "2026-11-11T20:17:21.318779+00:00",
+      "status": 200,
+      "urlFinal": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-apura-desvio-de-recursos-publicos-oriundos-de-emendas-parlamentares",
+      "tipo": "text/html;charset=utf-8",
+      "bytes": 122205,
+      "sha256": "6f1106b18a9e0149369e62b789b063425f75babcb4c74dac22d6677e58fb7414",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-13",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada",
+      "consultadoEm": "2026-11-11T20:17:21.781886+00:00",
+      "status": 200,
+      "urlFinal": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada",
+      "tipo": "text/html; charset=utf-8",
+      "bytes": 106525,
+      "sha256": "74c4de92b8f758567d6f074e871d4322fe672d9b878003d5956629a670044499",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-14",
+      "url": "https://noticias.stf.jus.br/postsnoticias/apos-perda-de-mandato-stf-retoma-acao-penal-contra-alexandre-ramagem/",
+      "consultadoEm": "2026-11-11T20:17:22.337835+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/apos-perda-de-mandato-stf-retoma-acao-penal-contra-alexandre-ramagem/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 66253,
+      "sha256": "f16fee2dcd5eff967fb575b1d79a60f8b2534ccb69f218593bc714a5a46abf71",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-15",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado",
+      "consultadoEm": "2026-11-11T20:17:23.087038+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 71709,
+      "sha256": "75cb597f0eae96ddd75ad280c073709bf5db71b57c90eb3f0341ecb5c4712c07",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-16",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-4-anos-e-2-meses-de-reclusao-por-tentar-interferir-no-processo-sobre-tentativa-de-golpe/",
+      "consultadoEm": "2026-11-11T20:17:23.855359+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-4-anos-e-2-meses-de-reclusao-por-tentar-interferir-no-processo-sobre-tentativa-de-golpe/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 72173,
+      "sha256": "3335523dfdebba6e19f7baa4671e079281928137843b2a9e7add2bd93f290b67",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-17",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-um-ano-de-detencao-por-difamar-deputada-tabata-amaral/",
+      "consultadoEm": "2026-11-11T20:17:24.412534+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-um-ano-de-detencao-por-difamar-deputada-tabata-amaral/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 67640,
+      "sha256": "0f4e8703e488af7ca4527228d8926c6aa835ac34313acc12fbd54a9e40dc7233",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-18",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-aceita-denuncia-da-pgr-contra-deputado-gustavo-gayer-por-injuria-a-presidente-lula/",
+      "consultadoEm": "2026-11-11T20:17:24.651133+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-aceita-denuncia-da-pgr-contra-deputado-gustavo-gayer-por-injuria-a-presidente-lula/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 66819,
+      "sha256": "ca6be64ff5c95f2622e2ddaf1d5c626c7eacd06c380781737a30c83caf1da7d8",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "fonte-19",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-denuncia-contra-deputado-gilvan-da-federal-pl-es-por-ofensas-ao-presidente-lula/",
+      "consultadoEm": "2026-11-11T20:17:24.990279+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-denuncia-contra-deputado-gilvan-da-federal-pl-es-por-ofensas-ao-presidente-lula/",
+      "tipo": "text/html; charset=UTF-8",
+      "bytes": 66153,
+      "sha256": "85c07274e113e051415bf428d3c9a042a62a3229b81b44ea4b505f57b44f1449",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2670-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7228118",
+      "consultadoEm": "2026-11-11T20:19:40.342913+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7228118",
+      "bytes": 6510496,
+      "sha256": "5bfdfc03bce52d8d58af36011ae0e3e52b6c7653b1cd4a50ca94691efb008f98",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2670-partes",
+      "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7228118",
+      "consultadoEm": "2026-11-11T20:25:16.217048+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7228118",
+      "bytes": 9072,
+      "sha256": "5a354c77abc86409fa28c6c52f4e98fa6839b6628d8f2629ec3f18db1208858c",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2668-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7223339",
+      "consultadoEm": "2026-11-11T20:19:43.253735+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7223339",
+      "bytes": 23214954,
+      "sha256": "52bcd4dde13bdeb792794bd9bfafaf3915985a211f064c63830332a60b3c0876",
+      "resultadoLeitura": "conteudo_publico_lido",
+      "localizador": "Andamento de 26/11/2025: decisão referendada com menção nominal a Alexandre Ramagem Rodrigues; não inferir resultado individual da certidão genérica da ação."
+    },
+    {
+      "id": "ap2668-partes",
+      "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7223339",
+      "consultadoEm": "2026-11-11T20:25:17.027202+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7223339",
+      "bytes": 21992,
+      "sha256": "f2974ea5130310e0c5322978be8ba172f4f32eb32b35fc1b7f72b5f9f879799e",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2668-referendo-noticia",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-1a-turma-confirma-inicio-de-cumprimento-da-pena-de-reus-do-nucleo-1-da-tentativa-de-golpe/",
+      "consultadoEm": "2026-11-11T20:25:14.168054+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias.stf.jus.br/postsnoticias/ap-2668-1a-turma-confirma-inicio-de-cumprimento-da-pena-de-reus-do-nucleo-1-da-tentativa-de-golpe/",
+      "bytes": 68302,
+      "sha256": "04e93a6db4e3ed7f23f699a00411fc08377c357ad875534faced54f980ccfbd4",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2737-detalhe",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473237",
+      "consultadoEm": "2026-11-11T20:19:44.261100+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473237",
+      "bytes": 69850,
+      "sha256": "ccb4ce1e56ad74dc536f0cdf88ce44e92ce99ef2b1584ac2e458d07c61e412c4",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2737-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7473237",
+      "consultadoEm": "2026-11-11T20:19:44.787873+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7473237",
+      "bytes": 980117,
+      "sha256": "568e43c0f9c139ca33eaa16885d03006f308c0ca3c66393156ec4ad0df0e29e4",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2782-detalhe",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7505277",
+      "consultadoEm": "2026-11-11T20:19:47.142407+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7505277",
+      "bytes": 69958,
+      "sha256": "92261b5399cff2662016e4cc88aa2f5ebd1e7dbfd1a05dd62362e56a5d8c4caf",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2782-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7505277",
+      "consultadoEm": "2026-11-11T20:19:47.348639+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7505277",
+      "bytes": 1945216,
+      "sha256": "15e8b958615c962146283c6f18eaaafba4832f349761de1cfeda50fd1f562828",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2782-partes",
+      "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7505277",
+      "consultadoEm": "2026-11-11T20:25:17.716391+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7505277",
+      "bytes": 2157,
+      "sha256": "6050c7ca4e926e6768d121285ba4e53f637582374a991792f82e1f361b5faa34",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap2782-decisao",
+      "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391297623&ext=.pdf",
+      "consultadoEm": "2026-11-11T20:25:14.167323+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391297623&ext=.pdf",
+      "bytes": 141269,
+      "sha256": "930e1e4b80c02dbb5f283f9a630d4e342d6293650167e3442dc5d575594c02d3",
+      "resultadoLeitura": "conteudo_publico_lido",
+      "localizador": "Páginas 6–7: dispositivo que declara o trânsito em julgado e determina execução; peça datada de 07/10/2026, disponibilizada em andamento de 08/10/2026."
+    },
+    {
+      "id": "ap1053-detalhe",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6605389",
+      "consultadoEm": "2026-11-11T20:19:48.932860+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6605389",
+      "bytes": 69850,
+      "sha256": "ef03a831006e10faa8ca7ed867755eac6b00b7fa8af889b9e633cdda7ac5f156",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap1053-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=6605389",
+      "consultadoEm": "2026-11-11T20:19:49.457822+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=6605389",
+      "bytes": 1077610,
+      "sha256": "13bd3edbab3d78a16030bf9e270bb4b1170701c089d0b9a33699d45b37adf0dc",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "ap1053-partes",
+      "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=6605389",
+      "consultadoEm": "2026-11-11T20:25:17.912355+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=6605389",
+      "bytes": 2312,
+      "sha256": "15be5a832bf01a82104334da560a29e012f7df695034c6af5bda812115b64926",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "inq4974-detalhe",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7032771",
+      "consultadoEm": "2026-11-11T20:19:50.041404+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7032771",
+      "bytes": 69946,
+      "sha256": "78a87f41abf337acab0999ab96156fbf9f4cdb07ff1e8c2d1a2f0a7ad469e91c",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "inq4974-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7032771",
+      "consultadoEm": "2026-11-11T20:19:50.623082+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7032771",
+      "bytes": 1066658,
+      "sha256": "5a4bc80e593a39e45c2445d52b5638e7c5964d82ac92a5e578a65cc84cd5afa3",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "inq4974-partes",
+      "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7032771",
+      "consultadoEm": "2026-11-11T20:25:17.915165+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7032771",
+      "bytes": 2413,
+      "sha256": "0dcbf751438103de79bba6df6bd6be569bd31dc2dbbee641424ae5e83d96d1bb",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "inq4999-detalhe",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7276245",
+      "consultadoEm": "2026-11-11T20:19:50.730680+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7276245",
+      "bytes": 69698,
+      "sha256": "e21b7a9fb8f375888700eaa2c7c084200b93ead6c9435c5376e6c892436d7bc1",
+      "resultadoLeitura": "identificacao_publica_com_indicacao_de_sigilo"
+    },
+    {
+      "id": "inq4999-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7276245",
+      "consultadoEm": "2026-11-11T20:19:51.631345+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7276245",
+      "bytes": 85870,
+      "sha256": "1ea63e58c6d8171638a3ed35321bdbe8ae6866c8a57b0592524e8e610f9f24ef",
+      "resultadoLeitura": "conteudo_publico_lido"
+    },
+    {
+      "id": "inq4999-partes",
+      "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7276245",
+      "consultadoEm": "2026-11-11T20:25:18.258717+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7276245",
+      "bytes": 86,
+      "sha256": "166f5b117229fe9e94d4509d0ed16bf9a2f627c7ce5e70c1040095cd13ba0d12",
+      "resultadoLeitura": "sem_conteudo_legivel"
+    },
+    {
+      "id": "pet14918-busca",
+      "url": "https://portal.stf.jus.br/processos/listarProcessos.asp?classe=Pet&numeroProcesso=14918",
+      "consultadoEm": "2026-11-11T20:25:14.168514+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7433186",
+      "bytes": 69698,
+      "sha256": "65f509fcdeefbbbb26a0420713de9ca2f65d9ae26cda601619edbf2275e81a92",
+      "resultadoLeitura": "identificacao_publica_com_indicacao_de_sigilo"
+    },
+    {
+      "id": "pet16669-busca",
+      "url": "https://portal.stf.jus.br/processos/listarProcessos.asp?classe=Pet&numeroProcesso=16669",
+      "consultadoEm": "2026-11-11T20:25:14.168929+00:00",
+      "status": 200,
+      "urlFinal": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681816",
+      "bytes": 69792,
+      "sha256": "4260724ab6563d4a39c026a89ceff5cb55f262e285f46857defc697f38fefb5b",
+      "resultadoLeitura": "identificacao_publica_com_indicacao_de_sigilo"
+    },
+    {
+      "id": "makeup-decisao",
+      "url": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/09/10161636/Decisao-PET-16669.pdf",
+      "consultadoEm": "2026-11-11T20:19:58.894030+00:00",
+      "status": 200,
+      "urlFinal": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/09/10161636/Decisao-PET-16669.pdf",
+      "bytes": 803508,
+      "sha256": "43470bf5801a2c2dcea098f2b2225e10d5c0ca0d4ea878d01a358441f705d7a2",
+      "resultadoLeitura": "leitura_dirigida_do_dispositivo_nao_integral",
+      "provenienciaUrl": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-sobre-destinacao-de-emendas-parlamentares-no-caso-dark-horse/"
+    },
+    {
+      "id": "gilvan-camara",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+      "urlFinal": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+      "consultadoEm": "2026-11-11T20:40:02.905636+00:00",
+      "status": 200,
+      "bytes": 1126,
+      "sha256": "5291c95fe3c72ee351ef4f44882a37ea72027cdf6327b1dd016c4a1457270314",
+      "identificacaoPublica": {
+        "id": 220526,
+        "nomeCivil": "GILVAN AGUIAR COSTA",
+        "nomeParlamentar": "Gilvan da Federal",
+        "uf": "ES",
+        "partido": "PL"
+      },
+      "resultadoLeitura": "identificacao_nominal_cotejada_com_cadastro_eleitoral"
+    }
+  ],
+  "acessosInconclusivos": [
+    {
+      "tipo": "interface_pje",
+      "url": "https://consultaunificadapje.tse.jus.br/",
+      "httpPagina": 200,
+      "httpScriptPrincipal": 503,
+      "resultado": "O HTML e os pacotes de compatibilidade foram obtidos, mas não houve sessão interativa concluída nem recuperação verificável dos andamentos eleitorais nesta rodada. O script ES2015 retornou 503; a resposta ES5 200 não é consulta aos autos nem prova de ausência de recursos.",
+      "diagnosticoComplementar": [
+        {
+          "id": "pje-main-es5",
+          "url": "https://consultaunificadapje.tse.jus.br/main-es5.8f717ddedcc477dfe4b7.js",
+          "consultadoEm": "2026-11-11T20:46:32.669968+00:00",
+          "status": 200,
+          "bytes": 7186245,
+          "sha256": "592b16b50d406f9af8acd32b41be1c04f49f17f5ba4e9f23efeb786c8908abca"
+        },
+        {
+          "id": "pje-runtime",
+          "url": "https://consultaunificadapje.tse.jus.br/runtime-es2015.15539b3e04e69dd20e83.js",
+          "consultadoEm": "2026-11-11T20:46:48.571080+00:00",
+          "status": 200,
+          "bytes": 9356,
+          "sha256": "b2d2d468a9cd52cd8b6af3e1f24d2403cbb65d0dc9f6136992dbe64c0c75c443"
+        }
+      ]
+    },
+    {
+      "tipo": "abas_recursos_stf",
+      "incidentes": [
+        "7228118",
+        "7223339",
+        "7505277",
+        "6605389",
+        "7032771",
+        "7276245"
+      ],
+      "http": 200,
+      "bytes": 0,
+      "resultado": "Resposta vazia não foi interpretada como ausência de recurso. Foram lidos os andamentos e as peças públicas disponíveis."
+    }
+  ],
+  "registros": [
+    {
+      "ocorrenciaId": "stf-ap2670-josimar-2026",
+      "candidaturaId": "100001603114",
+      "fontesIds": [
+        "fonte-01",
+        "fonte-02",
+        "fonte-03",
+        "ap2670-andamentos",
+        "ap2670-partes"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Condenação por corrupção passiva e absolvição por organização criminosa preservadas; andamentos e identificação nominal cotejados. Não certificado trânsito específico.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-21",
+          "depois": "2026-11-11"
+        },
+        "descricaoSituacao": {
+          "antes": "Condenação colegiada por corrupção passiva em 17/03/2026; absolvição da acusação de organização criminosa. Consta incidente de embargos no portal do STF; trânsito em julgado não confirmado na consulta de 21/10/2026.",
+          "depois": "Condenação colegiada por corrupção passiva em 17/03/2026, com absolvição da imputação de organização criminosa. Os andamentos públicos consultados em 11/11/2026 registram oposição de embargos de declaração em maio de 2026; o último movimento exibido nessa consulta é conclusão ao relator em 10/09/2026. Não foi confirmada certidão de trânsito em julgado específica do parlamentar no material consultado."
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-sete-reus-por-desvio-de-emendas-parlamentares-destinadas-a-municipio-do-maranhao-2/",
+              "titulo": "STF condena sete réus por desvio de emendas parlamentares",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-julgar-deputados-federais-acusados-de-desvio-de-emendas-parlamentares-nesta-terca-10/",
+              "titulo": "STF começa a julgar acusados de desvio de emendas",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7228118",
+              "titulo": "Consulta processual AP 2670",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-sete-reus-por-desvio-de-emendas-parlamentares-destinadas-a-municipio-do-maranhao-2/",
+              "titulo": "STF condena sete réus por desvio de emendas parlamentares",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-julgar-deputados-federais-acusados-de-desvio-de-emendas-parlamentares-nesta-terca-10/",
+              "titulo": "STF começa a julgar acusados de desvio de emendas",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7228118",
+              "titulo": "Consulta processual AP 2670",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7228118",
+              "titulo": "AP 2670 — andamentos públicos consultados em 11/11/2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7228118",
+              "titulo": "AP 2670 — partes identificadas no portal do STF",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "A decisão colegiada de corrupção passiva e a absolvição da imputação de organização criminosa estão documentadas. O portal do STF registra incidente recursal AP-ED-nonos; não se afirma trânsito em julgado ou esgotamento dos recursos. O histórico pode ter atualização posterior à consulta.",
+          "depois": "A condenação por corrupção passiva e a absolvição da acusação de organização criminosa estão documentadas. A ausência de certidão no material exibido não comprova inexistência de recursos ou de decisão posterior. Decisões e resultados relativos a outros réus da AP 2670 não são automaticamente atribuídos a este parlamentar."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Mantenedor do Observatório — autorização editorial delegada; checagem documental assistida por IA",
+            "data": "2026-10-21",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-ap2670-pastor-gil-2026",
+      "candidaturaId": "100001603099",
+      "fontesIds": [
+        "fonte-01",
+        "fonte-02",
+        "fonte-03",
+        "ap2670-andamentos",
+        "ap2670-partes"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Condenação por corrupção passiva e absolvição por organização criminosa preservadas; não transferir resultado de outro réu.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-21",
+          "depois": "2026-11-11"
+        },
+        "descricaoSituacao": {
+          "antes": "Condenação colegiada por corrupção passiva em 17/03/2026; absolvição da acusação de organização criminosa. Consta incidente de embargos no portal do STF; trânsito em julgado não confirmado na consulta de 21/10/2026.",
+          "depois": "Condenação colegiada por corrupção passiva em 17/03/2026, com absolvição da imputação de organização criminosa. Os andamentos públicos consultados em 11/11/2026 registram oposição de embargos de declaração em maio de 2026; o último movimento exibido nessa consulta é conclusão ao relator em 10/09/2026. Não foi confirmada certidão de trânsito em julgado específica do parlamentar no material consultado."
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-sete-reus-por-desvio-de-emendas-parlamentares-destinadas-a-municipio-do-maranhao-2/",
+              "titulo": "STF condena sete réus por desvio de emendas parlamentares",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-julgar-deputados-federais-acusados-de-desvio-de-emendas-parlamentares-nesta-terca-10/",
+              "titulo": "STF começa a julgar acusados de desvio de emendas",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7228118",
+              "titulo": "Consulta processual AP 2670",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-sete-reus-por-desvio-de-emendas-parlamentares-destinadas-a-municipio-do-maranhao-2/",
+              "titulo": "STF condena sete réus por desvio de emendas parlamentares",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-julgar-deputados-federais-acusados-de-desvio-de-emendas-parlamentares-nesta-terca-10/",
+              "titulo": "STF começa a julgar acusados de desvio de emendas",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7228118",
+              "titulo": "Consulta processual AP 2670",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7228118",
+              "titulo": "AP 2670 — andamentos públicos consultados em 11/11/2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7228118",
+              "titulo": "AP 2670 — partes identificadas no portal do STF",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "A decisão colegiada de corrupção passiva e a absolvição da imputação de organização criminosa estão documentadas. O portal do STF registra incidente recursal AP-ED-nonos; não se afirma trânsito em julgado ou esgotamento dos recursos. O histórico pode ter atualização posterior à consulta.",
+          "depois": "A condenação por corrupção passiva e a absolvição da acusação de organização criminosa estão documentadas. A ausência de certidão no material exibido não comprova inexistência de recursos ou de decisão posterior. Decisões e resultados relativos a outros réus da AP 2670 não são automaticamente atribuídos a este parlamentar."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Mantenedor do Observatório — autorização editorial delegada; checagem documental assistida por IA",
+            "data": "2026-10-21",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "tse-aije-claudio-castro-2026",
+      "candidaturaId": "190001615753",
+      "fontesIds": [
+        "fonte-04",
+        "fonte-05"
+      ],
+      "resultado": "fontes_relidas_sem_mudanca_de_fase",
+      "justificativa": "Notícias oficiais sustentam decisão eleitoral e embargos; autos posteriores não recuperados. Registro jurídico inalterado nesta rodada.",
+      "alteracoes": {}
+    },
+    {
+      "ocorrenciaId": "tre-sc-jorginho-pesquisa-set-2026",
+      "candidaturaId": "240001611127",
+      "fontesIds": [
+        "fonte-06"
+      ],
+      "resultado": "fontes_relidas_sem_mudanca_de_fase",
+      "justificativa": "Notícia do TRE-SC sustenta multa e retirada de propaganda, sem comprovar ausência de recursos. Registro jurídico inalterado; PJe não recuperado.",
+      "alteracoes": {}
+    },
+    {
+      "ocorrenciaId": "tse-jorge-seif-rejeicao-aije-2026",
+      "candidaturaId": "240001611131",
+      "fontesIds": [
+        "fonte-07"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Página 1 do informativo confirma decisão favorável e embargos. Corrigida distinção entre resultado favorável e manifestação de defesa não reconstruída.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "limites": {
+          "antes": "A ação foi rejeitada por insuficiência de provas; não é adequado apresentá-la como acusação vigente. Não se afirma encerramento de todos os recursos além dos embargos mencionados no informativo oficial.",
+          "depois": "A rejeição da ação por insuficiência de provas, favorável aos investigados, e o julgamento de embargos em fevereiro de 2026 estão registrados na página 1 do informativo oficial relido em 11/11/2026. A leitura do informativo não confirma o andamento atual dos recursos ou seu esgotamento; não apresentar a ação como acusação vigente nem inferir encerramento definitivo."
+        },
+        "posicionamentoEnvolvido": {
+          "antes": "Resultado processual favorável ao parlamentar: o TSE rejeitou a ação eleitoral contra ele e os suplentes.",
+          "depois": "O informativo do TSE registra resultado favorável ao senador e aos suplentes, mas não reconstitui os argumentos da defesa nem uma manifestação contemporânea do envolvido. Não houve contato direto nesta rodada."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Mantenedor do Observatório — autorização editorial delegada; revisão documental assistida por IA",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-pet14918-sostenes-2025",
+      "candidaturaId": "190001596769",
+      "fontesIds": [
+        "fonte-08",
+        "fonte-09",
+        "fonte-10",
+        "pet14918-busca"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Processo identificado como sigiloso. Corrigida atribuição de defesa para limitar-se ao que as fontes efetivamente dizem; não atribuída a ele fala de outro deputado. Não se infere participação nem exclusão de alvo a partir do silêncio de notícia sobre diligências em outro procedimento.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-apreensoes-e-quebra-de-sigilos-em-investigacao-sobre-uso-irregular-de-cota-parlamentar/",
+              "titulo": "STF autoriza buscas, apreensões e quebra de sigilos na PET 14918",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/movimentacoes-suspeitas-envolvendo-sostenes-e-jordy-somam-r-286-mi",
+              "titulo": "Agência Brasil: operação Galho Fraco e manifestações",
+              "instituicao": "Agência Brasil",
+              "tipo": "imprensa"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
+              "titulo": "STF autoriza novas diligências na PET 16072 em julho de 2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-apreensoes-e-quebra-de-sigilos-em-investigacao-sobre-uso-irregular-de-cota-parlamentar/",
+              "titulo": "STF autoriza buscas, apreensões e quebra de sigilos na PET 14918",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/movimentacoes-suspeitas-envolvendo-sostenes-e-jordy-somam-r-286-mi",
+              "titulo": "Agência Brasil: operação Galho Fraco e manifestações",
+              "instituicao": "Agência Brasil",
+              "tipo": "imprensa"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
+              "titulo": "STF autoriza novas diligências na PET 16072 em julho de 2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7433186",
+              "titulo": "Identificação pública da PET 14918 — portal indica acesso sigiloso",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "A existência de investigação, buscas e apreensões não comprova crime, denúncia recebida ou condenação. A fase Galho Fraco II de julho de 2026 teve alvos distintos; não atribuir automaticamente novos mandados a esses deputados. Não foi identificado desfecho conclusivo posterior nesta pesquisa.",
+          "depois": "A existência de investigação, buscas e apreensões não comprova crime, denúncia recebida ou condenação. A notícia oficial da fase Galho Fraco II de julho de 2026 descreve diligências na PET 16072; não atribuir automaticamente seus alvos ou desfechos aos investigados da PET 14918. Não foi identificado desfecho conclusivo posterior nesta pesquisa. Em 11/11/2026, a identificação pública do processo no portal do STF indicava acesso sigiloso. O andamento integral não foi auditado; a ficha se limita aos atos divulgados nas fontes públicas citadas, sem presumir condenação ou encerramento."
+        },
+        "posicionamentoEnvolvido": {
+          "antes": "Sóstenes negou irregularidades, classificou a investigação como perseguição política e afirmou que dinheiro em espécie apreendido em endereço ligado a ele provinha da venda de imóvel.",
+          "depois": "Sóstenes afirmou que o dinheiro apreendido seria proveniente da venda de um imóvel, segundo notícia do STF de 01/07/2026. A reportagem da Agência Brasil de 19/12/2025 informava que buscava contato com ele ou sua defesa. Não houve contato direto nesta rodada."
+        },
+        "resumo": {
+          "antes": "Em 19/12/2025, o STF informou que Sóstenes Cavalcante e Carlos Jordy figuravam entre os investigados na PET 14918, relativa a suspeitas de desvio de recursos da cota parlamentar mediante contratos de locação de veículos. A PF cumpriu mandados de busca e apreensão. Uma nova fase da operação ocorreu em julho de 2026, mas Sóstenes não foi apontado como alvo dos novos mandados.",
+          "depois": "Em 19/12/2025, o STF informou que Sóstenes Cavalcante e Carlos Jordy figuravam entre os investigados na PET 14918, relativa a suspeitas de desvio de recursos da cota parlamentar mediante contratos de locação de veículos. A PF cumpriu mandados de busca e apreensão. A notícia oficial de julho de 2026 descreve novas diligências na PET 16072, envolvendo pessoas e empresas ligadas ao parlamentar; não permite atribuir automaticamente os novos mandados a ele."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Revisão documental assistida por IA sob autorização editorial do mantenedor",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-pet14918-jordy-2025",
+      "candidaturaId": "190001596781",
+      "fontesIds": [
+        "fonte-08",
+        "fonte-09",
+        "fonte-10",
+        "pet14918-busca"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Investigação e defesa documentadas nas fontes; portal indica sigilo, sem certificação de fase atual integral. Não se infere participação nem exclusão de alvo a partir do silêncio de notícia sobre diligências em outro procedimento.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-apreensoes-e-quebra-de-sigilos-em-investigacao-sobre-uso-irregular-de-cota-parlamentar/",
+              "titulo": "STF autoriza buscas, apreensões e quebra de sigilos na PET 14918",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/movimentacoes-suspeitas-envolvendo-sostenes-e-jordy-somam-r-286-mi",
+              "titulo": "Agência Brasil: operação Galho Fraco e manifestações",
+              "instituicao": "Agência Brasil",
+              "tipo": "imprensa"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
+              "titulo": "STF autoriza novas diligências na PET 16072 em julho de 2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-apreensoes-e-quebra-de-sigilos-em-investigacao-sobre-uso-irregular-de-cota-parlamentar/",
+              "titulo": "STF autoriza buscas, apreensões e quebra de sigilos na PET 14918",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/movimentacoes-suspeitas-envolvendo-sostenes-e-jordy-somam-r-286-mi",
+              "titulo": "Agência Brasil: operação Galho Fraco e manifestações",
+              "instituicao": "Agência Brasil",
+              "tipo": "imprensa"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-busca-e-apreensao-em-investigacao-sobre-suspeitas-de-desvio-de-recursos-de-cota-parlamentar/",
+              "titulo": "STF autoriza novas diligências na PET 16072 em julho de 2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7433186",
+              "titulo": "Identificação pública da PET 14918 — portal indica acesso sigiloso",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "A existência de investigação, buscas e apreensões não comprova crime, denúncia recebida ou condenação. A fase Galho Fraco II de julho de 2026 teve alvos distintos; não atribuir automaticamente novos mandados a esses deputados. Não foi identificado desfecho conclusivo posterior nesta pesquisa.",
+          "depois": "A existência de investigação, buscas e apreensões não comprova crime, denúncia recebida ou condenação. A notícia oficial da fase Galho Fraco II de julho de 2026 descreve diligências na PET 16072; não atribuir automaticamente seus alvos ou desfechos aos investigados da PET 14918. Não foi identificado desfecho conclusivo posterior nesta pesquisa. Em 11/11/2026, a identificação pública do processo no portal do STF indicava acesso sigiloso. O andamento integral não foi auditado; a ficha se limita aos atos divulgados nas fontes públicas citadas, sem presumir condenação ou encerramento."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Revisão documental assistida por IA sob autorização editorial do mantenedor",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-makeup-mario-frias-2026",
+      "candidaturaId": "250001611324",
+      "fontesIds": [
+        "fonte-11",
+        "fonte-12",
+        "fonte-13",
+        "pet16669-busca",
+        "makeup-decisao"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Notícias e leitura dirigida da decisão pública sustentam as medidas divulgadas, sem condenação. Portal identifica sigilo; defesa atribuída à reportagem, sem contato direto.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-sobre-destinacao-de-emendas-parlamentares-no-caso-dark-horse/",
+              "titulo": "STF autoriza operação da PF sobre destinação de emendas parlamentares",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-apura-desvio-de-recursos-publicos-oriundos-de-emendas-parlamentares",
+              "titulo": "PF apura desvio de recursos públicos oriundos de emendas parlamentares",
+              "instituicao": "Polícia Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada",
+              "titulo": "Agência Brasil: contexto financeiro e manifestação do deputado",
+              "instituicao": "Agência Brasil",
+              "tipo": "imprensa"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-sobre-destinacao-de-emendas-parlamentares-no-caso-dark-horse/",
+              "titulo": "STF autoriza operação da PF sobre destinação de emendas parlamentares",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-apura-desvio-de-recursos-publicos-oriundos-de-emendas-parlamentares",
+              "titulo": "PF apura desvio de recursos públicos oriundos de emendas parlamentares",
+              "instituicao": "Polícia Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/projeto-pago-com-emenda-de-mario-frias-nao-teve-execucao-comprovada",
+              "titulo": "Agência Brasil: contexto financeiro e manifestação do deputado",
+              "instituicao": "Agência Brasil",
+              "tipo": "imprensa"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681816",
+              "titulo": "Identificação pública da PET 16669 — portal indica acesso sigiloso",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "Na notícia de 10/09/2026, o STF identificou a PET 16669 e relatou suspeitas investigadas de desvio de emendas. As medidas cautelares e buscas não constituem condenação; não se confirmou desfecho conclusivo nem eventual revisão das cautelares até 22/10/2026.",
+          "depois": "Na notícia de 10/09/2026, o STF identificou a PET 16669 e relatou suspeitas investigadas de desvio de emendas. As medidas cautelares e buscas não constituem condenação; não se confirmou desfecho conclusivo nem eventual revisão das cautelares até 22/10/2026. Em 11/11/2026, a identificação pública do processo no portal do STF indicava acesso sigiloso. O andamento integral não foi auditado; a ficha se limita aos atos divulgados nas fontes públicas citadas, sem presumir condenação ou encerramento."
+        },
+        "posicionamentoEnvolvido": {
+          "antes": "Mario Frias negou irregularidades e declarou que os recursos destinados a projetos sociais tinham finalidades públicas legítimas.",
+          "depois": "Em manifestação reproduzida pela Agência Brasil, Mario Frias afirmou que destinou a emenda a projetos esportivo e de letramento digital e a descreveu como pública, registrada e transparente. Também alegou não ter tido acesso à investigação. Não houve contato direto nesta rodada."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Revisão documental assistida por IA sob autorização editorial do mantenedor",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-ramagem-ap2668-2025",
+      "candidaturaId": "190001596777",
+      "fontesIds": [
+        "fonte-14",
+        "fonte-15",
+        "ap2668-andamentos",
+        "ap2668-partes",
+        "ap2668-referendo-noticia",
+        "ap2737-detalhe",
+        "ap2737-andamentos"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Definitividade respaldada em lançamento individual do referendo de 26/11/2025, não inferida da condenação conjunta. AP 2737 mantida distinta.",
+      "alteracoes": {
+        "dataMarco": {
+          "antes": "2025-12-22",
+          "depois": "2025-11-26"
+        },
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "descricaoSituacao": {
+          "antes": "Condenação na AP 2668 a 16 anos, um mês e 15 dias; em dezembro de 2025, o STF informou a perda de mandato e a retomada separada da AP 2737 (PET 13842) por outras imputações, sem antecipar desfecho dessas últimas.",
+          "depois": "Condenação de Alexandre Ramagem na AP 2668 a 16 anos, um mês e 15 dias. O andamento de 26/11/2025 registra referendo da certificação do trânsito em julgado e do início de cumprimento da pena especificamente em relação a Alexandre Ramagem Rodrigues. A AP 2737, oriunda da PET 13842, trata separadamente das imputações de dano qualificado e deterioração de patrimônio tombado."
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/apos-perda-de-mandato-stf-retoma-acao-penal-contra-alexandre-ramagem/",
+              "titulo": "Após perda do mandato, STF retoma ação contra Alexandre Ramagem",
+              "instituicao": "STF",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado",
+              "titulo": "STF fixa penas para condenados por tentativa de golpe",
+              "instituicao": "STF",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/apos-perda-de-mandato-stf-retoma-acao-penal-contra-alexandre-ramagem/",
+              "titulo": "Após perda do mandato, STF retoma ação contra Alexandre Ramagem",
+              "instituicao": "STF",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado",
+              "titulo": "STF fixa penas para condenados por tentativa de golpe",
+              "instituicao": "STF",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7223339",
+              "titulo": "AP 2668 — referendo específico de Alexandre Ramagem em 26/11/2025",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-1a-turma-confirma-inicio-de-cumprimento-da-pena-de-reus-do-nucleo-1-da-tentativa-de-golpe/",
+              "titulo": "AP 2668 — notícia oficial sobre referendo do início de cumprimento de pena",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7223339",
+              "titulo": "AP 2668 — identificação das partes",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473237",
+              "titulo": "Consulta pública da AP 2737, distinta da AP 2668",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7473237",
+              "titulo": "AP 2737 — andamentos públicos consultados em 11/11/2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "A condenação pela AP 2668 não se confunde com os crimes de dano qualificado e deterioração de patrimônio tombado, cuja apuração foi retomada após a perda do mandato. Não se afirma que houve condenação por estes últimos crimes.",
+          "depois": "A decisão definitiva da AP 2668 não é uma condenação pelas imputações tratadas na AP 2737. Na consulta de 11/11/2026, a aba pública da AP 2737 exibia como último movimento conclusão ao relator em 27/03/2026, sem desfecho de mérito confirmado nesta rodada. O registro específico de Ramagem não foi inferido do resultado de outros réus."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Pesquisa documental assistida por IA sob autorização do mantenedor",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-eduardo-ap2782-2026",
+      "candidaturaId": "250001611374",
+      "fontesIds": [
+        "fonte-16",
+        "ap2782-detalhe",
+        "ap2782-andamentos",
+        "ap2782-partes",
+        "ap2782-decisao"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Corrigida desatualização material: decisão de 07/10/2026, lançada em 08/10, declara trânsito e início da execução. Conferidos processo, nome do réu e dispositivo nas pp. 6–7 do PDF oficial.",
+      "alteracoes": {
+        "dataMarco": {
+          "antes": "2026-06-16",
+          "depois": "2026-10-07"
+        },
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "descricaoSituacao": {
+          "antes": "Condenação colegiada na AP 2782 em 16/06/2026. A documentação utilizada não comprova esgotamento de recursos nem trânsito em julgado.",
+          "depois": "A decisão de 07/10/2026, lançada no andamento de 08/10/2026, declara expressamente o trânsito em julgado da AP 2782 e determina o início da execução da pena. O dispositivo foi conferido nas páginas 6 e 7 da peça oficial, consultada em 11/11/2026."
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-4-anos-e-2-meses-de-reclusao-por-tentar-interferir-no-processo-sobre-tentativa-de-golpe/",
+              "titulo": "STF condena Eduardo Bolsonaro por coação no curso do processo",
+              "instituicao": "STF",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-4-anos-e-2-meses-de-reclusao-por-tentar-interferir-no-processo-sobre-tentativa-de-golpe/",
+              "titulo": "STF condena Eduardo Bolsonaro por coação no curso do processo",
+              "instituicao": "STF",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7505277",
+              "titulo": "Consulta processual AP 2782",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7505277",
+              "titulo": "AP 2782 — andamentos e registro de trânsito em julgado",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391297623&ext=.pdf",
+              "titulo": "Decisão de 07/10/2026 na AP 2782 — dispositivo nas páginas 6 e 7",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7505277",
+              "titulo": "AP 2782 — identificação do réu no portal do STF",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "A condenação colegiada de 16/06/2026 na AP 2782 está confirmada em notícia oficial do STF. Não foi verificado o trânsito em julgado ou o desfecho de eventuais recursos posteriores. Este caso trata de coação no curso do processo, e não de participação na tentativa de golpe julgada na AP 2668.",
+          "depois": "A definitividade aqui registrada refere-se exclusivamente à condenação na AP 2782, conforme decisão oficial de 07/10/2026. Não se estende à AP 1053 nem a outros procedimentos. A efetivação de todas as ordens de execução e eventuais medidas autônomas posteriores não foram integralmente auditadas nesta rodada."
+        },
+        "resumo": {
+          "antes": "Em 16 de junho de 2026, a Primeira Turma do STF condenou o ex-deputado Eduardo Bolsonaro a quatro anos e dois meses de reclusão por coação no curso do processo, relacionada a tentativas de interferência no julgamento da AP 2668.",
+          "depois": "A Primeira Turma do STF condenou Eduardo Bolsonaro em 16/06/2026 a quatro anos e dois meses de reclusão por coação no curso do processo. Em decisão de 07/10/2026, o relator declarou o trânsito em julgado e determinou o início da execução da pena nessa ação penal."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Pesquisa documental assistida por IA sob autorização do mantenedor",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        },
+        "situacaoProcessual": {
+          "antes": "decisao_nao_definitiva",
+          "depois": "decisao_definitiva"
+        },
+        "titulo": {
+          "antes": "STF condena Eduardo Bolsonaro por coação no curso de processo judicial",
+          "depois": "STF declara trânsito em julgado da condenação de Eduardo Bolsonaro na AP 2782"
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-eduardo-difamacao-tabata-2026",
+      "candidaturaId": "250001611374",
+      "fontesIds": [
+        "fonte-17",
+        "ap1053-detalhe",
+        "ap1053-andamentos",
+        "ap1053-partes"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Condenação confirmada e data da sessão diferenciada da publicação. Dispositivo condicional sobre trânsito não é certidão; não transferir definitividade da AP 2782.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "descricaoSituacao": {
+          "antes": "Condenação colegiada por difamação em 25/09/2026, com pena de um ano de detenção e 39 dias-multa. Não foi comprovado trânsito em julgado.",
+          "depois": "Condenação colegiada por difamação em sessão virtual encerrada em 25/09/2026, com pena de um ano de detenção e 39 dias-multa. A consulta de 11/11/2026 à AP 1053 exibia publicação da ata em 30/09/2026. O trecho que prevê providências para depois do trânsito em julgado não é certidão de que ele já ocorreu."
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-um-ano-de-detencao-por-difamar-deputada-tabata-amaral/",
+              "titulo": "STF condena Eduardo Bolsonaro por difamar Tabata Amaral",
+              "instituicao": "STF",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-um-ano-de-detencao-por-difamar-deputada-tabata-amaral/",
+              "titulo": "STF condena Eduardo Bolsonaro por difamar Tabata Amaral",
+              "instituicao": "STF",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6605389",
+              "titulo": "Consulta processual AP 1053",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=6605389",
+              "titulo": "AP 1053 — ata e andamentos públicos",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=6605389",
+              "titulo": "AP 1053 — identificação do réu",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "Trata-se de caso distinto da AP 2782. A fonte consultada descreve o julgamento de setembro de 2026; recursos posteriores e eventual trânsito em julgado não foram confirmados.",
+          "depois": "Esta ação é distinta da AP 2782. A definitividade documentada naquela ação não pode ser transferida a esta. Não foi confirmada certidão de trânsito em julgado da AP 1053 no material consultado; isso não é prova de inexistência de andamento ou de recurso posterior."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Pesquisa documental assistida por IA sob autorização do mantenedor",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-inq4974-gustavo-gayer-2026",
+      "candidaturaId": "90001652508",
+      "fontesIds": [
+        "fonte-18",
+        "inq4974-detalhe",
+        "inq4974-andamentos",
+        "inq4974-partes"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Agenda de embargos registrada em 04/11/2026 é futura em relação à consulta, não julgamento concluído. Conferência nominal nas partes.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "descricaoSituacao": {
+          "antes": "Denúncia recebida pelo STF no Inquérito 4974 em 28/04/2026. Situação após esse julgamento, eventuais recursos e sentença posterior não confirmados até esta revisão.",
+          "depois": "Denúncia recebida no Inq 4974 em 28/04/2026. Os andamentos consultados em 11/11/2026 mostram embargos de declaração e, em 04/11/2026, inclusão em sessão virtual prevista para 13 a 23/11/2026, após cancelamento de destaque. Trata-se de agendamento, não de resultado de julgamento nem de condenação."
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-aceita-denuncia-da-pgr-contra-deputado-gustavo-gayer-por-injuria-a-presidente-lula/",
+              "titulo": "STF aceita denúncia da PGR contra deputado Gustavo Gayer por injúria a presidente Lula",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-aceita-denuncia-da-pgr-contra-deputado-gustavo-gayer-por-injuria-a-presidente-lula/",
+              "titulo": "STF aceita denúncia da PGR contra deputado Gustavo Gayer por injúria a presidente Lula",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7032771",
+              "titulo": "Consulta processual Inq 4974",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7032771",
+              "titulo": "Inq 4974 — pauta de embargos registrada em 04/11/2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7032771",
+              "titulo": "Inq 4974 — identificação das partes",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "A abertura da ação penal não comprova culpa ou condenação. O status é o confirmado pela notícia oficial do STF publicada em 28/04/2026, não uma certidão atualizada de andamento. Vínculo com candidatura de 2022 validado pelo nome completo e cargo/UF do cadastro PL-GO.",
+          "depois": "O recebimento de denúncia não comprova culpa. A pauta futura registrada em 04/11/2026 pode ser alterada e não permite antecipar o julgamento dos embargos. Não foi confirmado desfecho de mérito posterior no material consultado. A identificação nominal do réu foi cotejada com as partes exibidas no portal, sem criar vínculo entre eleições."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Pesquisa documental com fonte oficial STF; revisão editorial assistida por IA",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    },
+    {
+      "ocorrenciaId": "stf-inq4999-gilvan-federal-2026",
+      "candidaturaId": "80001615730",
+      "fontesIds": [
+        "fonte-19",
+        "inq4999-detalhe",
+        "inq4999-andamentos",
+        "inq4999-partes",
+        "gilvan-camara"
+      ],
+      "resultado": "atualizacao_proposta",
+      "justificativa": "Publicação do acórdão confirmada no andamento público. Aba de partes sem conteúdo legível; identificação nominal cotejada entre Câmara e TSE, sem transferir pesquisa entre eleições. A consulta não confirma condenação ou trânsito.",
+      "alteracoes": {
+        "dataRevisao": {
+          "antes": "2026-10-22",
+          "depois": "2026-11-11"
+        },
+        "descricaoSituacao": {
+          "antes": "Denúncia recebida no Inquérito 4999 em 18/08/2026, por decisão da Primeira Turma do STF. Não foi confirmado desfecho de instrução penal ou decisão posterior até esta revisão.",
+          "depois": "Denúncia recebida no Inq 4999 em 18/08/2026. A aba pública consultada em 11/11/2026 registra publicação do acórdão em 01/10/2026. Essa publicação não equivale a sentença condenatória ou a trânsito em julgado."
+        },
+        "fontes": {
+          "antes": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-denuncia-contra-deputado-gilvan-da-federal-pl-es-por-ofensas-ao-presidente-lula/",
+              "titulo": "STF recebe denúncia contra deputado Gilvan da Federal (PL-ES)",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            }
+          ],
+          "depois": [
+            {
+              "url": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-denuncia-contra-deputado-gilvan-da-federal-pl-es-por-ofensas-ao-presidente-lula/",
+              "titulo": "STF recebe denúncia contra deputado Gilvan da Federal (PL-ES)",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7276245",
+              "titulo": "Consulta processual Inq 4999",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7276245",
+              "titulo": "Inq 4999 — publicação do acórdão em 01/10/2026",
+              "instituicao": "Supremo Tribunal Federal",
+              "tipo": "oficial"
+            },
+            {
+              "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/220526",
+              "titulo": "Câmara dos Deputados — cadastro público de Gilvan da Federal, nome civil e UF",
+              "instituicao": "Câmara dos Deputados",
+              "tipo": "oficial"
+            }
+          ]
+        },
+        "limites": {
+          "antes": "O STF entendeu haver requisitos para processamento da acusação, não comprovação de crime. A relatora indicou que a intenção de ofender será examinada com contraditório na instrução. Não há trânsito em julgado nem condenação atestados.",
+          "depois": "O recebimento da denúncia permite o processamento da acusação, não comprova crime. O portal identifica o Inq 4999 como sigiloso: foram lidos apenas os andamentos públicos disponibilizados, e a aba de partes não forneceu identificação legível. A identificação nominal foi cotejada entre o cadastro público da Câmara dos Deputados (nome civil, nome parlamentar e UF) e o cadastro eleitoral de 2022. Não foi confirmado desfecho de instrução ou decisão posterior; a consulta parcial não certifica inexistência de outros atos."
+        },
+        "revisao": {
+          "antes": {
+            "responsavel": "Pesquisa documental com fonte oficial STF; revisão editorial assistida por IA",
+            "data": "2026-10-22",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          },
+          "depois": {
+            "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+            "data": "2026-11-11",
+            "confirmacaoIdentidade": true,
+            "verificacaoAtualizacao": true,
+            "liberacaoPublica": true
+          }
+        }
+      }
+    }
+  ],
+  "alteracoesMetadados": {
+    "atualizadoEm": {
+      "antes": "2026-10-22",
+      "depois": "2026-11-11"
+    }
+  }
+}

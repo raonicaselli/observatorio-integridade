@@ -181,3 +181,14 @@ ocorrência nem autoriza promover pistas da issue #21.
 
 O processo de code review final, correção de achados e repetição dos testes
 relevantes está registrado em `AGENTS.md` para as próximas entregas.
+
+## Primeira triagem rastreável — 11/11/2026
+
+Após a migração administrativa, uma rodada pontual cotejou as fontes dos 13
+registros já publicados. Foram registradas 17 entradas de consulta em 12
+candidaturas, com limitações de sigilo, resposta vazia e acesso ao PJe explícitas.
+Os doze registros passam a `triagem_inicial`, sem revisão concluída ou confirmação
+de vínculos entre eleições. O legado e suas duas divergências permanecem visíveis.
+Consulte o [relatório da rodada](auditorias/revalidacao-juridica-2026-11-11.md)
+para resultados, justificativas e pendências. As datas de acompanhamento são
+propostas futuras, não pesquisa que já ocorreu.

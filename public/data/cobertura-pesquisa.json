@@ -153,8 +153,30 @@
     {
       "ano": 2022,
       "candidaturaId": "190001596777",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-190001596777-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo das fontes oficiais e dos andamentos públicos vinculados às ocorrências já publicadas; referências, datas e hashes no relatório documental de 11/11/2026.",
+          "limitacoes": "Conferência pontual, sem pesquisa nominal ampla ou conclusão de cobertura. Resposta vazia de aba de recursos não foi interpretada como ausência de recurso.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -389,8 +411,51 @@
     {
       "ano": 2022,
       "candidaturaId": "190001596781",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-190001596781-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo das notícias oficiais já citadas e da identificação pública do procedimento; manifestações da defesa conferidas nas fontes publicadas, conforme relatório de 11/11/2026.",
+          "limitacoes": "Os atos divulgados não certificam o andamento integral; pesquisa limitada ao material publicamente disponível.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        },
+        {
+          "id": "consulta-20261111-190001596781-2",
+          "sequencia": 2,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Tentativa de verificar a disponibilidade pública do andamento integral do procedimento já publicado.",
+          "limitacoes": "A identificação pública indica sigilo; não foram tentados meios de contornar restrições nem se afirma inexistência de ato posterior.",
+          "resultado": "acesso_indisponivel",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -433,8 +498,30 @@
     {
       "ano": 2022,
       "candidaturaId": "190001615753",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-190001615753-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "justica_eleitoral",
+            "orgao": "Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Releitura das notícias oficiais já citadas. Fontes exatas e hashes no relatório documental de 11/11/2026.",
+          "limitacoes": "Conferência pontual, sem varredura nominal. Andamentos e recursos posteriores não recuperados nesta rodada.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -605,8 +692,30 @@
     {
       "ano": 2022,
       "candidaturaId": "250001611374",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-250001611374-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo das fontes oficiais e dos andamentos públicos vinculados às ocorrências já publicadas; referências, datas e hashes no relatório documental de 11/11/2026.",
+          "limitacoes": "Conferência pontual, sem pesquisa nominal ampla ou conclusão de cobertura. Resposta vazia de aba de recursos não foi interpretada como ausência de recurso.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -801,8 +910,30 @@
     {
       "ano": 2022,
       "candidaturaId": "100001603099",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-100001603099-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo das fontes oficiais e dos andamentos públicos vinculados às ocorrências já publicadas; referências, datas e hashes no relatório documental de 11/11/2026.",
+          "limitacoes": "Conferência pontual, sem pesquisa nominal ampla ou conclusão de cobertura. Resposta vazia de aba de recursos não foi interpretada como ausência de recurso.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -829,8 +960,30 @@
     {
       "ano": 2022,
       "candidaturaId": "80001615730",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-80001615730-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo da notícia oficial e dos andamentos públicos disponibilizados, com conferência nominal no cadastro público da Câmara e no cadastro eleitoral; referências no relatório de 11/11/2026.",
+          "limitacoes": "Procedimento indicado como sigiloso, com aba de partes sem conteúdo legível. A conferência nominal usa fontes cadastrais públicas; não é certificação civil independente nem conclusão da pesquisa nos autos.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": null
     },
@@ -885,8 +1038,30 @@
     {
       "ano": 2022,
       "candidaturaId": "90001652508",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-90001652508-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo das fontes oficiais e dos andamentos públicos vinculados às ocorrências já publicadas; referências, datas e hashes no relatório documental de 11/11/2026.",
+          "limitacoes": "Pauta futura não é resultado de julgamento. Nova checagem proposta após o encerramento previsto da sessão; sem conclusão de cobertura ou de mérito.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-24",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": null
     },
@@ -1061,8 +1236,30 @@
     {
       "ano": 2022,
       "candidaturaId": "240001611131",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-240001611131-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "justica_eleitoral",
+            "orgao": "Tribunal Superior Eleitoral",
+            "url": "https://www.tse.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Leitura da página 1 do informativo oficial já citado, com conferência dos dois resultados registrados. Fontes exatas e hashes no relatório documental de 11/11/2026.",
+          "limitacoes": "Conferência pontual, sem varredura nominal. Andamentos e recursos posteriores não recuperados nesta rodada.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -1073,8 +1270,51 @@
     {
       "ano": 2022,
       "candidaturaId": "240001611127",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-240001611127-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "justica_eleitoral",
+            "orgao": "Tribunal Regional Eleitoral de Santa Catarina",
+            "url": "https://www.tre-sc.jus.br/"
+          },
+          "abrangencia": "SC",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Releitura da notícia oficial já citada e do link de consulta dos autos nela indicado; referência no relatório documental de 11/11/2026.",
+          "limitacoes": "Notícia não confirma o andamento atual ou o esgotamento de recursos.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        },
+        {
+          "id": "consulta-20261111-240001611127-2",
+          "sequencia": 2,
+          "fonte": {
+            "grupo": "justica_eleitoral",
+            "orgao": "Consulta pública unificada do PJe eleitoral",
+            "url": "https://consultaunificadapje.tse.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Verificação técnica do acesso à consulta indicada pelo portal regional.",
+          "limitacoes": "HTML e pacote de compatibilidade ES5 recebidos; o script ES2015 retornou HTTP 503. Não houve sessão interativa concluída nem recuperação verificável dos andamentos ou consulta nominal completa.",
+          "resultado": "acesso_indisponivel",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -1149,8 +1389,30 @@
     {
       "ano": 2022,
       "candidaturaId": "100001603114",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-100001603114-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo das fontes oficiais e dos andamentos públicos vinculados às ocorrências já publicadas; referências, datas e hashes no relatório documental de 11/11/2026.",
+          "limitacoes": "Conferência pontual, sem pesquisa nominal ampla ou conclusão de cobertura. Resposta vazia de aba de recursos não foi interpretada como ausência de recurso.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -1409,8 +1671,72 @@
     {
       "ano": 2022,
       "candidaturaId": "250001611324",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-250001611324-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo das notícias oficiais já citadas e da identificação pública do procedimento; manifestações da defesa conferidas nas fontes publicadas, conforme relatório de 11/11/2026.",
+          "limitacoes": "Os atos divulgados não certificam o andamento integral; pesquisa limitada ao material publicamente disponível.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        },
+        {
+          "id": "consulta-20261111-250001611324-2",
+          "sequencia": 2,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Tentativa de verificar a disponibilidade pública do andamento integral do procedimento já publicado.",
+          "limitacoes": "A identificação pública indica sigilo; não foram tentados meios de contornar restrições nem se afirma inexistência de ato posterior.",
+          "resultado": "acesso_indisponivel",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        },
+        {
+          "id": "consulta-20261111-250001611324-3",
+          "sequencia": 3,
+          "fonte": {
+            "grupo": "policia_federal",
+            "orgao": "Polícia Federal",
+            "url": "https://www.gov.br/pf/pt-br"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Releitura da nota oficial da operação já citada, com distinção entre suspeitas investigadas e condenação.",
+          "limitacoes": "A nota da operação não é certidão de andamento posterior nem confirmação de culpa.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
@@ -1797,8 +2123,51 @@
     {
       "ano": 2022,
       "candidaturaId": "190001596769",
-      "estado": "pendente_documentacao",
-      "consultas": [],
+      "estado": "triagem_inicial",
+      "consultas": [
+        {
+          "id": "consulta-20261111-190001596769-1",
+          "sequencia": 1,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Cotejo das notícias oficiais já citadas e da identificação pública do procedimento; manifestações da defesa conferidas nas fontes publicadas, conforme relatório de 11/11/2026.",
+          "limitacoes": "Os atos divulgados não certificam o andamento integral; pesquisa limitada ao material publicamente disponível.",
+          "resultado": "realizada",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        },
+        {
+          "id": "consulta-20261111-190001596769-2",
+          "sequencia": 2,
+          "fonte": {
+            "grupo": "stf",
+            "orgao": "Supremo Tribunal Federal",
+            "url": "https://portal.stf.jus.br/"
+          },
+          "abrangencia": "BR",
+          "dataConsulta": "2026-11-11",
+          "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+          "escopo": "Tentativa de verificar a disponibilidade pública do andamento integral do procedimento já publicado.",
+          "limitacoes": "A identificação pública indica sigilo; não foram tentados meios de contornar restrições nem se afirma inexistência de ato posterior.",
+          "resultado": "acesso_indisponivel",
+          "proximaRevisao": "2026-11-18",
+          "revisao": {
+            "responsavel": "Codex — conferência documental assistida, proposta ao mantenedor via PR",
+            "data": "2026-11-11",
+            "liberacaoPublica": true
+          }
+        }
+      ],
       "revisoes": [],
       "legado": {
         "estado": "em_revisao",
