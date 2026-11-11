@@ -47,16 +47,18 @@ Diferenças por tipo:
 
 Um **mesmo caso** pode resultar em investigação, recebimento de denúncia, condenação por um delito e absolvição por outro. Registrar essas decisões separadamente, dentro do mesmo `idCaso`, para não converter absolvições em acusações vigentes ou somar múltiplas notícias como múltiplos casos.
 
-## Cobertura dos eleitos em 2022
+## Cobertura documental em 2022 e 2026
 
-O arquivo `public/data/cobertura-pesquisa-2022.json` acompanha os 234 titulares do PL em quatro estados de trabalho: `nao_iniciado`, `triagem_inicial`, `em_revisao`, `revisao_concluida`.
+O controle atual é `public/data/cobertura-pesquisa.json`, conforme o [protocolo rastreável](cobertura-documental.md). Distingue não iniciado, pendência de documentação, triagem, revisão em andamento e revisão concluída no escopo declarado. Cada consulta real exige fonte, abrangência, data, responsável, limitações, próxima revisão e aprovação de seus metadados públicos.
 
-**Triagem inicial NÃO significa pesquisa completa**; revisão concluída deve carregar data. Nunca exibir `nao_iniciado` como ausência de processos nem ausência de ocorrências publicadas como "ficha limpa".
+`public/data/cobertura-pesquisa-2022.json` permanece como legado imutável. Suas antigas datas de atualização não são datas de consulta de fontes. A migração administrativa não conclui pesquisas, não cria consultas e não reaprova ocorrências.
+
+**Triagem inicial NÃO significa pesquisa completa**; ausência de ocorrência publicada não significa ausência de processos nem "ficha limpa". Pesquisa concluída também é limitada ao escopo e à data, com prazo de reavaliação.
 
 ## Verificação automatizada
 
 - `npm run validate:data`: integridade do cadastro eleitoral.
-- `npm run validate:coverage`: consistência dos estágios e 234 identificadores TSE.
+- `npm run validate:coverage`: consistência dos dois recortes, consultas, revisões e diagnóstico de pendências; `--anterior` protege o histórico publicado.
 - `npm run validate:ocorrencias`: requisitos estruturais, status editorial, fontes e distinção investigação/reportagem.
 - `npm test`: testes de regressão, incluindo rejeição de registros pendentes, sem aprovação, sem identidade confirmada ou sem conferência de atualização.
 

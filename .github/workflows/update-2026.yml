@@ -21,18 +21,22 @@ jobs:
         with:
           python-version: '3.12'
       - name: Preservar base anterior
-        run: cp public/data/eleitos-2026.json "$RUNNER_TEMP/eleitos-2026-anterior.json"
+        run: |
+          cp public/data/eleitos-2026.json "$RUNNER_TEMP/eleitos-2026-anterior.json"
+          cp public/data/cobertura-pesquisa.json "$RUNNER_TEMP/cobertura-anterior.json"
       - name: Instalar dependências
         run: npm install --package-lock=false
       - name: Testar importação e aplicação
         run: npm test
       - name: Importar os dois turnos oficiais
         run: npm run import:2026
+      - name: Reconciliar cobertura sem apagar pesquisa
+        run: npm run sync:coverage
       - name: Validar dados e aplicação
         run: |
           npm run validate:data
           npm run validate:ocorrencias
-          npm run validate:coverage
+          npm run validate:coverage -- --anterior "$RUNNER_TEMP/cobertura-anterior.json"
           npm run validate:2026
           node scripts/reconcile-elections.mjs
           npm run build
@@ -44,7 +48,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if git diff --quiet -- public/data/eleitos-2026.json public/data/vinculos-eleitorais-pendentes.json; then
+          if git diff --quiet -- public/data/eleitos-2026.json public/data/vinculos-eleitorais-pendentes.json public/data/cobertura-pesquisa.json; then
             echo 'Nenhuma alteração eleitoral; nenhum PR necessário.'
             exit 0
           fi
@@ -52,7 +56,7 @@ jobs:
           git switch -c "$branch"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add public/data/eleitos-2026.json public/data/vinculos-eleitorais-pendentes.json docs/auditorias/ultima-atualizacao-2026.json
+          git add public/data/eleitos-2026.json public/data/vinculos-eleitorais-pendentes.json public/data/cobertura-pesquisa.json docs/auditorias/ultima-atualizacao-2026.json
           git commit -m 'data: propor atualização dos resultados TSE 2026'
           git push origin "HEAD:refs/heads/$branch"
           gh pr create --base main --head "$branch" --title 'data: atualizar resultados TSE 2026' --body-file docs/modelo-pr-atualizacao-eleitoral.md
@@ -64,4 +68,5 @@ jobs:
           path: |
             public/data/eleitos-2026.json
             public/data/vinculos-eleitorais-pendentes.json
+            public/data/cobertura-pesquisa.json
             docs/auditorias/ultima-atualizacao-2026.json

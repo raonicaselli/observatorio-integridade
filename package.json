@@ -12,6 +12,7 @@
     "validate:casos-v2": "node scripts/validate-casos-v2.mjs",
     "validate:exemplo-v2": "node scripts/validate-casos-v2.mjs --arquivo docs/exemplos/casos-v2-ficticios.json --exemplo",
     "validate:ocorrencias": "node scripts/validate-ocorrencias.mjs",
+    "sync:coverage": "node scripts/sync-coverage.mjs",
     "validate:coverage": "node scripts/validate-coverage.mjs",
     "import:2026": "node scripts/import-2026.mjs",
     "validate:2026": "node scripts/validate-2026.mjs"

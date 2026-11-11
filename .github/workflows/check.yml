@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -17,6 +19,15 @@ jobs:
       - run: npm run validate:exemplo-v2
       - run: npm run validate:data
       - run: npm run validate:ocorrencias
-      - run: npm run validate:coverage
+      - name: Verificar cobertura e preservar histórico
+        run: |
+          git rev-parse --verify HEAD^ >/dev/null
+          baseline_path="$(git ls-tree --name-only HEAD^ -- public/data/cobertura-pesquisa.json)"
+          if [ -n "$baseline_path" ]; then
+            git show HEAD^:public/data/cobertura-pesquisa.json > "$RUNNER_TEMP/cobertura-anterior.json"
+            npm run validate:coverage -- --anterior "$RUNNER_TEMP/cobertura-anterior.json"
+          else
+            npm run validate:coverage
+          fi
       - run: npm run validate:2026
       - run: npm run build
