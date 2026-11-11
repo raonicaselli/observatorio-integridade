@@ -73,3 +73,7 @@ Estados como `rascunho`, `em_verificacao`, `revisao_final` e `corrigir_ou_retira
 Filtrar registros na interface não protege um JSON público, o artefato estático, um PR ou o histórico Git. Não enviar registros pendentes para nenhum desses locais. O CI e o workflow de deploy executam `validate:ocorrencias`, que falha se encontrar um registro não publicado ou aprovação incompleta. Para validar localmente, execute `npm test` e `npm run validate:ocorrencias` antes de propor alterações.
 
 O validador confere declarações e estrutura; ele não concede aprovação nem comprova que a revisão ocorreu. A revisão humana deve ser real e rastreável. Os testes usam exemplos inteiramente fictícios, sem importar pesquisas ou acusações pendentes sobre pessoas reais. Esta regra impede novas inclusões pendentes no fluxo validado, mas não remove automaticamente conteúdo de commits históricos.
+
+## Evolução do contrato
+
+O [contrato de casos e eventos v2](contrato-casos-v2.md) e seus exemplos fictícios são validados separadamente. A base pública atual continua na versão 1. Não converter registros automaticamente nem preencher datas de consulta, vínculos pessoais ou resultados por inferência.
