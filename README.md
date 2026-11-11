@@ -55,6 +55,10 @@ O planejamento para ocorrências documentadas está em [docs/modelo-ocorrencias.
 
 Toda nova publicação depende de identificação confirmada da pessoa, fonte verificável, contexto da filiação, estágio processual atualizado, informações sobre desfecho e revisão editorial humana.
 
+## Última rodada documental
+
+Em 11/11/2026, foram cotejadas as fontes dos 13 registros, com correções e limites explícitos no [relatório da rodada](docs/auditorias/revalidacao-juridica-2026-11-11.md). O controle registra 12 triagens pontuais, sem pesquisa concluída; não é certificação atualizada de todos os autos.
+
 ## Próxima estrutura documental
 
 O [contrato v2 de casos e eventos](docs/contrato-casos-v2.md) define participantes, imputações, decisões, recursos, fontes e retificações. Execute `npm run validate:exemplo-v2` para conferir o exemplo fictício. Ele não é publicado no site; a base jurídica real continua em v1 até uma migração revisada.
