@@ -1,0 +1,578 @@
+{
+  "metadados": {
+    "versao": 2,
+    "finalidade": "exemplo_ficticio",
+    "atualizadoEm": "2026-06-10",
+    "escopo": "Exemplo inteiramente fictício; não publicar como pesquisa.",
+    "limites": "Pessoas, identidades, revisão e fontes oficiais são simuladas; example.org não é fonte judicial."
+  },
+  "pessoas": [
+    {
+      "id": "pessoa-ficticia-ana",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "nome": "Pessoa fictícia ana",
+      "identidade": {
+        "estado": "confirmada",
+        "metodo": "Confirmação simulada exclusivamente para teste.",
+        "fontesIds": [
+          "fonte-identidade"
+        ]
+      }
+    },
+    {
+      "id": "pessoa-ficticia-bia",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "nome": "Pessoa fictícia bia",
+      "identidade": {
+        "estado": "confirmada",
+        "metodo": "Confirmação simulada exclusivamente para teste.",
+        "fontesIds": [
+          "fonte-identidade"
+        ]
+      }
+    }
+  ],
+  "candidaturas": [
+    {
+      "id": "candidatura-ficticia-ana",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "tseId": "00000000001",
+      "ano": 2022,
+      "pessoaId": "pessoa-ficticia-ana",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "partido": "PL",
+      "fontesIds": [
+        "fonte-identidade"
+      ]
+    },
+    {
+      "id": "candidatura-ficticia-bia",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "tseId": "00000000002",
+      "ano": 2022,
+      "pessoaId": "pessoa-ficticia-bia",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "partido": "PL",
+      "fontesIds": [
+        "fonte-identidade"
+      ]
+    }
+  ],
+  "casos": [
+    {
+      "id": "caso-ficticio",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "titulo": "Caso inteiramente fictício",
+      "resumo": "Exemplo de resultados distintos por participante e imputação.",
+      "categoria": "penal",
+      "periodoFatos": {
+        "inicio": null,
+        "fim": null,
+        "descricao": "Período dos fatos não apurado neste exemplo fictício."
+      },
+      "limites": "Este caso não corresponde a pessoas nem a autos reais."
+    }
+  ],
+  "processos": [
+    {
+      "id": "processo-primeiro",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "casoId": "caso-ficticio",
+      "orgao": "Tribunal inteiramente fictício",
+      "classe": "Ação fictícia",
+      "numero": "0000001-00.2026.0.00.0000",
+      "motivoNumeroIndisponivel": null,
+      "instancia": "Primeira instância",
+      "processoOrigemId": null,
+      "fontesIds": [
+        "fonte-sentenca"
+      ]
+    },
+    {
+      "id": "processo-recurso",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "casoId": "caso-ficticio",
+      "orgao": "Tribunal inteiramente fictício",
+      "classe": "Ação fictícia",
+      "numero": "0000002-00.2026.0.00.0000",
+      "motivoNumeroIndisponivel": null,
+      "instancia": "Segunda instância",
+      "processoOrigemId": "processo-primeiro",
+      "fontesIds": [
+        "fonte-sentenca"
+      ]
+    }
+  ],
+  "participacoes": [
+    {
+      "id": "participacao-ana",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "casoId": "caso-ficticio",
+      "pessoaId": "pessoa-ficticia-ana",
+      "descricaoVinculo": "Participação documentada apenas no cenário de teste.",
+      "partidoNosFatos": null,
+      "motivoPartidoDesconhecido": "Filiação nos fatos não apurada no cenário fictício.",
+      "imputacoes": [
+        {
+          "id": "imputacao-alfa",
+          "descricao": "Imputação alfa, inteiramente fictícia."
+        },
+        {
+          "id": "imputacao-beta",
+          "descricao": "Imputação beta, inteiramente fictícia."
+        }
+      ],
+      "fontesIds": [
+        "fonte-sentenca"
+      ]
+    },
+    {
+      "id": "participacao-bia",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "casoId": "caso-ficticio",
+      "pessoaId": "pessoa-ficticia-bia",
+      "descricaoVinculo": "Participação documentada apenas no cenário de teste.",
+      "partidoNosFatos": null,
+      "motivoPartidoDesconhecido": "Filiação nos fatos não apurada no cenário fictício.",
+      "imputacoes": [
+        {
+          "id": "imputacao-alfa",
+          "descricao": "Imputação alfa, inteiramente fictícia."
+        }
+      ],
+      "fontesIds": [
+        "fonte-sentenca"
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "id": "fonte-identidade",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "url": "https://example.org/fonte-identidade",
+      "titulo": "Identidade eleitoral fictícia",
+      "instituicao": "Instituição fictícia",
+      "tipo": "oficial",
+      "dataPublicacao": "2026-01-15",
+      "dataConsulta": "2026-06-01",
+      "localizador": "Exemplo inventado, sem valor documental real.",
+      "sha256": null
+    },
+    {
+      "id": "fonte-sentenca",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "url": "https://example.org/fonte-sentenca",
+      "titulo": "Documento processual fictício",
+      "instituicao": "Instituição fictícia",
+      "tipo": "oficial",
+      "dataPublicacao": "2026-03-01",
+      "dataConsulta": "2026-06-01",
+      "localizador": "Exemplo inventado, sem valor documental real.",
+      "sha256": null
+    },
+    {
+      "id": "fonte-acordao",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "url": "https://example.org/fonte-acordao",
+      "titulo": "Acórdão inteiramente fictício",
+      "instituicao": "Instituição fictícia",
+      "tipo": "oficial",
+      "dataPublicacao": "2026-05-01",
+      "dataConsulta": "2026-06-01",
+      "localizador": "Exemplo inventado, sem valor documental real.",
+      "sha256": null
+    }
+  ],
+  "eventos": [
+    {
+      "id": "evento-condenacao",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "atoId": "ato-sentenca",
+      "casoId": "caso-ficticio",
+      "processoId": "processo-primeiro",
+      "participacaoId": "participacao-ana",
+      "imputacaoId": "imputacao-alfa",
+      "tipo": "condenacao",
+      "data": "2026-03-01",
+      "ordemNoDia": 1,
+      "descricao": "Ato inteiramente fictício: condenacao. Não corresponde a procedimento real.",
+      "fontesIds": [
+        "fonte-sentenca"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "Argumento de defesa fictício preservado, sem alegação sobre pessoa real.",
+        "fontesIds": [
+          "fonte-sentenca"
+        ]
+      },
+      "recurso": {
+        "situacao": "nao_verificado",
+        "descricao": "Sem informação suficiente para afirmar inexistência de recurso.",
+        "fontesIds": []
+      },
+      "transitoEmJulgado": {
+        "situacao": "nao_verificado",
+        "data": null,
+        "fontesIds": []
+      },
+      "relacao": null,
+      "limites": "Exemplo de teste: não permite conclusões sobre pessoas reais.",
+      "verificacaoAtualizacao": true
+    },
+    {
+      "id": "evento-absolvicao-parcial",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "atoId": "ato-sentenca",
+      "casoId": "caso-ficticio",
+      "processoId": "processo-primeiro",
+      "participacaoId": "participacao-ana",
+      "imputacaoId": "imputacao-beta",
+      "tipo": "absolvicao",
+      "data": "2026-03-01",
+      "ordemNoDia": 2,
+      "descricao": "Ato inteiramente fictício: absolvicao. Não corresponde a procedimento real.",
+      "fontesIds": [
+        "fonte-sentenca"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "Argumento de defesa fictício preservado, sem alegação sobre pessoa real.",
+        "fontesIds": [
+          "fonte-sentenca"
+        ]
+      },
+      "recurso": {
+        "situacao": "nao_verificado",
+        "descricao": "Sem informação suficiente para afirmar inexistência de recurso.",
+        "fontesIds": []
+      },
+      "transitoEmJulgado": {
+        "situacao": "nao_verificado",
+        "data": null,
+        "fontesIds": []
+      },
+      "relacao": null,
+      "limites": "Exemplo de teste: não permite conclusões sobre pessoas reais.",
+      "verificacaoAtualizacao": true
+    },
+    {
+      "id": "evento-arquivamento",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "atoId": "ato-evento-arquivamento",
+      "casoId": "caso-ficticio",
+      "processoId": "processo-primeiro",
+      "participacaoId": "participacao-bia",
+      "imputacaoId": "imputacao-alfa",
+      "tipo": "arquivamento",
+      "data": "2026-03-05",
+      "ordemNoDia": 1,
+      "descricao": "Ato inteiramente fictício: arquivamento. Não corresponde a procedimento real.",
+      "fontesIds": [
+        "fonte-sentenca"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "Argumento de defesa fictício preservado, sem alegação sobre pessoa real.",
+        "fontesIds": [
+          "fonte-sentenca"
+        ]
+      },
+      "recurso": {
+        "situacao": "nao_verificado",
+        "descricao": "Sem informação suficiente para afirmar inexistência de recurso.",
+        "fontesIds": []
+      },
+      "transitoEmJulgado": {
+        "situacao": "nao_verificado",
+        "data": null,
+        "fontesIds": []
+      },
+      "relacao": null,
+      "limites": "Exemplo de teste: não permite conclusões sobre pessoas reais.",
+      "verificacaoAtualizacao": true
+    },
+    {
+      "id": "evento-recurso",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "atoId": "ato-evento-recurso",
+      "casoId": "caso-ficticio",
+      "processoId": "processo-primeiro",
+      "participacaoId": "participacao-ana",
+      "imputacaoId": "imputacao-alfa",
+      "tipo": "recurso_interposto",
+      "data": "2026-03-10",
+      "ordemNoDia": 1,
+      "descricao": "Ato inteiramente fictício: recurso_interposto. Não corresponde a procedimento real.",
+      "fontesIds": [
+        "fonte-sentenca"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "Argumento de defesa fictício preservado, sem alegação sobre pessoa real.",
+        "fontesIds": [
+          "fonte-sentenca"
+        ]
+      },
+      "recurso": {
+        "situacao": "pendente",
+        "descricao": "Recurso fictício pendente na data daquele ato.",
+        "fontesIds": [
+          "fonte-sentenca"
+        ]
+      },
+      "transitoEmJulgado": {
+        "situacao": "nao_verificado",
+        "data": null,
+        "fontesIds": []
+      },
+      "relacao": {
+        "tipo": "recurso_de",
+        "eventoId": "evento-condenacao",
+        "justificativa": "Relação fictícia expressamente documentada no exemplo."
+      },
+      "limites": "Exemplo de teste: não permite conclusões sobre pessoas reais.",
+      "verificacaoAtualizacao": true
+    },
+    {
+      "id": "evento-reforma",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "atoId": "ato-evento-reforma",
+      "casoId": "caso-ficticio",
+      "processoId": "processo-recurso",
+      "participacaoId": "participacao-ana",
+      "imputacaoId": "imputacao-alfa",
+      "tipo": "absolvicao",
+      "data": "2026-05-01",
+      "ordemNoDia": 1,
+      "descricao": "Ato inteiramente fictício: absolvicao. Não corresponde a procedimento real.",
+      "fontesIds": [
+        "fonte-acordao"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "Argumento de defesa fictício preservado, sem alegação sobre pessoa real.",
+        "fontesIds": [
+          "fonte-acordao"
+        ]
+      },
+      "recurso": {
+        "situacao": "nao_verificado",
+        "descricao": "Sem informação suficiente para afirmar inexistência de recurso.",
+        "fontesIds": []
+      },
+      "transitoEmJulgado": {
+        "situacao": "nao_verificado",
+        "data": null,
+        "fontesIds": []
+      },
+      "relacao": {
+        "tipo": "reforma_de",
+        "eventoId": "evento-condenacao",
+        "justificativa": "Relação fictícia expressamente documentada no exemplo."
+      },
+      "limites": "Exemplo de teste: não permite conclusões sobre pessoas reais.",
+      "verificacaoAtualizacao": true
+    },
+    {
+      "id": "evento-transito",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "atoId": "ato-evento-transito",
+      "casoId": "caso-ficticio",
+      "processoId": "processo-primeiro",
+      "participacaoId": "participacao-bia",
+      "imputacaoId": "imputacao-alfa",
+      "tipo": "transito_em_julgado",
+      "data": "2026-05-10",
+      "ordemNoDia": 1,
+      "descricao": "Ato inteiramente fictício: transito_em_julgado. Não corresponde a procedimento real.",
+      "fontesIds": [
+        "fonte-acordao"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "Argumento de defesa fictício preservado, sem alegação sobre pessoa real.",
+        "fontesIds": [
+          "fonte-acordao"
+        ]
+      },
+      "recurso": {
+        "situacao": "nao_interposto",
+        "descricao": "Ausência de recurso comprovada apenas neste exemplo fictício.",
+        "fontesIds": [
+          "fonte-acordao"
+        ]
+      },
+      "transitoEmJulgado": {
+        "situacao": "confirmado",
+        "data": "2026-05-10",
+        "fontesIds": [
+          "fonte-acordao"
+        ]
+      },
+      "relacao": {
+        "tipo": "desdobramento_de",
+        "eventoId": "evento-arquivamento",
+        "justificativa": "Relação fictícia expressamente documentada no exemplo."
+      },
+      "limites": "Exemplo de teste: não permite conclusões sobre pessoas reais.",
+      "verificacaoAtualizacao": true
+    },
+    {
+      "id": "evento-retificacao",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "justificativa": "Exemplo sintético para testes do contrato, sem pessoa ou processo real.",
+        "liberacaoPublica": true
+      },
+      "atoId": "ato-evento-retificacao",
+      "casoId": "caso-ficticio",
+      "processoId": "processo-primeiro",
+      "participacaoId": "participacao-ana",
+      "imputacaoId": "imputacao-beta",
+      "tipo": "retificacao",
+      "data": "2026-05-20",
+      "ordemNoDia": 1,
+      "descricao": "Ato inteiramente fictício: retificacao. Não corresponde a procedimento real.",
+      "fontesIds": [
+        "fonte-acordao"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "Argumento de defesa fictício preservado, sem alegação sobre pessoa real.",
+        "fontesIds": [
+          "fonte-acordao"
+        ]
+      },
+      "recurso": {
+        "situacao": "nao_verificado",
+        "descricao": "Sem informação suficiente para afirmar inexistência de recurso.",
+        "fontesIds": []
+      },
+      "transitoEmJulgado": {
+        "situacao": "nao_verificado",
+        "data": null,
+        "fontesIds": []
+      },
+      "relacao": {
+        "tipo": "retifica",
+        "eventoId": "evento-absolvicao-parcial",
+        "justificativa": "Relação fictícia expressamente documentada no exemplo."
+      },
+      "limites": "Exemplo de teste: não permite conclusões sobre pessoas reais.",
+      "verificacaoAtualizacao": true
+    }
+  ]
+}

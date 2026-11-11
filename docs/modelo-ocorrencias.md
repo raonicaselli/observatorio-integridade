@@ -1,6 +1,6 @@
 # Modelo editorial de ocorrências documentadas (rascunho metodológico)
 
-Este documento especifica uma **camada futura** do Observatório. A primeira versão publicada contém apenas resultados eleitorais.
+Este documento reúne os princípios metodológicos do Observatório. O site já apresenta ocorrências aprovadas na estrutura v1. O [contrato técnico v2](contrato-casos-v2.md) prepara casos, processos e eventos, com validação e exemplos fictícios. A migração dos registros reais e a interface de linha do tempo são etapas posteriores; não acontecem automaticamente.
 
 ## Princípios
 

@@ -55,6 +55,10 @@ O planejamento para ocorrências documentadas está em [docs/modelo-ocorrencias.
 
 Toda nova publicação depende de identificação confirmada da pessoa, fonte verificável, contexto da filiação, estágio processual atualizado, informações sobre desfecho e revisão editorial humana.
 
+## Próxima estrutura documental
+
+O [contrato v2 de casos e eventos](docs/contrato-casos-v2.md) define participantes, imputações, decisões, recursos, fontes e retificações. Execute `npm run validate:exemplo-v2` para conferir o exemplo fictício. Ele não é publicado no site; a base jurídica real continua em v1 até uma migração revisada.
+
 ## Como contribuir
 
 Use o [formulário público de correção](https://github.com/raonicaselli/observatorio-integridade/issues/new?template=correcao-de-dados.yml) para reportar divergências, sempre com fontes públicas e sem dados pessoais sensíveis. Os pedidos não são publicados automaticamente na base de dados.
