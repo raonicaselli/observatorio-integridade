@@ -16,6 +16,16 @@ jobs:
           node-version: '22'
       - run: npm install
       - run: npm test
+      - name: Validar decisões de identidade e preservar histórico
+        run: |
+          git rev-parse --verify HEAD^ >/dev/null
+          baseline_path="$(git ls-tree --name-only HEAD^ -- docs/registro-decisoes-identidade.json)"
+          if [ -n "$baseline_path" ]; then
+            git show HEAD^:docs/registro-decisoes-identidade.json > "$RUNNER_TEMP/identidades-anteriores.json"
+            npm run validate:identidades -- --anterior "$RUNNER_TEMP/identidades-anteriores.json"
+          else
+            npm run validate:identidades
+          fi
       - run: npm run validate:exemplo-v2
       - run: npm run validate:data
       - run: npm run validate:ocorrencias

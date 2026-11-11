@@ -15,7 +15,8 @@
     "sync:coverage": "node scripts/sync-coverage.mjs",
     "validate:coverage": "node scripts/validate-coverage.mjs",
     "import:2026": "node scripts/import-2026.mjs",
-    "validate:2026": "node scripts/validate-2026.mjs"
+    "validate:2026": "node scripts/validate-2026.mjs",
+    "validate:identidades": "node scripts/validate-identity-decisions.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",
