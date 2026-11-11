@@ -16,7 +16,7 @@ Protótipo de plataforma pública para consultar dados eleitorais com metodologi
 - Exportação eleitoral em CSV para 2022 e JSON para 2026.
 - 13 ocorrências jurídicas publicadas, com validação editorial automatizada, fontes e ressalvas. Isso não significa pesquisa completa nem atualização dos autos nesta entrega eleitoral.
 - Separação entre **apuração jornalística**, **pedido de apuração**, **investigação oficial** e **processo/decisão**, com critérios distintos para fontes e contraditório.
-- Controle auditável de cobertura dos 234 eleitos em `public/data/cobertura-pesquisa-2022.json`: triagem inicial não significa revisão concluída.
+- Controle rastreável de cobertura das candidaturas de 2022 e 2026 em `public/data/cobertura-pesquisa.json`, com [protocolo de pesquisa](docs/cobertura-documental.md). O registro antigo de 2022 é preservado como legado; triagem e publicação de ocorrência não significam revisão concluída.
 - Página de metodologia e [solicitação de correções](https://github.com/raonicaselli/observatorio-integridade/issues/new?template=correcao-de-dados.yml).
 
 Os dados estão em `public/data/eleitos-2022.json`, `public/data/eleitos-2022.csv` e `public/data/eleitos-2026.json`. Os registros de 2026 usam votos nominais válidos do turno em que cada candidatura foi eleita; fontes e hashes estão nos metadados.

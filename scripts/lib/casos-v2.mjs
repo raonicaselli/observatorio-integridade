@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict'
+import { assertIsoDate as date } from './iso-date.mjs'
 
 const TYPES = new Set(['pedido_apuracao', 'abertura_investigacao', 'denuncia_oferecida',
  'denuncia_recebida', 'denuncia_rejeitada', 'acao_em_andamento', 'condenacao', 'absolvicao',
@@ -17,11 +18,7 @@ function keys(object, allowed, name) {
  for (const key of Object.keys(object)) fail(allowed.includes(key), `${name}: campo não permitido ${key}`)
  for (const key of allowed) fail(Object.hasOwn(object, key), `${name}: campo obrigatório ${key}`)
 }
-function date(value, name) {
- fail(typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value), `${name}: data ISO obrigatória`)
- const parsed = new Date(value + 'T00:00:00Z')
- fail(!Number.isNaN(parsed.valueOf()) && parsed.toISOString().slice(0, 10) === value, `${name}: data inexistente`)
-}
+
 const canonical = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toUpperCase().replace(/[^A-Z0-9]/g, '')
 const order = (a, b) => a.data.localeCompare(b.data) || a.ordemNoDia - b.ordemNoDia || a.id.localeCompare(b.id)
 

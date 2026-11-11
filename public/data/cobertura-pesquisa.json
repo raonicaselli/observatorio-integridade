@@ -1,0 +1,4794 @@
+{
+  "metadados": {
+    "versao": 2,
+    "protocolo": "pesquisa-documental-v1",
+    "atualizadoEm": "2026-11-11",
+    "recortes": [
+      2022,
+      2026
+    ],
+    "total": 592,
+    "origemLegado": {
+      "arquivo": "public/data/cobertura-pesquisa-2022.json",
+      "sha256": "3a6027d0da7a4063c2bc828dc3e1f6ff059c810fa1d735501f1537510ac0a1ed"
+    }
+  },
+  "registros": [
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603152",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "110001612761",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001619693",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "80001648785",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648959",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "220001713754",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596743",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "40001612948",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001619685",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648587",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001633829",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "90001652505",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "40001633325",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "270001643578",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "50001609344",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619043",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610129",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596777",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596785",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603187",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "110001612762",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596745",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614348",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596746",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001614161",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001609080",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610161",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "200001604696",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619030",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611362",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001614151",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "10001649326",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "230001604276",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "140001601786",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "70001615922",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619045",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610121",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "150001718195",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611365",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "120001614728",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "260001712249",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596750",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610158",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619046",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614329",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614337",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596781",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001633791",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001610965",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596754",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596798",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001615753",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648963",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603167",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619031",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001610972",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "90001652507",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "70001615885",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001610968",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610113",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "80001648787",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610117",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "40001633336",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596733",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "50001609451",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610181",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001611016",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596741",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "140001598311",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648938",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614342",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "90001653796",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611374",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596794",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "270001643551",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "200001603004",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "110001620549",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001611018",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001619691",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001610990",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "30001648127",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614334",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "200001602999",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610130",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603158",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "270001643584",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "160001622024",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001609086",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "160001622028",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "270001643553",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596738",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001609087",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611321",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001610992",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "150001718239",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "110001620557",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603099",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610109",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "160001654944",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "80001615730",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648591",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596739",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610201",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596756",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611359",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619055",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "90001652508",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596786",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "140001601810",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "260001737580",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614356",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "220001713729",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596713",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "270001643585",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001614163",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "220001713749",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611329",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614350",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "70001615924",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "50001609371",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "220001643595",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "200001603000",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "150001718221",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "120001614724",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "70001615870",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "140001598308",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001619707",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001610977",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001611131",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001611127",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "10001649310",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "110001612757",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "160001654963",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611357",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "160001654969",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603111",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001610999",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "150001718233",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603114",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001610974",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "90001653797",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "50001609456",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "140001598314",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "260001712262",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001611001",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "80001648800",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610124",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596803",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "80001648792",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "20001620174",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611345",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001609070",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596802",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611333",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "90001652511",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "80001720164",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "160001654935",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001611029",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648576",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596721",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611336",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614339",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611335",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001610976",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001612472",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610193",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "120001614258",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "260001712248",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "270001643572",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603115",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611324",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001633816",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610136",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001614168",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614331",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001611021",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611371",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "140001601793",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "200001604708",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648951",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "160001622020",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001611005",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614335",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "240001614346",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "90001653821",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611327",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610126",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "170001619710",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611351",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "40001633341",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001614167",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "50001609434",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "160001654970",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611315",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610138",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "50001609349",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001738867",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610141",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "200001603001",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "120001614260",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610140",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648942",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "200001603037",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001612455",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "70001615877",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001611311",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001611025",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "110001612764",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001611024",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596759",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619065",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596716",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596718",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619041",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001633828",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "220001643593",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "100001603166",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596770",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596769",
+      "estado": "pendente_documentacao",
+      "consultas": [],
+      "revisoes": [],
+      "legado": {
+        "estado": "em_revisao",
+        "atualizadoEm": "2026-10-21",
+        "verificadoIntegralmenteEm": null
+      }
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "200001604694",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "70001615869",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596760",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610134",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "210001648581",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "190001596761",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "250001610167",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "30001648512",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "50001609449",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "150001718216",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "130001619068",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "110001676176",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "80001648804",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "90001652051",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2022,
+      "candidaturaId": "60001614155",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "170002539230",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002534419",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535664",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535710",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002537562",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533704",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "170002539474",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002534656",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "40002542968",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "110002539005",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "270002544478",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002532900",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537271",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542081",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "30002538135",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536367",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "40002540480",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533688",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002537559",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "40002540481",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535691",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532810",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537280",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533418",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542080",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002543800",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539977",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "170002539181",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542079",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533433",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002536979",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002541308",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536068",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002533888",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "170002539476",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002550001",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "230002534804",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542060",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "10002545646",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "230002533367",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "230002549223",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002552934",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539973",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542113",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002539995",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536419",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002534421",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539983",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536066",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002541998",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535683",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533674",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "270002546333",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002535142",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542072",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539368",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539964",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002541935",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002542888",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002536977",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002541931",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542071",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532834",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002535081",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537299",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535671",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542048",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535698",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542043",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547608",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535670",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539376",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533421",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "230002534800",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539382",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536358",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532827",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "80002549411",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536429",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "80002549410",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536060",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "40002542971",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542068",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547646",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002535102",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532816",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002534899",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002551786",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532817",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002542887",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "230002533378",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535704",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "10002544296",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539970",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542082",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002543783",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532819",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535975",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002533875",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547636",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542017",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542007",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "80002549412",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002533877",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536380",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537272",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542011",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002542616",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536415",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "110002539237",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533687",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536413",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547568",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536387",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "260002550765",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002539996",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547660",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "270002544470",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532809",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547597",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533425",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002542833",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "10002545649",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536377",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542036",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002542618",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "150002541192",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533422",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "150002538453",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542008",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536054",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "150002538457",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "110002539234",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535936",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547569",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002534897",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536388",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533429",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "10002545660",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536366",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542019",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539972",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533706",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542047",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002543556",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002534423",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002546711",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542000",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002535104",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542004",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536375",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002542851",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547611",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002550316",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533424",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539371",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002535120",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002536967",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002537554",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535955",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539971",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547605",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002534664",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002550322",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002550000",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002536880",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002550019",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002546710",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "110002538410",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532823",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533686",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002537073",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "110002552693",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535954",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547650",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "230002533356",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002542827",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542031",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537291",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547624",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536055",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537287",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002532899",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "150002541172",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "150002541190",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536356",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532835",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539378",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539969",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002549286",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533709",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002534427",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542003",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002549262",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539991",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002546709",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "20002550946",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536404",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542015",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002543807",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "80002549698",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536410",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535995",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "80002554483",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002537549",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "260002550754",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002547857",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "80002549430",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002536882",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "20002550917",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002537555",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002534425",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536069",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535968",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002533885",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535940",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542022",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535958",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002542624",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "150002541204",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532804",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536286",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533699",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533710",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542066",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542016",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002534671",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002534898",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "230002533380",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536072",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533420",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535980",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "10002548050",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539963",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535951",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002543795",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002535085",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539384",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539981",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536406",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002541939",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536282",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542044",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "270002544482",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537278",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536384",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535959",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002549285",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542062",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542054",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536395",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002536984",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547616",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002534654",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539976",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535669",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547640",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002549269",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002542831",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002552936",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535948",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "270002544480",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536344",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535685",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002549265",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535706",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547565",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533707",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542026",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "150002541194",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536067",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537267",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539988",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002534668",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535991",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547632",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536393",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536056",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535982",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547629",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002535103",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542093",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533711",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "40002542965",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542107",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532820",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "10002545655",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002532883",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "230002533376",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002535764",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002535769",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002549255",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535947",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547614",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547593",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536389",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539377",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002532910",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542096",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536407",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "120002536281",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536352",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533703",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536361",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542039",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536405",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002550009",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535972",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542027",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547585",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "110002538411",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "110002539240",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "50002535119",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535965",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002540833",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002533695",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542110",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002542832",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002536886",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539987",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537286",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532807",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532795",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537259",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002537560",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "60002542842",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "160002547648",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "140002549266",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "80002549424",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002550319",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535986",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "110002538413",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002535140",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542034",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "170002539162",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536423",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002536353",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002547816",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542094",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539990",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "100002537283",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "210002535703",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "70002550004",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "270002544484",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542021",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "30002538084",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002542626",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "80002549425",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542058",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "150002541191",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "130002542109",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "90002543799",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "250002535994",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "240002539960",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "270002544481",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "220002537557",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "190002532805",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    },
+    {
+      "ano": 2026,
+      "candidaturaId": "200002533880",
+      "estado": "nao_iniciado",
+      "consultas": [],
+      "revisoes": [],
+      "legado": null
+    }
+  ]
+}
