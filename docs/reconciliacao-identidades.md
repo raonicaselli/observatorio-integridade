@@ -69,9 +69,61 @@ nome, UF ou cargo. Deve registrar fonte, data, método, justificativa e autoria 
 decisão. Divergências e insuficiências precisam permanecer explícitas; não devem
 ser convertidas em confirmação por semelhança nominal.
 
-A próxima entrega deve definir um registro validado de decisões humanas,
-separado das evidências automáticas, com estados confirmado, divergente e
-inconclusivo, preservação de decisões anteriores e testes contra associação
-indevida. Somente vínculos confirmados poderão fundamentar uma pessoa estável
-e navegação entre eleições. A associação dessa pessoa a processos ainda exige
-identificação documental própria. A issue #15 permanece aberta.
+O registro validado descrito abaixo separa decisões humanas das evidências
+automáticas, preserva decisões anteriores e bloqueia associações incompatíveis.
+Somente vínculos confirmados poderão fundamentar uma pessoa estável e navegação
+entre eleições. A associação dessa pessoa a processos ainda exige identificação
+documental própria. A issue #15 permanece aberta.
+
+## Registro de decisões humanas (versão 1)
+
+O arquivo [registro-decisoes-identidade.json](registro-decisoes-identidade.json)
+começa vazio. As 144 coincidências continuam pendentes. O registro fica fora de
+`public/` e não é consumido pela aplicação. A inclusão de uma decisão exige
+revisão documental humana e PR revisável; o comando não cria decisões.
+
+Cada entrada deve conter exatamente:
+
+| Campo | Regra |
+| --- | --- |
+| `id` | Identificador único da decisão, 3–80 caracteres minúsculos, números ou hífens; começa por letra ou número. |
+| `candidaturaId2022`, `candidaturaId2026` | Strings correspondentes a um par no snapshot de evidências. |
+| `estado` | `confirmado`, `divergente` ou `inconclusivo`. |
+| `data` | Dia real ISO, a partir da conferência das evidências e até a data da validação. |
+| `revisor` | Identificação pública do responsável, como seu usuário GitHub; nunca credenciais ou dados pessoais desnecessários. |
+| `metodo`, `justificativa` | Descrição da conferência efetivamente realizada e da decisão, sem copiar identificadores fiscais. |
+| `fontes` | URLs oficiais do snapshot consultadas; confirmação exige as fontes dos dois anos. |
+| `evidenciaSha256` | SHA-256 dos bytes completos do relatório de evidências utilizado. |
+| `substitui` | `null` na primeira decisão do par; depois, ID da última decisão desse mesmo par. |
+
+O validador está vinculado ao snapshot de 11/11/2026. Não altere esse snapshot
+para acomodar novas fontes: uma futura evolução do contrato deverá suportar
+outras versões sem invalidar o histórico existente. O hash pode ser consultado
+com `sha256sum docs/auditorias/evidencias-identidade-2026-11-11.json`.
+
+```sh
+npm run validate:identidades
+npm run validate:identidades -- --arquivo /caminho/registro-proposto.json \
+  --anterior /caminho/registro-anterior.json --data 2026-11-11
+```
+
+Uma correção acrescenta uma nova decisão, preservando todas as anteriores e sua
+ordem. Vale o último estado de cada par; corrigir para `inconclusivo` ou
+`divergente` retira a confirmação anterior. Duas confirmações ativas não podem
+compartilhar uma candidatura de nenhum dos anos. O CI e o deploy comparam o
+registro com o commit anterior e recusam remoções, edições ou reordenação do
+histórico. Mudanças nos argumentos do comando e nos validadores também exigem
+revisão de código.
+
+A validação estrutural não prova quem revisou os documentos nem sua veracidade.
+Uma coincidência automática é requisito para confirmação neste contrato, mas
+não substitui a decisão humana. Diferenças públicas sinalizadas no relatório
+precisam ser examinadas e explicadas na justificativa. Não inclua CPFs, hashes
+individuais, cópias dos ZIPs ou pesquisa jurídica não aprovada no registro.
+
+Critérios desta etapa: estados distintos, fontes e autoria obrigatórias,
+rastreabilidade para o snapshot, correções sem perda de histórico, bloqueio de
+associações incompatíveis e testes automatizados. Permanecem para etapas
+posteriores a revisão efetiva dos pares, a definição de pessoas estáveis e a
+navegação entre eleições. Nenhuma associação a processos é autorizada por esse
+registro isoladamente.
