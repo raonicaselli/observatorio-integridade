@@ -1,0 +1,2198 @@
+{
+  "metadados": {
+    "versao": 1,
+    "dataConferencia": "2026-11-11",
+    "metodo": "Comparação local de NR_CPF_CANDIDATO válido e unívoco, associado ao SQ_CANDIDATO nos CSVs nacionais oficiais. Não é confirmação editorial.",
+    "privacidade": "Sem valores de identificadores fiscais, hashes individuais, datas de nascimento ou dados de contato no relatório.",
+    "limites": "Erros cadastrais e homônimos exigem revisão humana. Nenhum vínculo pessoal ou histórico jurídico é confirmado ou transferido por este comando.",
+    "fontesOficiais": [
+      {
+        "ano": 2022,
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+        "sha256Zip": "f5a7ab2708698a77f9cbc0559dfb12523e71677fcd49efc8d63f80eb6f5e1ea5",
+        "arquivoCsv": "consulta_cand_2022_BRASIL.csv",
+        "sha256BaseEleitoral": "0b37334415d862592c10ae6d5c9ff43c0caadf8af0fe92c9105ff3320312c218"
+      },
+      {
+        "ano": 2026,
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+        "sha256Zip": "63dace50a1e0faebb63bb76a4de138ae9a49b956fbf5e6e1eddeb3053e5f1c85",
+        "arquivoCsv": "consulta_cand_2026_BRASIL.csv",
+        "sha256BaseEleitoral": "aafa2adcafe94d7fc08775b9465dc415860d137b5856f53c4f6ccb1ba71ca2f5"
+      }
+    ],
+    "bases": {
+      "2022": 234,
+      "2026": 358
+    },
+    "sugestoesOriginais": 142,
+    "paresAdicionais": 2,
+    "totalPares": 144,
+    "resultados": {
+      "coincidencia_documental": 144
+    },
+    "sha256SugestoesOriginais": "0567a474800515fc85083d70030634f5fe2811452893a56563b2e9a9b6336ee9"
+  },
+  "pares": [
+    {
+      "candidaturaId2022": "100001603115",
+      "candidaturaId2026": "100002537278",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "100001603158",
+      "candidaturaId2026": "100002537272",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "100001603166",
+      "candidaturaId2026": "100002537286",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "100001603167",
+      "candidaturaId2026": "100002537299",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "100001603187",
+      "candidaturaId2026": "100002537280",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "10001649326",
+      "candidaturaId2026": "10002545646",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "110001612757",
+      "candidaturaId2026": "110002552693",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "110001612764",
+      "candidaturaId2026": "110002538411",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "110001620557",
+      "candidaturaId2026": "110002539234",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "120001614258",
+      "candidaturaId2026": "120002536282",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "120001614260",
+      "candidaturaId2026": "120002536281",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "120001614728",
+      "candidaturaId2026": "120002536066",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001610990",
+      "candidaturaId2026": "130002542007",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001610992",
+      "candidaturaId2026": "130002542008",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001610999",
+      "candidaturaId2026": "130002542031",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001611001",
+      "candidaturaId2026": "130002542015",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001611005",
+      "candidaturaId2026": "130002542026",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001611016",
+      "candidaturaId2026": "130002551786",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001611018",
+      "candidaturaId2026": "130002542017",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001611025",
+      "candidaturaId2026": "130002542027",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001611029",
+      "candidaturaId2026": "130002542016",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001619030",
+      "candidaturaId2026": "130002542060",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001619031",
+      "candidaturaId2026": "130002542043",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001619041",
+      "candidaturaId2026": "130002542110",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001619043",
+      "candidaturaId2026": "130002542081",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001619045",
+      "candidaturaId2026": "130002542113",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001619046",
+      "candidaturaId2026": "130002542072",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001619055",
+      "candidaturaId2026": "130002542047",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "130001619068",
+      "candidaturaId2026": "130002542109",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "140001598308",
+      "candidaturaId2026": "140002546710",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "140001598314",
+      "candidaturaId2026": "140002546709",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "140001601793",
+      "candidaturaId2026": "140002549265",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "140001601810",
+      "candidaturaId2026": "140002546711",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "150001718216",
+      "candidaturaId2026": "150002541191",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "150001718221",
+      "candidaturaId2026": "150002541190",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "150001718239",
+      "candidaturaId2026": "150002538457",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "160001622020",
+      "candidaturaId2026": "160002547565",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "160001622028",
+      "candidaturaId2026": "160002547660",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "160001654963",
+      "candidaturaId2026": "160002547624",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "160001654969",
+      "candidaturaId2026": "160002547650",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "160001654970",
+      "candidaturaId2026": "160002547593",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "170001609080",
+      "candidaturaId2026": "170002539476",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "170001619685",
+      "candidaturaId2026": "170002539474",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "170001619693",
+      "candidaturaId2026": "170002539230",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596713",
+      "candidaturaId2026": "190002533424",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596718",
+      "candidaturaId2026": "190002533695",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596721",
+      "candidaturaId2026": "190002533420",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596738",
+      "candidaturaId2026": "190002532809",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596739",
+      "candidaturaId2026": "190002533429",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596741",
+      "candidaturaId2026": "190002542887",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596743",
+      "candidaturaId2026": "190002533704",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596745",
+      "candidaturaId2026": "190002533418",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596746",
+      "candidaturaId2026": "190002533433",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596750",
+      "candidaturaId2026": "190002533674",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596756",
+      "candidaturaId2026": "190002533706",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596760",
+      "candidaturaId2026": "190002535140",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596769",
+      "candidaturaId2026": "190002532795",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596770",
+      "candidaturaId2026": "190002532807",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596781",
+      "candidaturaId2026": "190002542888",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596785",
+      "candidaturaId2026": "190002532810",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596794",
+      "candidaturaId2026": "190002532819",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "190001596798",
+      "candidaturaId2026": "190002532834",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "200001602999",
+      "candidaturaId2026": "200002533877",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "200001603004",
+      "candidaturaId2026": "200002533875",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "200001604696",
+      "candidaturaId2026": "200002533888",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "20001620174",
+      "candidaturaId2026": "20002550917",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "210001648576",
+      "candidaturaId2026": "210002534671",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "210001648581",
+      "candidaturaId2026": "210002547816",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "210001648587",
+      "candidaturaId2026": "210002534656",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "210001648591",
+      "candidaturaId2026": "210002534897",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "210001648938",
+      "candidaturaId2026": "210002535704",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "210001648951",
+      "candidaturaId2026": "210002535706",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "210001648959",
+      "candidaturaId2026": "210002535664",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "210001648963",
+      "candidaturaId2026": "210002535698",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "220001643595",
+      "candidaturaId2026": "220002536880",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "220001713749",
+      "candidaturaId2026": "220002537554",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "230001604276",
+      "candidaturaId2026": "230002533367",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001610965",
+      "candidaturaId2026": "240002541931",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001610968",
+      "candidaturaId2026": "240002539382",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001610972",
+      "candidaturaId2026": "240002539376",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001610974",
+      "candidaturaId2026": "240002539378",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001610976",
+      "candidaturaId2026": "240002539384",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001611127",
+      "candidaturaId2026": "240002537073",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001614329",
+      "candidaturaId2026": "240002539368",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001614337",
+      "candidaturaId2026": "240002539964",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001614339",
+      "candidaturaId2026": "240002539963",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001614342",
+      "candidaturaId2026": "240002539970",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001614346",
+      "candidaturaId2026": "240002539988",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001614348",
+      "candidaturaId2026": "240002539977",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "240001614350",
+      "candidaturaId2026": "240002539971",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610109",
+      "candidaturaId2026": "250002535936",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610113",
+      "candidaturaId2026": "250002536358",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610117",
+      "candidaturaId2026": "250002536429",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610121",
+      "candidaturaId2026": "250002536419",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610124",
+      "candidaturaId2026": "250002536410",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610126",
+      "candidaturaId2026": "250002536393",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610129",
+      "candidaturaId2026": "250002536367",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610130",
+      "candidaturaId2026": "250002536380",
+      "origem": "coincidencia_documental_adicional",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610134",
+      "candidaturaId2026": "250002536423",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610136",
+      "candidaturaId2026": "250002536395",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610138",
+      "candidaturaId2026": "250002536389",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610140",
+      "candidaturaId2026": "250002536352",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610141",
+      "candidaturaId2026": "250002536407",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610161",
+      "candidaturaId2026": "250002541308",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610193",
+      "candidaturaId2026": "250002536406",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001610201",
+      "candidaturaId2026": "250002536366",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611311",
+      "candidaturaId2026": "250002535972",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611324",
+      "candidaturaId2026": "250002535959",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611327",
+      "candidaturaId2026": "250002535991",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611329",
+      "candidaturaId2026": "250002535955",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611333",
+      "candidaturaId2026": "250002535958",
+      "origem": "coincidencia_documental_adicional",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611335",
+      "candidaturaId2026": "250002535951",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611336",
+      "candidaturaId2026": "250002535980",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611345",
+      "candidaturaId2026": "250002535968",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611351",
+      "candidaturaId2026": "250002535982",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611357",
+      "candidaturaId2026": "250002535954",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "250001611371",
+      "candidaturaId2026": "250002535948",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "270001643553",
+      "candidaturaId2026": "270002544470",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "270001643572",
+      "candidaturaId2026": "270002544482",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "270001643578",
+      "candidaturaId2026": "270002544478",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "30001648512",
+      "candidaturaId2026": "30002538084",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "40001633325",
+      "candidaturaId2026": "40002542968",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "40001633336",
+      "candidaturaId2026": "40002542971",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "40001633341",
+      "candidaturaId2026": "40002542965",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "50001609344",
+      "candidaturaId2026": "50002532900",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "50001609349",
+      "candidaturaId2026": "50002532910",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "50001609371",
+      "candidaturaId2026": "50002532899",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "50001609451",
+      "candidaturaId2026": "50002535102",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "60001614161",
+      "candidaturaId2026": "60002536979",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "60001614163",
+      "candidaturaId2026": "60002536967",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "60001614168",
+      "candidaturaId2026": "60002536984",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "60001633791",
+      "candidaturaId2026": "60002536977",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "60001633828",
+      "candidaturaId2026": "60002542832",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "70001615869",
+      "candidaturaId2026": "70002550319",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "70001615870",
+      "candidaturaId2026": "70002550019",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "70001615877",
+      "candidaturaId2026": "70002550009",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "70001615922",
+      "candidaturaId2026": "70002552934",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "70001615924",
+      "candidaturaId2026": "70002550322",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "80001648787",
+      "candidaturaId2026": "80002549411",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "80001648792",
+      "candidaturaId2026": "80002549430",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "80001648800",
+      "candidaturaId2026": "80002549698",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "90001652508",
+      "candidaturaId2026": "90002543556",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": false
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "90001652511",
+      "candidaturaId2026": "90002542624",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": true,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    },
+    {
+      "candidaturaId2022": "90001653796",
+      "candidaturaId2026": "90002543783",
+      "origem": "sugestao_por_nome_e_uf",
+      "resultadoConferencia": "coincidencia_documental",
+      "estadoRevisao": "pendente_revisao_humana",
+      "qualidadeFonte2022": "apto_para_comparacao",
+      "qualidadeFonte2026": "apto_para_comparacao",
+      "comparacaoPublica": {
+        "mesmoNomeCompleto": false,
+        "mesmaUf": true,
+        "mesmoCargo": true
+      },
+      "alertasCadastrais": []
+    }
+  ]
+}

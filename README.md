@@ -4,6 +4,8 @@ Protótipo de plataforma pública para consultar dados eleitorais com metodologi
 
 **Estado do projeto:** consulta eleitoral e documental, com cobertura jurídica parcial e revisão editorial. Não há rankings de integridade nem presunção de culpa.
 
+A reconciliação entre eleições possui [144 pares com evidências oficiais para revisão humana](docs/reconciliacao-identidades.md); nenhum vínculo foi confirmado automaticamente.
+
 **Site:** https://raonicaselli.github.io/observatorio-integridade/
 
 ## O que já funciona
