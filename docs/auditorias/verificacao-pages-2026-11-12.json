@@ -1,0 +1,71 @@
+{
+  "consultaUtc": "2026-11-12T15:43:02.593585+00:00",
+  "commitPublicado": "6367f853784778a924a0c8cd8d860df259d18303",
+  "runId": 43221001459,
+  "artifactId": 13945882891,
+  "baseUrl": "https://raonicaselli.github.io/observatorio-integridade/",
+  "arquivos": [
+    {
+      "caminho": "index.html",
+      "statusHttp": 200,
+      "bytes": 636,
+      "sha256": "1a3013c11e82a81aa4c271336d1ecdbd6011e1a9cb3c0524a76bae9ba1fa3dac",
+      "identicoAoArtefato": true
+    },
+    {
+      "caminho": "data/eleitos-2022.json",
+      "statusHttp": 200,
+      "bytes": 92962,
+      "sha256": "0b37334415d862592c10ae6d5c9ff43c0caadf8af0fe92c9105ff3320312c218",
+      "identicoAoArtefato": true
+    },
+    {
+      "caminho": "data/eleitos-2026.json",
+      "statusHttp": 200,
+      "bytes": 126979,
+      "sha256": "aafa2adcafe94d7fc08775b9465dc415860d137b5856f53c4f6ccb1ba71ca2f5",
+      "identicoAoArtefato": true
+    },
+    {
+      "caminho": "data/ocorrencias-publicadas.json",
+      "statusHttp": 200,
+      "bytes": 46954,
+      "sha256": "feecb74c456b90a9c5a5603fb0dd7021dc1a0bf9d1232e9774e780844a05b365",
+      "identicoAoArtefato": true
+    },
+    {
+      "caminho": "data/cobertura-pesquisa.json",
+      "statusHttp": 200,
+      "bytes": 119702,
+      "sha256": "85bcb9908fb34df38c7024d64dd43b92aa0bb1206c3525e9e404ed5f089658be",
+      "identicoAoArtefato": true
+    },
+    {
+      "caminho": "assets/index-Bi27ASy0.js",
+      "statusHttp": 200,
+      "bytes": 180901,
+      "sha256": "72d0f3383bea43d5856659a468ed4dab904a2eea433779e301697a5c0d103532",
+      "identicoAoArtefato": true
+    },
+    {
+      "caminho": "assets/index-DSB6bwBG.css",
+      "statusHttp": 200,
+      "bytes": 17412,
+      "sha256": "29ea1143497889ef85ec74703f80d1897b1c694b81572bddb27cdc0850c022ad",
+      "identicoAoArtefato": true
+    }
+  ],
+  "eleicao2026": {
+    "candidaturas": 358,
+    "atualizadoEm": "2026-11-11",
+    "turnos": [
+      1,
+      2
+    ],
+    "distribuicaoPorTurno": {
+      "1": 358
+    }
+  },
+  "runUrl": "https://github.com/raonicaselli/observatorio-integridade/actions/runs/43221001459",
+  "limites": "Comparação HTTP dos arquivos e artefato publicado, sem teste interativo em navegador. Não comprova atualização jurídica ou auditoria independente do TSE."
+}

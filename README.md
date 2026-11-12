@@ -35,7 +35,7 @@ O projeto não é afiliado ao Tribunal Superior Eleitoral. A partir dos arquivos
 Requer Node.js 22+ e Python 3.10+ (importação e testes):
 
 ```sh
-npm install --package-lock=false
+npm ci
 npm test
 npm run validate:2026
 npm run validate:data
@@ -49,6 +49,8 @@ Para gerar o site estático:
 ```sh
 npm run build
 ```
+
+A instalação e a conferência do site publicado estão documentadas em [verificação do Pages](docs/verificacao-pages.md).
 
 A saída fica em `dist/`. O deploy automático do GitHub Pages ocorre após alterações aprovadas na branch `main` por meio de `.github/workflows/deploy.yml`.
 

@@ -30,7 +30,7 @@ jobs:
         with:
           node-version: '22'
       - name: Instalar dependências
-        run: npm install
+        run: npm ci
       - name: Executar testes
         run: npm test
       - name: Validar decisões de identidade e preservar histórico
