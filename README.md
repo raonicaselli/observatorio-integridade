@@ -66,7 +66,7 @@ Em 11/11/2026, foram cotejadas as fontes dos 13 registros, com correções e lim
 
 ## Próxima estrutura documental
 
-O [contrato v2 de casos e eventos](docs/contrato-casos-v2.md) define participantes, imputações, decisões, recursos, fontes e retificações. Execute `npm run validate:exemplo-v2` para conferir o exemplo fictício. Ele não é publicado no site; a base jurídica real continua em v1 até uma migração revisada.
+O [contrato v2 de casos e eventos](docs/contrato-casos-v2.md) define participantes, imputações, decisões, recursos, fontes e retificações. Execute `npm run validate:exemplo-v2` para conferir o exemplo fictício. O exemplo não é publicado no site. O [primeiro lote real aprovado, AP 2782](docs/auditorias/migracao-v2-2026-11-12/README.md), possui dois eventos no pacote v2 e manifesto de correspondência; valide com `npm run validate:piloto-v2`. A interface continua usando v1 até a integração da linha do tempo, sem duplicar a contagem de ocorrências.
 
 ## Como contribuir
 

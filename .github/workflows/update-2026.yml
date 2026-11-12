@@ -38,6 +38,7 @@ jobs:
           npm run validate:ocorrencias
           npm run validate:coverage -- --anterior "$RUNNER_TEMP/cobertura-anterior.json"
           npm run validate:2026
+          npm run validate:piloto-v2
           node scripts/reconcile-elections.mjs
           npm run build
       - name: Gerar comparação auditável

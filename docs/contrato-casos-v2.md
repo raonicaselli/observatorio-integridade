@@ -1,8 +1,9 @@
 # Contrato v2 — casos, processos e eventos documentados
 
-Esta é a base técnica para uma migração futura. A versão 1 continua sendo usada
-em `public/data/ocorrencias-publicadas.json` e na interface. Este contrato não
-migra, publica nem reaprova os 13 registros existentes.
+A versão 1 continua sendo usada em `public/data/ocorrencias-publicadas.json` e
+na interface. O [primeiro lote aprovado](auditorias/migracao-v2-2026-11-12/README.md)
+coexiste no pacote v2, com dois eventos da AP 2782 e correspondência rastreável.
+O contrato não migra nem reaprova automaticamente os demais registros.
 
 A implementação normativa é `scripts/lib/casos-v2.mjs`; o
 [exemplo JSON](exemplos/casos-v2-ficticios.json) tem duas pessoas, um caso, dois
@@ -16,10 +17,11 @@ Representar o que aconteceu em cada procedimento, com resultado por participante
 e imputação, distinguindo acusação, decisão, recurso e desfecho. Não gerar ranking,
 presumir culpa ou tratar ausência de registros como inexistência de processos.
 
-O v2 deste PR representa atos oficiais: pedido de apuração, investigação e fases
+O v2 representa atos oficiais: pedido de apuração, investigação e fases
 processuais. Apuração exclusivamente jornalística continua sujeita ao contrato v1;
-não convertê-la em ato oficial para encaixar neste modelo. Não há coleta remota,
-exportador, nova base pública, banco de dados ou mudança de interface neste PR.
+não convertê-la em ato oficial para encaixar neste modelo. O contrato não
+implementa coleta remota, exportador ou banco de dados. A publicação estática do
+piloto tem validação própria; a interface ainda usa v1.
 
 ## Pacote e regras comuns
 
@@ -255,8 +257,9 @@ para contornar isso. Candidaturas fictícias não correspondem aos cadastros rea
 
 O CLI exige arquivo explícito, retorna erro não zero em falhas, rejeita flags
 desconhecidas e não escreve arquivos. Não filtra registros pendentes nem altera
-flags de revisão para fazer um pacote passar. CI e deploy conferem o exemplo e
-executam os testes; nada em `docs/exemplos` é copiado para o site pelo build atual.
+flags de revisão para fazer um pacote passar. CI e deploy conferem o exemplo, executam os testes e validam o piloto real com
+`npm run validate:piloto-v2`, comparando o v2 anterior quando disponível. Nada em
+`docs/exemplos` é copiado para o site pelo build atual.
 
 ## Migração dos registros existentes: próxima entrega
 
@@ -281,7 +284,8 @@ retotalização retirar uma candidatura, uma migração histórica precisará fo
 à API do validador o cadastro histórico oficial correspondente, preservado e
 revisado. Não apagar histórico jurídico só porque a candidatura saiu da lista atual.
 
-Não há banco editorial privado ou integração de publicação v2 nesta entrega.
-Caso seja preciso corrigir identidade, retirar material ou cumprir restrição de
+Não há banco editorial privado. O piloto v2 é publicado como JSON após validação,
+sem consumo pela interface até a integração específica. Caso seja preciso
+corrigir identidade, retirar material ou cumprir restrição de
 acesso, o fluxo de correção precisa ser desenvolvido e revisado antes de usar
 este contrato em produção; o validador não resolve essas decisões jurídicas.
