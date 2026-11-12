@@ -1,0 +1,90 @@
+{
+  "metadados": {
+    "dataConsulta": "2026-11-12",
+    "escopo": "Reconsulta técnica de oito URLs já utilizadas na rodada11/11. Não é auditoria integral dos autos nem nova aprovação jurídica.",
+    "limites": "HTTP200, tamanho ou hash não demonstram teor jurídico ou ausência de recursos. Não foram alterados os registros públicos ou a cobertura.",
+    "pesquisaPrivada": "Peças e anotações não aprovadas permanecem fora do repositório público."
+  },
+  "acessos": [
+    {
+      "id": "ap2782-decisao",
+      "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391297623&ext=.pdf",
+      "dataConsulta": "2026-11-12",
+      "obtidoEmUtc": "2026-11-12T15:42:13.642384+00:00",
+      "statusHttp": 200,
+      "bytesResposta": 0,
+      "sha256Resposta": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "resultadoTecnico": "resposta_vazia"
+    },
+    {
+      "id": "ap2782-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7505277",
+      "dataConsulta": "2026-11-12",
+      "obtidoEmUtc": "2026-11-12T15:42:13.643242+00:00",
+      "statusHttp": 200,
+      "bytesResposta": 1945216,
+      "sha256Resposta": "15e8b958615c962146283c6f18eaaafba4832f349761de1cfeda50fd1f562828",
+      "resultadoTecnico": "conteudo_publico_recebido"
+    },
+    {
+      "id": "ap2782-partes",
+      "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7505277",
+      "dataConsulta": "2026-11-12",
+      "obtidoEmUtc": "2026-11-12T15:42:13.643662+00:00",
+      "statusHttp": 200,
+      "bytesResposta": 2157,
+      "sha256Resposta": "6050c7ca4e926e6768d121285ba4e53f637582374a991792f82e1f361b5faa34",
+      "resultadoTecnico": "conteudo_publico_recebido"
+    },
+    {
+      "id": "ap2670-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7228118",
+      "dataConsulta": "2026-11-12",
+      "obtidoEmUtc": "2026-11-12T15:42:13.644155+00:00",
+      "statusHttp": 200,
+      "bytesResposta": 6510496,
+      "sha256Resposta": "5bfdfc03bce52d8d58af36011ae0e3e52b6c7653b1cd4a50ca94691efb008f98",
+      "resultadoTecnico": "conteudo_publico_recebido"
+    },
+    {
+      "id": "ap1053-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=6605389",
+      "dataConsulta": "2026-11-12",
+      "obtidoEmUtc": "2026-11-12T15:42:15.214902+00:00",
+      "statusHttp": 200,
+      "bytesResposta": 1077610,
+      "sha256Resposta": "13bd3edbab3d78a16030bf9e270bb4b1170701c089d0b9a33699d45b37adf0dc",
+      "resultadoTecnico": "conteudo_publico_recebido"
+    },
+    {
+      "id": "inq4974-andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7032771",
+      "dataConsulta": "2026-11-12",
+      "obtidoEmUtc": "2026-11-12T15:42:15.355814+00:00",
+      "statusHttp": 200,
+      "bytesResposta": 1066658,
+      "sha256Resposta": "5a4bc80e593a39e45c2445d52b5638e7c5964d82ac92a5e578a65cc84cd5afa3",
+      "resultadoTecnico": "conteudo_publico_recebido"
+    },
+    {
+      "id": "pje",
+      "url": "https://consultaunificadapje.tse.jus.br/",
+      "dataConsulta": "2026-11-12",
+      "obtidoEmUtc": "2026-11-12T15:42:17.105036+00:00",
+      "statusHttp": 200,
+      "bytesResposta": 48246,
+      "sha256Resposta": "e37afc40aaafd094da43224a5b7c1ac77d0e84afa25b82622fcb443d0de7622b",
+      "resultadoTecnico": "pagina_de_protecao_sem_consulta_processual"
+    },
+    {
+      "id": "pje-main",
+      "url": "https://consultaunificadapje.tse.jus.br/main-es2015.8f717ddedcc477dfe4b7.js",
+      "dataConsulta": "2026-11-12",
+      "obtidoEmUtc": "2026-11-12T15:42:17.198909+00:00",
+      "statusHttp": 503,
+      "bytesResposta": null,
+      "sha256Resposta": null,
+      "resultadoTecnico": "erro_http_url_script_da_rodada_anterior"
+    }
+  ]
+}
