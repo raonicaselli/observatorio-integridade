@@ -1,0 +1,78 @@
+{
+  "metadados": {
+    "finalidade": "exemplo_ficticio",
+    "limites": "Registros inteiramente fictícios; não são pesquisa jurídica."
+  },
+  "ocorrencias": [
+    {
+      "id": "ocorrencia-ficticia-ana",
+      "idCaso": "caso-v1-ficticio",
+      "candidaturaId": "00000000001",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "penal",
+      "situacaoProcessual": "outro",
+      "titulo": "Ocorrência inteiramente fictícia 1",
+      "resumo": "Síntese fictícia preservada para conferir a correspondência.",
+      "descricaoSituacao": "Condenação fictícia e absolvição parcial, com recurso e reforma.",
+      "limites": "Exemplo sintético sem afirmação sobre pessoa real.",
+      "posicionamentoEnvolvido": "Defesa fictícia registrada apenas para teste.",
+      "dataMarco": "2026-06-01",
+      "periodoFatos": "Período fictício não determinado",
+      "partidoNosFatos": "Não determinado",
+      "orgao": "Tribunal fictício",
+      "processoNumero": "Número fictício",
+      "dataRevisao": "2026-06-10",
+      "fontes": [
+        {
+          "url": "https://example.org/fonte-sentenca",
+          "titulo": "Documento processual fictício",
+          "instituicao": "Instituição fictícia",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      }
+    },
+    {
+      "id": "ocorrencia-ficticia-bia",
+      "idCaso": "caso-v1-ficticio",
+      "candidaturaId": "00000000002",
+      "statusEditorial": "publicado",
+      "tipoRegistro": "processo_ou_decisao",
+      "categoria": "penal",
+      "situacaoProcessual": "outro",
+      "titulo": "Ocorrência inteiramente fictícia 2",
+      "resumo": "Síntese fictícia preservada para conferir a correspondência.",
+      "descricaoSituacao": "Arquivamento fictício favorável à participante.",
+      "limites": "Exemplo sintético sem afirmação sobre pessoa real.",
+      "posicionamentoEnvolvido": "Defesa fictícia registrada apenas para teste.",
+      "dataMarco": "2026-06-01",
+      "periodoFatos": "Período fictício não determinado",
+      "partidoNosFatos": "Não determinado",
+      "orgao": "Tribunal fictício",
+      "processoNumero": "Número fictício",
+      "dataRevisao": "2026-06-10",
+      "fontes": [
+        {
+          "url": "https://example.org/fonte-sentenca",
+          "titulo": "Documento processual fictício",
+          "instituicao": "Instituição fictícia",
+          "tipo": "oficial"
+        }
+      ],
+      "revisao": {
+        "responsavel": "Revisora fictícia",
+        "data": "2026-06-10",
+        "confirmacaoIdentidade": true,
+        "verificacaoAtualizacao": true,
+        "liberacaoPublica": true
+      }
+    }
+  ]
+}

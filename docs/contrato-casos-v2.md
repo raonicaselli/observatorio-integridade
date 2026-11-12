@@ -260,6 +260,10 @@ executam os testes; nada em `docs/exemplos` é copiado para o site pelo build at
 
 ## Migração dos registros existentes: próxima entrega
 
+A [conferência de correspondências v1/v2](migracao-v1-v2.md) verifica um manifesto
+explicitamente revisado, com preservação do registro original e dos vínculos.
+Ela não converte ou publica os dados e não substitui as etapas abaixo.
+
 1. Revalidar cada registro real em fontes oficiais, com data da consulta efetiva,
    recursos, resultados favoráveis e defesa. Não copiar `dataRevisao` como se fosse
    data de consulta de uma fonte que não foi registrada.
