@@ -1,7 +1,8 @@
 # Contrato v2 — casos, processos e eventos documentados
 
 A versão 1 continua sendo usada em `public/data/ocorrencias-publicadas.json` e
-na interface. O [primeiro lote aprovado](auditorias/migracao-v2-2026-11-12/README.md)
+nas sínteses da interface; a linha do tempo acrescenta os eventos v2 aprovados
+às fichas com correspondência revisada. O [primeiro lote aprovado](auditorias/migracao-v2-2026-11-12/README.md)
 coexiste no pacote v2, com dois eventos da AP 2782 e correspondência rastreável.
 O contrato não migra nem reaprova automaticamente os demais registros.
 
@@ -21,7 +22,8 @@ O v2 representa atos oficiais: pedido de apuração, investigação e fases
 processuais. Apuração exclusivamente jornalística continua sujeita ao contrato v1;
 não convertê-la em ato oficial para encaixar neste modelo. O contrato não
 implementa coleta remota, exportador ou banco de dados. A publicação estática do
-piloto tem validação própria; a interface ainda usa v1.
+piloto tem validação própria; a interface mantém v1 e apresenta a linha do tempo
+v2 apenas nos registros com correspondência revisada.
 
 ## Pacote e regras comuns
 
@@ -285,7 +287,7 @@ retotalização retirar uma candidatura, uma migração histórica precisará fo
 revisado. Não apagar histórico jurídico só porque a candidatura saiu da lista atual.
 
 Não há banco editorial privado. O piloto v2 é publicado como JSON após validação,
-sem consumo pela interface até a integração específica. Caso seja preciso
+com consumo na linha do tempo das fichas mapeadas. Caso seja preciso
 corrigir identidade, retirar material ou cumprir restrição de
 acesso, o fluxo de correção precisa ser desenvolvido e revisado antes de usar
 este contrato em produção; o validador não resolve essas decisões jurídicas.
