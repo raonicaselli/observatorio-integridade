@@ -1,5 +1,6 @@
 import React from 'react'
 import ProcessReference from './ProcessReference.jsx'
+import CaseTimeline from './CaseTimeline.jsx'
 import { ExternalLink, FileSearch, ShieldAlert } from 'lucide-react'
 
 const tipos = {
@@ -15,13 +16,15 @@ const categorias = {
  administrativa:'Esfera administrativa',
  outra:'Outra natureza'
 }
-export default function OccurrencesPanel({ candidaturaId, dados, indisponivel=false }) {
+export default function OccurrencesPanel({ candidaturaId, dados, indisponivel=false, timelines=null }) {
  const publicadas = (dados?.ocorrencias || []).filter(o =>
   o.statusEditorial === 'publicado' && String(o.candidaturaId) === String(candidaturaId)
  ).sort((a,b)=>String(b.dataMarco).localeCompare(String(a.dataMarco)))
 
  return <section className="occ-section" aria-labelledby="occ-heading">
   <h3 id="occ-heading">Ocorrências documentadas</h3>
+  {!indisponivel && publicadas.length>0 && timelines?.status==='loading' && <p role="status">Carregando linha do tempo… O registro documental permanece disponível abaixo.</p>}
+  {!indisponivel && publicadas.length>0 && timelines?.status==='error' && <p role="alert">A linha do tempo está temporariamente indisponível. O registro documental permanece disponível abaixo.</p>}
   {indisponivel ? <div className="occ-empty"><ShieldAlert size={20}/><p>A consulta das ocorrências está temporariamente indisponível. Nenhuma conclusão pode ser tirada daqui.</p></div> :
    publicadas.length===0 ? <div className="occ-empty"><FileSearch size={20}/><p>Nenhuma ocorrência jurídica revisada foi publicada para este perfil nesta versão. Isso <strong>não</strong> significa ausência de processos, investigações ou antecedentes.</p></div> :
    <div className="occ-list">{publicadas.map(o=><article key={o.id} className="occ-item">
@@ -34,6 +37,7 @@ export default function OccurrencesPanel({ candidaturaId, dados, indisponivel=fa
     <div className="occ-qualification"><strong>Limites da informação:</strong> {o.limites}</div>
     <div className="occ-qualification"><strong>Posicionamento do envolvido:</strong> {o.posicionamentoEnvolvido}</div>
     <div className="occ-metadata">{o.orgao && <span>Órgão: {o.orgao}</span>}<span>Período dos fatos: {o.periodoFatos}</span><span>Filiação nos fatos: {o.partidoNosFatos}</span><span>Revisão: {o.dataRevisao}</span></div>
+    <CaseTimeline timeline={timelines?.status==='ready' ? timelines.index.get(o.id) : null}/>
     <div className="occ-sources"><strong>Fontes</strong>{o.fontes.map(f=><a key={f.url} href={f.url} target="_blank" rel="noopener noreferrer">{f.instituicao} — {f.titulo} <ExternalLink size={13}/></a>)}</div>
    </article>)}</div>
   }

@@ -47,3 +47,13 @@
 .year-toggle{display:inline-flex;border:1px solid #d8e5dc;background:white;border-radius:9px;padding:4px;gap:3px;margin:22px 0 16px}.year-toggle button{border:0;border-radius:7px;background:transparent;padding:10px 18px;color:#63796c;font-size:13px;font-weight:800}.year-toggle button.active{background:#19563b;color:white}.import-notice{border:1px solid #d6e7d9;border-radius:9px;background:#f2f8f3;padding:13px 16px;font-size:13px;line-height:1.7;color:#3b5d48;margin:6px 0 20px}.import-notice a{text-decoration:underline;font-weight:800}
 
 .process-reference{overflow-wrap:anywhere}
+
+.case-timeline{margin:18px 0;border-top:1px solid #dce6de;padding-top:16px;min-width:0}
+.case-timeline h5{font:800 14px/1.5 Manrope,sans-serif;margin:0 0 8px}
+.case-timeline>ol{list-style:none;padding:0 0 0 16px;border-left:2px solid #bfd9c9;margin:18px 0}
+.case-timeline>ol>li{padding:0 0 22px 8px;overflow-wrap:anywhere}
+.case-timeline time{font-size:12px;font-weight:800;color:#31654b}
+.case-timeline h6{font:800 13px/1.5 Manrope,sans-serif;margin:5px 0}
+.case-timeline summary{cursor:pointer;color:#236e4b;font-size:12px;font-weight:800;padding:6px 0}
+.case-timeline details ul{padding-left:18px}.case-timeline details li{margin:12px 0}
+.case-timeline a{color:#1e744e;text-decoration:underline;font-size:12px;overflow-wrap:anywhere}
