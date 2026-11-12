@@ -16,6 +16,7 @@ A reconciliação entre eleições possui [144 pares com evidências oficiais pa
 - Filtros por UF e cargo, resultados paginados e ficha individual.
 - Link compartilhável para cada candidatura: `?id=SQ_CANDIDATO`.
 - Exportação eleitoral em CSV para 2022 e JSON para 2026.
+- Busca de ocorrências por nome, assunto, órgão ou número de processo, com ou sem pontuação. O número documentado é exibido nos resultados e nas fichas.
 - 13 ocorrências jurídicas publicadas, com validação editorial automatizada, fontes e ressalvas. Isso não significa pesquisa completa nem atualização dos autos nesta entrega eleitoral.
 - Separação entre **apuração jornalística**, **pedido de apuração**, **investigação oficial** e **processo/decisão**, com critérios distintos para fontes e contraditório.
 - Controle rastreável de cobertura das candidaturas de 2022 e 2026 em `public/data/cobertura-pesquisa.json`, com [protocolo de pesquisa](docs/cobertura-documental.md). O registro antigo de 2022 é preservado como legado; triagem e publicação de ocorrência não significam revisão concluída.

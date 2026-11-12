@@ -9,6 +9,7 @@ const server = await createServer({ server: { middlewareMode: true }, appType: '
 after(() => server.close())
 const { default: CasesExplorer } = await server.ssrLoadModule('/src/CasesExplorer.jsx')
 const { default: ElectionScopeNotice } = await server.ssrLoadModule('/src/ElectionScopeNotice.jsx')
+const { default: OccurrencesPanel } = await server.ssrLoadModule('/src/OccurrencesPanel.jsx')
 const render = props => renderToStaticMarkup(React.createElement(CasesExplorer, {
  records: [], onOpen() {}, ...props
 }))
@@ -68,4 +69,47 @@ test('aviso não declara segundo turno para base antiga', () => {
  assert.equal(renderToStaticMarkup(React.createElement(ElectionScopeNotice, {
   metadata: { turno: 1 }
  })), '')
+})
+
+
+const documented = {
+ id: 'ocorrencia-ficticia', idCaso: 'caso-ficticio', candidaturaId: 'candidatura-ficticia',
+ statusEditorial: 'publicado', tipoRegistro: 'processo_ou_decisao', categoria: 'penal',
+ dataMarco: '2026-11-01', titulo: 'Decisão inteiramente fictícia', resumo: 'Exemplo sintético',
+ descricaoSituacao: 'Absolvição fictícia', limites: 'Sem valor documental real',
+ posicionamentoEnvolvido: 'Defesa fictícia preservada', periodoFatos: 'Não informado',
+ partidoNosFatos: 'Não informado', dataRevisao: '2026-11-11', orgao: 'Tribunal fictício',
+ processoNumero: 'AP 9876 — número único 1234567-89.2026.1.00.0000',
+ fontes: [{ instituicao: 'Fonte fictícia', titulo: 'Documento fictício', url: 'https://example.org/fonte-ficticia' }]
+}
+
+test('lista apresenta número de processo original e contagens de casos e candidaturas', () => {
+ const html = render({ data: { ocorrencias: [documented] } })
+ assert.match(html, /Processo:<\/strong> AP 9876 — número único 1234567-89.2026.1.00.0000/)
+ assert.match(html, /Casos documentados/)
+ assert.match(html, /Candidaturas com registros/)
+ assert.doesNotMatch(html, /Episódios independentes|Políticos com registros/)
+})
+
+test('ficha mostra processo sem perder defesa, resultado favorável, ressalvas e fonte', () => {
+ const html = renderToStaticMarkup(React.createElement(OccurrencesPanel, {
+  candidaturaId: documented.candidaturaId, dados: { ocorrencias: [documented] }
+ }))
+ assert.match(html, /Processo:<\/strong> AP 9876 — número único 1234567-89.2026.1.00.0000/)
+ assert.match(html, /Absolvição fictícia/)
+ assert.match(html, /Defesa fictícia preservada/)
+ assert.match(html, /Sem valor documental real/)
+ assert.match(html, /href="https:\/\/example.org\/fonte-ficticia"/)
+})
+
+test('número ausente não inventa processo nem oculta ocorrência', () => {
+ const row = { ...documented, processoNumero: null }
+ const list = render({ data: { ocorrencias: [row] } })
+ const profile = renderToStaticMarkup(React.createElement(OccurrencesPanel, {
+  candidaturaId: row.candidaturaId, dados: { ocorrencias: [row] }
+ }))
+ for (const html of [list, profile]) {
+  assert.doesNotMatch(html, /Processo:<\/strong>|undefined|null/)
+  assert.match(html, /Decisão inteiramente fictícia/)
+ }
 })

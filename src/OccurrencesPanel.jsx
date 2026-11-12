@@ -1,4 +1,5 @@
 import React from 'react'
+import ProcessReference from './ProcessReference.jsx'
 import { ExternalLink, FileSearch, ShieldAlert } from 'lucide-react'
 
 const tipos = {
@@ -27,6 +28,7 @@ export default function OccurrencesPanel({ candidaturaId, dados, indisponivel=fa
     <div className="occ-category"><span>{categorias[o.categoria] || 'Outra natureza'}</span><span>{o.dataMarco}</span></div>
     <div className="occ-type">{tipos[o.tipoRegistro] || 'Situação em verificação'}</div>
     <h4>{o.titulo}</h4>
+    <ProcessReference number={o.processoNumero}/>
     <p>{o.resumo}</p>
     <div className="occ-process"><strong>Situação documentada:</strong> {o.descricaoSituacao}</div>
     <div className="occ-qualification"><strong>Limites da informação:</strong> {o.limites}</div>
