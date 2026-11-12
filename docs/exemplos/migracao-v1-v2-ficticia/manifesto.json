@@ -1,0 +1,120 @@
+{
+  "versao": 1,
+  "finalidade": "exemplo_ficticio",
+  "origemSha256": "ee27734e766262ccc39d62bf9fae70dcd96e74cc21b1199fabc05b0056a40a26",
+  "destinoSha256": "347bff357b6fa6463025e36d9008c0225d029191fe53b1ad0dfbdd013bb9d720",
+  "data": "2026-06-10",
+  "revisao": {
+    "responsavel": "Revisora fictícia",
+    "data": "2026-06-10",
+    "justificativa": "Aprovação simulada de exemplo inteiramente fictício, sem migração real.",
+    "liberacaoPublica": true
+  },
+  "correspondencias": [
+    {
+      "ocorrenciaId": "ocorrencia-ficticia-ana",
+      "candidaturaId": "candidatura-ficticia-ana",
+      "participacaoId": "participacao-ana",
+      "eventosIds": [
+        "evento-condenacao",
+        "evento-absolvicao-parcial",
+        "evento-recurso",
+        "evento-reforma",
+        "evento-retificacao"
+      ],
+      "registroOriginal": {
+        "id": "ocorrencia-ficticia-ana",
+        "idCaso": "caso-v1-ficticio",
+        "candidaturaId": "00000000001",
+        "statusEditorial": "publicado",
+        "tipoRegistro": "processo_ou_decisao",
+        "categoria": "penal",
+        "situacaoProcessual": "outro",
+        "titulo": "Ocorrência inteiramente fictícia 1",
+        "resumo": "Síntese fictícia preservada para conferir a correspondência.",
+        "descricaoSituacao": "Condenação fictícia e absolvição parcial, com recurso e reforma.",
+        "limites": "Exemplo sintético sem afirmação sobre pessoa real.",
+        "posicionamentoEnvolvido": "Defesa fictícia registrada apenas para teste.",
+        "dataMarco": "2026-06-01",
+        "periodoFatos": "Período fictício não determinado",
+        "partidoNosFatos": "Não determinado",
+        "orgao": "Tribunal fictício",
+        "processoNumero": "Número fictício",
+        "dataRevisao": "2026-06-10",
+        "fontes": [
+          {
+            "url": "https://example.org/fonte-sentenca",
+            "titulo": "Documento processual fictício",
+            "instituicao": "Instituição fictícia",
+            "tipo": "oficial"
+          }
+        ],
+        "revisao": {
+          "responsavel": "Revisora fictícia",
+          "data": "2026-06-10",
+          "confirmacaoIdentidade": true,
+          "verificacaoAtualizacao": true,
+          "liberacaoPublica": true
+        }
+      },
+      "conferencias": {
+        "identidade": true,
+        "textosELimites": true,
+        "resultadosEDefesa": true,
+        "recursosETransito": true,
+        "fontesEDatas": true
+      }
+    },
+    {
+      "ocorrenciaId": "ocorrencia-ficticia-bia",
+      "candidaturaId": "candidatura-ficticia-bia",
+      "participacaoId": "participacao-bia",
+      "eventosIds": [
+        "evento-arquivamento",
+        "evento-transito"
+      ],
+      "registroOriginal": {
+        "id": "ocorrencia-ficticia-bia",
+        "idCaso": "caso-v1-ficticio",
+        "candidaturaId": "00000000002",
+        "statusEditorial": "publicado",
+        "tipoRegistro": "processo_ou_decisao",
+        "categoria": "penal",
+        "situacaoProcessual": "outro",
+        "titulo": "Ocorrência inteiramente fictícia 2",
+        "resumo": "Síntese fictícia preservada para conferir a correspondência.",
+        "descricaoSituacao": "Arquivamento fictício favorável à participante.",
+        "limites": "Exemplo sintético sem afirmação sobre pessoa real.",
+        "posicionamentoEnvolvido": "Defesa fictícia registrada apenas para teste.",
+        "dataMarco": "2026-06-01",
+        "periodoFatos": "Período fictício não determinado",
+        "partidoNosFatos": "Não determinado",
+        "orgao": "Tribunal fictício",
+        "processoNumero": "Número fictício",
+        "dataRevisao": "2026-06-10",
+        "fontes": [
+          {
+            "url": "https://example.org/fonte-sentenca",
+            "titulo": "Documento processual fictício",
+            "instituicao": "Instituição fictícia",
+            "tipo": "oficial"
+          }
+        ],
+        "revisao": {
+          "responsavel": "Revisora fictícia",
+          "data": "2026-06-10",
+          "confirmacaoIdentidade": true,
+          "verificacaoAtualizacao": true,
+          "liberacaoPublica": true
+        }
+      },
+      "conferencias": {
+        "identidade": true,
+        "textosELimites": true,
+        "resultadosEDefesa": true,
+        "recursosETransito": true,
+        "fontesEDatas": true
+      }
+    }
+  ]
+}
