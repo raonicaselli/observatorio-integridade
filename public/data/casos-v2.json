@@ -1,0 +1,324 @@
+{
+  "metadados": {
+    "versao": 2,
+    "finalidade": "publicacao",
+    "atualizadoEm": "2026-11-12",
+    "escopo": "Piloto documental da AP 2782: uma candidatura de 2022 e dois eventos aprovados pelo mantenedor; demais ocorrências permanecem na base v1.",
+    "limites": "Não é auditoria integral dos autos nem pesquisa concluída. Não migra eleição de 2026 ou AP 1053. Condenação e defesa anteriores permanecem no resumo e no legado; não foram desmembradas em eventos novos. Trânsito da condenação e decisão de execução são atos distintos; execução determinada não prova cumprimento."
+  },
+  "pessoas": [
+    {
+      "id": "pessoa-eduardo-nantes-bolsonaro",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "nome": "EDUARDO NANTES BOLSONARO",
+      "identidade": {
+        "estado": "confirmada",
+        "metodo": "Cotejo documental do nome completo na peça e na aba de partes da AP 2782 com o cadastro TSE da candidatura 250001611374 de 2022, verificado pelo mantenedor no piloto. Não constitui confirmação entre eleições.",
+        "fontesIds": [
+          "fonte-ap2782-decisao",
+          "fonte-ap2782-partes",
+          "fonte-tse-candidaturas-2022"
+        ]
+      }
+    }
+  ],
+  "candidaturas": [
+    {
+      "id": "candidatura-2022-250001611374",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "tseId": "250001611374",
+      "ano": 2022,
+      "pessoaId": "pessoa-eduardo-nantes-bolsonaro",
+      "uf": "SP",
+      "cargo": "DEPUTADO FEDERAL",
+      "partido": "PL",
+      "fontesIds": [
+        "fonte-tse-candidaturas-2022"
+      ]
+    }
+  ],
+  "casos": [
+    {
+      "id": "stf-ap-2782-coacao",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "titulo": "STF declara trânsito em julgado da condenação de Eduardo Bolsonaro na AP 2782",
+      "resumo": "A Primeira Turma do STF condenou Eduardo Bolsonaro em 16/06/2026 a quatro anos e dois meses de reclusão por coação no curso do processo. Em decisão de 07/10/2026, o relator declarou o trânsito em julgado e determinou o início da execução da pena nessa ação penal.",
+      "categoria": "penal",
+      "periodoFatos": {
+        "inicio": null,
+        "fim": null,
+        "descricao": "Condutas investigadas em relação ao julgamento de 2025"
+      },
+      "limites": "A definitividade aqui registrada refere-se exclusivamente à condenação na AP 2782, conforme decisão oficial de 07/10/2026. Não se estende à AP 1053 nem a outros procedimentos. A efetivação de todas as ordens de execução e eventuais medidas autônomas posteriores não foram integralmente auditadas nesta rodada."
+    }
+  ],
+  "processos": [
+    {
+      "id": "processo-ap2782",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "casoId": "stf-ap-2782-coacao",
+      "orgao": "Supremo Tribunal Federal",
+      "classe": "AP",
+      "numero": "2782",
+      "motivoNumeroIndisponivel": null,
+      "instancia": "STF",
+      "processoOrigemId": null,
+      "fontesIds": [
+        "fonte-ap2782-detalhe",
+        "fonte-ap2782-andamentos",
+        "fonte-ap2782-decisao"
+      ]
+    }
+  ],
+  "participacoes": [
+    {
+      "id": "participacao-eduardo-ap2782",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "casoId": "stf-ap-2782-coacao",
+      "pessoaId": "pessoa-eduardo-nantes-bolsonaro",
+      "descricaoVinculo": "Réu identificado no cabeçalho da decisão e na aba pública de partes da AP 2782.",
+      "partidoNosFatos": null,
+      "motivoPartidoDesconhecido": "PL na época da eleição de 2022; filiação na data específica dos fatos não auditada",
+      "imputacoes": [],
+      "fontesIds": [
+        "fonte-ap2782-partes",
+        "fonte-ap2782-decisao",
+        "fonte-ap2782-noticia"
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "id": "fonte-ap2782-noticia",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-4-anos-e-2-meses-de-reclusao-por-tentar-interferir-no-processo-sobre-tentativa-de-golpe/",
+      "titulo": "STF condena Eduardo Bolsonaro por coação no curso do processo",
+      "instituicao": "STF",
+      "tipo": "oficial",
+      "dataPublicacao": null,
+      "dataConsulta": "2026-11-11",
+      "localizador": "Notícia institucional: seção sobre os argumentos da DPU no julgamento; não é inteiro teor nem manifestação posterior sobre execução.",
+      "sha256": "3335523dfdebba6e19f7baa4671e079281928137843b2a9e7add2bd93f290b67"
+    },
+    {
+      "id": "fonte-ap2782-detalhe",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7505277",
+      "titulo": "Consulta processual AP 2782",
+      "instituicao": "Supremo Tribunal Federal",
+      "tipo": "oficial",
+      "dataPublicacao": null,
+      "dataConsulta": "2026-11-11",
+      "localizador": "Página de identificação e classe da AP 2782, incidente 7505277; não certifica andamento recursal completo.",
+      "sha256": "92261b5399cff2662016e4cc88aa2f5ebd1e7dbfd1a05dd62362e56a5d8c4caf"
+    },
+    {
+      "id": "fonte-ap2782-andamentos",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7505277",
+      "titulo": "AP 2782 — andamentos e registro de trânsito em julgado",
+      "instituicao": "Supremo Tribunal Federal",
+      "tipo": "oficial",
+      "dataPublicacao": null,
+      "dataConsulta": "2026-11-12",
+      "localizador": "Extrato público da AP 2782; conteúdo recebido em 12/11/2026. Não comprova inexistência de medidas em outros procedimentos.",
+      "sha256": "15e8b958615c962146283c6f18eaaafba4832f349761de1cfeda50fd1f562828"
+    },
+    {
+      "id": "fonte-ap2782-decisao",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391297623&ext=.pdf",
+      "titulo": "Decisão de 07/10/2026 na AP 2782 — dispositivo nas páginas 6 e 7",
+      "instituicao": "Supremo Tribunal Federal",
+      "tipo": "oficial",
+      "dataPublicacao": null,
+      "dataConsulta": "2026-11-11",
+      "localizador": "Página 6: referência ao trânsito em 03/10 e à certificação em 05/10; páginas 6–7: dispositivo e assinatura da decisão de 07/10. Reconsulta em 12/11 retornou vazia e não renova a consulta da cópia de 11/11.",
+      "sha256": "930e1e4b80c02dbb5f283f9a630d4e342d6293650167e3442dc5d575594c02d3"
+    },
+    {
+      "id": "fonte-ap2782-partes",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7505277",
+      "titulo": "AP 2782 — identificação do réu no portal do STF",
+      "instituicao": "Supremo Tribunal Federal",
+      "tipo": "oficial",
+      "dataPublicacao": null,
+      "dataConsulta": "2026-11-12",
+      "localizador": "Aba pública de partes: réu EDUARDO NANTES BOLSONARO. Cotejo com candidatura TSE 250001611374; sem CPF ou dados pessoais desnecessários.",
+      "sha256": "6050c7ca4e926e6768d121285ba4e53f637582374a991792f82e1f361b5faa34"
+    },
+    {
+      "id": "fonte-tse-candidaturas-2022",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+      "titulo": "TSE — candidaturas de 2022, arquivo nacional",
+      "instituicao": "Tribunal Superior Eleitoral",
+      "tipo": "oficial",
+      "dataPublicacao": null,
+      "dataConsulta": "2026-11-11",
+      "localizador": "consulta_cand_2022_BRASIL.csv; SQ_CANDIDATO 250001611374, nome EDUARDO NANTES BOLSONARO, SP, deputado federal, PL. Hash do ZIP completo; identificadores fiscais não são exportados.",
+      "sha256": "f5a7ab2708698a77f9cbc0559dfb12523e71677fcd49efc8d63f80eb6f5e1ea5"
+    }
+  ],
+  "eventos": [
+    {
+      "id": "evento-ap2782-transito",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "casoId": "stf-ap-2782-coacao",
+      "processoId": "processo-ap2782",
+      "participacaoId": "participacao-eduardo-ap2782",
+      "imputacaoId": null,
+      "ordemNoDia": 10,
+      "fontesIds": [
+        "fonte-ap2782-decisao"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "A Defensoria Pública da União argumentou no julgamento que as manifestações eram exercício de atividade política e parlamentar e não configuravam grave ameaça. Sustentou também que Eduardo Bolsonaro não tinha poder decisório sobre sanções dos Estados Unidos. A Primeira Turma rejeitou esses argumentos ao condená-lo. Argumentos relativos ao julgamento da condenação, preservados como contexto histórico; não apresentados como nova manifestação sobre a decisão de execução.",
+        "fontesIds": [
+          "fonte-ap2782-noticia"
+        ]
+      },
+      "verificacaoAtualizacao": true,
+      "atoId": "ato-ap2782-transito",
+      "tipo": "transito_em_julgado",
+      "data": "2026-10-03",
+      "descricao": "A decisão posterior de 07/10/2026 cita certidão que registra trânsito em julgado em 03/10/2026.",
+      "limites": "A certidão individual citada não foi obtida separadamente. Não confundir com a data de certificação ou da decisão. A definitividade aqui registrada refere-se exclusivamente à condenação na AP 2782, conforme decisão oficial de 07/10/2026. Não se estende à AP 1053 nem a outros procedimentos. A efetivação de todas as ordens de execução e eventuais medidas autônomas posteriores não foram integralmente auditadas nesta rodada.",
+      "recurso": {
+        "situacao": "julgado",
+        "descricao": "A decisão consultada reproduz a rejeição dos embargos e cita sua publicação em 22/09/2026 e o trânsito em 03/10/2026. Não se infere a data do julgamento dos embargos a partir da publicação.",
+        "fontesIds": [
+          "fonte-ap2782-decisao"
+        ]
+      },
+      "transitoEmJulgado": {
+        "situacao": "confirmado",
+        "data": "2026-10-03",
+        "fontesIds": [
+          "fonte-ap2782-decisao"
+        ]
+      },
+      "relacao": null
+    },
+    {
+      "id": "evento-ap2782-execucao",
+      "statusEditorial": "publicado",
+      "revisao": {
+        "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+        "data": "2026-11-12",
+        "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+        "liberacaoPublica": true
+      },
+      "casoId": "stf-ap-2782-coacao",
+      "processoId": "processo-ap2782",
+      "participacaoId": "participacao-eduardo-ap2782",
+      "imputacaoId": null,
+      "ordemNoDia": 10,
+      "fontesIds": [
+        "fonte-ap2782-decisao"
+      ],
+      "defesa": {
+        "situacao": "registrada",
+        "descricao": "A Defensoria Pública da União argumentou no julgamento que as manifestações eram exercício de atividade política e parlamentar e não configuravam grave ameaça. Sustentou também que Eduardo Bolsonaro não tinha poder decisório sobre sanções dos Estados Unidos. A Primeira Turma rejeitou esses argumentos ao condená-lo. Argumentos relativos ao julgamento da condenação, preservados como contexto histórico; não apresentados como nova manifestação sobre a decisão de execução.",
+        "fontesIds": [
+          "fonte-ap2782-noticia"
+        ]
+      },
+      "verificacaoAtualizacao": true,
+      "atoId": "ato-ap2782-execucao",
+      "tipo": "decisao_outro",
+      "data": "2026-10-07",
+      "descricao": "Decisão declara o trânsito em julgado e determina o início da execução da pena nesta ação.",
+      "limites": "Determinação de execução não comprova cumprimento efetivo da pena. Não estender o resultado à AP 1053. A definitividade aqui registrada refere-se exclusivamente à condenação na AP 2782, conforme decisão oficial de 07/10/2026. Não se estende à AP 1053 nem a outros procedimentos. A efetivação de todas as ordens de execução e eventuais medidas autônomas posteriores não foram integralmente auditadas nesta rodada.",
+      "recurso": {
+        "situacao": "nao_verificado",
+        "descricao": "O estado de eventuais recursos ou medidas contra a decisão de execução de 07/10 não foi integralmente auditado. O trânsito da condenação é documentado separadamente no evento de 03/10.",
+        "fontesIds": []
+      },
+      "transitoEmJulgado": {
+        "situacao": "nao_verificado",
+        "data": null,
+        "fontesIds": []
+      },
+      "relacao": {
+        "tipo": "desdobramento_de",
+        "eventoId": "evento-ap2782-transito",
+        "justificativa": "A decisão posterior declara o trânsito já ocorrido e determina o início da execução; o cumprimento efetivo não foi certificado. Não se declara trânsito da decisão de execução."
+      }
+    }
+  ]
+}

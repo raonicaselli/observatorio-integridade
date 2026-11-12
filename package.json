@@ -16,7 +16,8 @@
     "validate:coverage": "node scripts/validate-coverage.mjs",
     "import:2026": "node scripts/import-2026.mjs",
     "validate:2026": "node scripts/validate-2026.mjs",
-    "validate:identidades": "node scripts/validate-identity-decisions.mjs"
+    "validate:identidades": "node scripts/validate-identity-decisions.mjs",
+    "validate:piloto-v2": "node scripts/validate-migration-v1-v2.mjs --origem docs/auditorias/migracao-v2-2026-11-12/origem-v1.json --destino public/data/casos-v2.json --manifesto public/data/migracao-v1-v2.json"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

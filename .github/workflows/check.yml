@@ -26,6 +26,14 @@ jobs:
           else
             npm run validate:identidades
           fi
+      - name: Validar piloto v2 e preservar eventos publicados
+        run: |
+          npm run validate:piloto-v2
+          baseline_path="$(git ls-tree --name-only HEAD^ -- public/data/casos-v2.json)"
+          if [ -n "$baseline_path" ]; then
+            git show HEAD^:public/data/casos-v2.json > "$RUNNER_TEMP/casos-v2-anteriores.json"
+            npm run validate:casos-v2 -- --arquivo public/data/casos-v2.json --anterior "$RUNNER_TEMP/casos-v2-anteriores.json"
+          fi
       - run: npm run validate:exemplo-v2
       - run: npm run validate:data
       - run: npm run validate:ocorrencias

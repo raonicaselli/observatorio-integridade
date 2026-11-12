@@ -103,9 +103,13 @@ não exporta, não filtra e não corrige registros. Falhas retornam código não
 Não execute com rascunhos em CI público: mensagens de erro podem incluir trechos
 dos objetos comparados.
 
-## Próxima entrega de dados
+## Entregas de dados
 
-O primeiro PR com dados reais depende de lote documental revisado e aprovação
+O [primeiro lote aprovado, AP 2782](auditorias/migracao-v2-2026-11-12/README.md),
+usa este manifesto e preserva o snapshot de origem. O fluxo abaixo continua
+obrigatório para os próximos lotes.
+
+Cada PR com dados reais depende de lote documental revisado e aprovação
 humana da correspondência. Deverá manter a base v1 durante a transição e incluir
 justificativa de cada adaptação, snapshot de origem e uma estratégia revisada de
 publicação. A interface de linha do tempo vem depois dessa entrega. Este

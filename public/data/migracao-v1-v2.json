@@ -1,0 +1,90 @@
+{
+  "versao": 1,
+  "finalidade": "publicacao",
+  "origemSha256": "feecb74c456b90a9c5a5603fb0dd7021dc1a0bf9d1232e9774e780844a05b365",
+  "destinoSha256": "ed76b36e6d558cbf654cf8eb45188f95d64c1001be60d63a36fefe02b4dcb036",
+  "data": "2026-11-12",
+  "revisao": {
+    "responsavel": "Mantenedor do projeto — verificação confirmada nesta sessão",
+    "data": "2026-11-12",
+    "justificativa": "Ficha privada do piloto AP 2782 verificada pelo mantenedor nesta sessão em 12/11/2026; migração limitada aos dois eventos propostos, com registro v1 preservado e sem associação a 2026.",
+    "liberacaoPublica": true
+  },
+  "correspondencias": [
+    {
+      "ocorrenciaId": "stf-eduardo-ap2782-2026",
+      "candidaturaId": "candidatura-2022-250001611374",
+      "participacaoId": "participacao-eduardo-ap2782",
+      "eventosIds": [
+        "evento-ap2782-transito",
+        "evento-ap2782-execucao"
+      ],
+      "registroOriginal": {
+        "id": "stf-eduardo-ap2782-2026",
+        "idCaso": "stf-ap-2782-coacao",
+        "candidaturaId": "250001611374",
+        "statusEditorial": "publicado",
+        "tipoRegistro": "processo_ou_decisao",
+        "categoria": "penal",
+        "situacaoProcessual": "decisao_definitiva",
+        "titulo": "STF declara trânsito em julgado da condenação de Eduardo Bolsonaro na AP 2782",
+        "resumo": "A Primeira Turma do STF condenou Eduardo Bolsonaro em 16/06/2026 a quatro anos e dois meses de reclusão por coação no curso do processo. Em decisão de 07/10/2026, o relator declarou o trânsito em julgado e determinou o início da execução da pena nessa ação penal.",
+        "descricaoSituacao": "A decisão de 07/10/2026, lançada no andamento de 08/10/2026, declara expressamente o trânsito em julgado da AP 2782 e determina o início da execução da pena. O dispositivo foi conferido nas páginas 6 e 7 da peça oficial, consultada em 11/11/2026.",
+        "limites": "A definitividade aqui registrada refere-se exclusivamente à condenação na AP 2782, conforme decisão oficial de 07/10/2026. Não se estende à AP 1053 nem a outros procedimentos. A efetivação de todas as ordens de execução e eventuais medidas autônomas posteriores não foram integralmente auditadas nesta rodada.",
+        "posicionamentoEnvolvido": "A Defensoria Pública da União argumentou no julgamento que as manifestações eram exercício de atividade política e parlamentar e não configuravam grave ameaça. Sustentou também que Eduardo Bolsonaro não tinha poder decisório sobre sanções dos Estados Unidos. A Primeira Turma rejeitou esses argumentos ao condená-lo.",
+        "dataMarco": "2026-10-07",
+        "periodoFatos": "Condutas investigadas em relação ao julgamento de 2025",
+        "partidoNosFatos": "PL na época da eleição de 2022; filiação na data específica dos fatos não auditada",
+        "orgao": "Supremo Tribunal Federal",
+        "processoNumero": "AP 2782",
+        "dataRevisao": "2026-11-11",
+        "fontes": [
+          {
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-4-anos-e-2-meses-de-reclusao-por-tentar-interferir-no-processo-sobre-tentativa-de-golpe/",
+            "titulo": "STF condena Eduardo Bolsonaro por coação no curso do processo",
+            "instituicao": "STF",
+            "tipo": "oficial"
+          },
+          {
+            "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7505277",
+            "titulo": "Consulta processual AP 2782",
+            "instituicao": "Supremo Tribunal Federal",
+            "tipo": "oficial"
+          },
+          {
+            "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7505277",
+            "titulo": "AP 2782 — andamentos e registro de trânsito em julgado",
+            "instituicao": "Supremo Tribunal Federal",
+            "tipo": "oficial"
+          },
+          {
+            "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391297623&ext=.pdf",
+            "titulo": "Decisão de 07/10/2026 na AP 2782 — dispositivo nas páginas 6 e 7",
+            "instituicao": "Supremo Tribunal Federal",
+            "tipo": "oficial"
+          },
+          {
+            "url": "https://portal.stf.jus.br/processos/abaPartes.asp?incidente=7505277",
+            "titulo": "AP 2782 — identificação do réu no portal do STF",
+            "instituicao": "Supremo Tribunal Federal",
+            "tipo": "oficial"
+          }
+        ],
+        "revisao": {
+          "responsavel": "Checagem documental assistida por IA sob orientação do mantenedor; atualização proposta em PR",
+          "data": "2026-11-11",
+          "confirmacaoIdentidade": true,
+          "verificacaoAtualizacao": true,
+          "liberacaoPublica": true
+        }
+      },
+      "conferencias": {
+        "identidade": true,
+        "textosELimites": true,
+        "resultadosEDefesa": true,
+        "recursosETransito": true,
+        "fontesEDatas": true
+      }
+    }
+  ]
+}
